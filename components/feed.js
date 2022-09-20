@@ -1,5 +1,6 @@
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
+import Content from "./content";
 
 export default function Feed({ title, url, feed_type }) {
   return (
@@ -9,7 +10,7 @@ export default function Feed({ title, url, feed_type }) {
           {title}
         </Link>
       </h2>
-      {feed_type}
+      <Content url={url} feed_type={feed_type}></Content>
     </div>
   );
 }

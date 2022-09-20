@@ -13,7 +13,6 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const data = getHomePageData(params.id);
-  console.log(data);
   return {
     props: {
       data,
