@@ -29,7 +29,14 @@ export default function RssContent({ data, show_feeds }) {
       const feed_class = closeFeed ? "closed" : "open";
       const disclose =
         show_feeds != "always" ? (
-          <a href="#" className="feed_hider">
+          <a
+            href="#"
+            className="feed_hider"
+            onClick={(evt) => {
+              const par = evt.currentTarget.parentNode;
+              par.className = par.className == "open" ? "closed" : "open";
+            }}
+          >
             <i className="fa disclosure"> </i>
           </a>
         ) : null;
