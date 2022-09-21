@@ -8,9 +8,10 @@ export default function HomePageLayout({ title, theme, children }) {
     </div>
   ));
   return (
-    <div className={styles[theme]}>
+    <div>
       <Head>
         <title>{title}</title>
+        <html className={styles[theme]}></html>
       </Head>
       <h1 className={styles.header}>{title}</h1>
       <div className={styles.grid}>{columns}</div>
