@@ -24,14 +24,7 @@ export default function Home({ data: { id, theme, feed_list, feeds } }) {
   const title = `${capitalizeWords(id)}'s Home`;
   // array of columns of feeds
   const all_feeds = feed_list.map((col) =>
-    col.map((fid) => (
-      <Feed
-        key={fid}
-        title={feeds[fid]["title"]}
-        url={feeds[fid]["url"]}
-        feed_type={feeds[fid]["feed_type"]}
-      ></Feed>
-    ))
+    col.map((fid) => <Feed key={fid} {...feeds[fid]}></Feed>)
   );
   return (
     <HomePageLayout title={title} theme={theme}>

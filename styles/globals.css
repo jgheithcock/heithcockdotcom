@@ -4,12 +4,15 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-    background: black;
 }
 
 a {
-  color: inherit;
   text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  color: rgb(100, 100, 255);
 }
 
 * {
@@ -26,3 +29,21 @@ a {
   }
 }
 .mw-editsection { display:none;}
+
+/* feed styles */
+
+/* close dt unless they are open */
+/* 
+*/
+dt.closed + dd {display:none;}
+dt.open + dd {display:block;}
+dt.open + dd + dd {display:block;}
+dt.open + dd + dd + dd {display:block;}
+
+.fa.disclosure:before {
+  content: "\f0da";
+  margin-right: 4px;
+}
+.open .fa.disclosure:before {
+  content: "\f0d7";
+}
