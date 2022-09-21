@@ -2,6 +2,7 @@ import Link from "next/link";
 import Parser from "rss-parser";
 import { useState, useEffect } from "react";
 import React from "react";
+import styles from "../styles/Home.module.css";
 
 export default function RssContent({ data, show_feeds }) {
   // Test
@@ -29,16 +30,15 @@ export default function RssContent({ data, show_feeds }) {
       const feed_class = closeFeed ? "closed" : "open";
       const disclose =
         show_feeds != "always" ? (
-          <a
-            href="#"
-            className="feed_hider"
+          <button
+            className={styles.feed_hider}
             onClick={(evt) => {
               const par = evt.currentTarget.parentNode;
               par.className = par.className == "open" ? "closed" : "open";
             }}
           >
             <i className="fa disclosure"> </i>
-          </a>
+          </button>
         ) : null;
       return (
         <dt className={feed_class}>
