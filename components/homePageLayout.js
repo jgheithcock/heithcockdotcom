@@ -8,10 +8,11 @@ export default function HomePageLayout({ title, theme, children }) {
     </div>
   ));
   return (
-    <div>
+    <div className={styles[theme]}>
       <Head>
         <title>{title}</title>
-        <html className={styles[theme]}></html>
+        {/* c.f. https://smnh.me/add-class-to-body-tag-in-nextjs */}
+        {/* <!--html className={styles[theme]}></html --> */}
       </Head>
       <h1 className={styles.header}>{title}</h1>
       <div className={styles.grid}>{columns}</div>
