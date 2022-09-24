@@ -59,4 +59,6 @@ img.whcdn {
 img[alt="Fair"] {
   background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
   padding-left: 64px;
+  display: inline-block;
+  overflow: hidden;
 }
