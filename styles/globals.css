@@ -24,6 +24,7 @@ a:active {
     color-scheme: dark;
   }
   body {
+    color: white;
     background: black;
   }
 }
@@ -45,4 +46,11 @@ dt.open + dd + dd + dd {display:block;}
 }
 .open .fa.disclosure:before {
   content: "\f0d7";
+}
+
+/* Wikihow */
+img.whcdn {
+  width: initial;
+  height: initial;
+  aspect-ratio: auto;
 }

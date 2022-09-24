@@ -7,7 +7,7 @@
 
 .header {
   margin: 0.5em 0.5em 0.25em;
-  color:#fff;
+  color: white;
 }
 
 .container {
@@ -41,7 +41,6 @@
 }
 
 .title a {
-  color: #0070f3;
   text-decoration: none;
 }
 
@@ -141,7 +140,6 @@
 
 .card img {
   max-width:100%;
-  height:100%;
 }
 
 .feed_hider {
@@ -163,9 +161,29 @@
 }
 
 @media (prefers-color-scheme: dark) {
+  .card a {
+    color: inherit;
+  }
+  .card a:hover,
+  .card a:focus,
+  .card a:active {
+  color: rgba(255, 255, 255, .75);
+  text-decoration: underline;
+}
   .card,
   .footer {
     border-color: #222;
+  }
+  .card dl {
+    background: rgba(0, 0, 0, .8);
+  }
+  .card:hover dl,
+  .card:focus dl,
+  .card:active dl {
+    background: black;
+  }
+  .card h2 {
+    background: rgba(0, 0, 0, .3);
   }
   .code {
     background: #111;
