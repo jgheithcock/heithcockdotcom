@@ -66,7 +66,7 @@ export default function RssContent({ data, show_feeds }) {
       const parser = new Parser();
       await parser.parseString(data, function (err, feed) {
         if (err) throw err;
-        let closeFeed = false;
+        let closeFeed = show_feeds == "never";
         const items = feed.items.map((item) => {
           const new_item = (
             <React.Fragment key={item.guid || item.link || item.title}>
