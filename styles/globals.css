@@ -54,3 +54,9 @@ img.whcdn {
   height: initial;
   aspect-ratio: auto;
 }
+
+/* Weather - icon replacement - due to blocking http urls */
+img[alt="Fair"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
+  padding-left: 64px;
+}
