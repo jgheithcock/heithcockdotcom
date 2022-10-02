@@ -21,6 +21,11 @@ export default function RssContent({ data, show_feeds }) {
     /* time-brightcove tags are visible in Times feed, remove them */
     return text
       .replace("[time-brightcove not-tgx=&#8221;true&#8221;]", "")
+      .replace(
+        '[lightweight-accordion title="Show answer" title_background="#efefef" bordered=true]',
+        ""
+      )
+      .replace("[/lightweight-accordion]", "") // laff-gaff
       .trim();
   };
 

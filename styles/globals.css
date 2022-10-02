@@ -56,7 +56,7 @@ img.whcdn {
 }
 
 /* Weather - icon replacement - due to blocking http urls */
-img[alt="Fair"] {
+img[src="http://www.rssweather.net/images/fcicons/sunny.gif"] { /* alt = "Fair" */
   background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
   padding-left: 64px;
   display: inline-block;
