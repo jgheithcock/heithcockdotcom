@@ -2,6 +2,7 @@
   background: #200 url('/images/hawaiian_sunset.jpg') left top no-repeat fixed;
   background-size:100% auto; /* Stretch to fit width */
   border: 1px solid transparent;
+  height: 100rem;
 }
 
 
@@ -132,6 +133,26 @@
   border: 1px solid transparent;
   overflow-y: scroll;
   border-radius: 0 0 10px 10px;
+}
+.card dl dl {
+  background: transparent !important;
+  display: flex !important;
+  flex-wrap: wrap;
+}
+
+.card dl dd dl dt {
+  flex: 1 0 21%;
+  height: 1.2em;
+  text-align: right;
+  margin-top: auto !important;
+  overflow: hidden;
+  margin-right: 1em;
+}
+.card dl dd dl dd {
+  flex: 1 0 21%;
+  margin-inline-start: auto !important;
+  overflow: hidden;
+  height: 1.2em;
 }
 
 .card dl dt {

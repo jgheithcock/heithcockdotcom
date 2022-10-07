@@ -55,10 +55,79 @@ img.whcdn {
   aspect-ratio: auto;
 }
 
-/* Weather - icon replacement - due to blocking http urls */
-img[src="http://www.rssweather.net/images/fcicons/sunny.gif"] { /* alt = "Fair" */
-  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
+.weather img, .boston_weather img {
   padding-left: 64px;
   display: inline-block;
   overflow: hidden;
+}
+
+/* Weather - icon replacement - due to blocking http urls */
+img[src="http://www.rssweather.net/images/fcicons/blowingsnow.gif"] {
+background: url(https://ssl.gstatic.com/onebox/weather/64/snow_light.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/cloudy.gif"] {
+background: url(https://ssl.gstatic.com/onebox/weather/64/cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/drizzle.gif"] {
+background: url(https://ssl.gstatic.com/onebox/weather/64/rain_light.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/fair.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny_s_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/fog.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/fog.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/freezingrain.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sleet.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/hazy.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png); /* no haze for google */
+}
+img[src="http://www.rssweather.net/images/fcicons/hazyn.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/mcloudy.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/mcloudyn.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/pcloudy.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/pcloudyn.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/na.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/rain.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/rain.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/showers.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/rain_s_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/snow.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/snow.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/snowshowers.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/snow_light.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/sunny.gif"] { /* alt = "Fair" */
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/sunnyn.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/tstorm.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/thunderstorms.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/tstormn.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/thunderstorms.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/chancetstorm.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/sunny_t_cloudy.png);
+}
+img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
+  background: url(https://ssl.gstatic.com/onebox/weather/64/windy.png);
 }
