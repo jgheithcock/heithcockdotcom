@@ -1,0 +1,76 @@
+.main {
+    padding: 2rem 1rem 1rem;
+}
+
+.title {
+    box-shadow: 0 0 16px 2px rgb(78 15 11 / 50%);
+    border-bottom: solid rgb(78 15 11 / 33%);
+} 
+
+.header {
+    font-family: 'Tangerine', cursive;
+    padding: 1rem;
+
+    padding-top: 2rem;
+    font-size: 4vw;
+}
+
+.footer {
+    text-align: center;
+    padding:1px;
+
+    /* box-shadow: 0 0 -16px 2px rgb(78 15 11 / 50%);*/
+    box-shadow:
+        rgba(0, 0, 0, 0.35) 0px 8px 12px -8px inset,
+        rgba(0, 0, 0, 0.35) 0px 33px 40px -13px inset;
+    border-top: solid rgb(78 15 11 / 33%);
+}
+.folderList {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: baseline;
+}
+.postPreview {
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+    width: 33%;
+    flex-wrap: wrap;
+    margin: 0 -2px 1em -2px; /* -2px to adjust for 50% width */
+}
+.excerpt {
+    padding-right: 1em;
+}
+.coverImage {
+    margin-inline-start: 0;
+}
+
+@media screen and (max-width: 800px) {
+    .postPreview  {
+        width:100%;
+        margin: 1em 0;
+    }
+}
+
+.mapBorder {
+    /* This is tied to the size of the image, which has a 12px border so slice is 12.
+       c.f. https://css-tricks.com/stacked-borders/ */
+    border: solid 6px !important;
+    border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
+    padding: 2px !important;
+}
+
+.error {
+    text-align:center;
+    padding-top: 2rem;
+}
+.error h1 {
+    font-size: 4vw;
+
+}
+.error p {
+    font-family: 'Tangerine', cursive;
+    font-size: 4vw;
+    margin-top: 0.25em;
+}
+

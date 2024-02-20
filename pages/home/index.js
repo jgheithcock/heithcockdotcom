@@ -1,3 +1,5 @@
+/* /home/[id] is an iGoogle replacement and principally for /home/suzy */
+
 import Head from "next/head";
 import Link from "next/link";
 import { getAllHomePageIds } from "../../lib/homepages";

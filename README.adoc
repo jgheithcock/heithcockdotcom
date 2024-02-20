@@ -1,9 +1,109 @@
-## Site overview
+# Readme
 
-1. Home/ - Home pages for Suzy and others. This is the recreation of Googles iHome pages.
-2. Hunts/ - Scavenger hunts
-3. Woodworking/ - Better name? Projects? (but then, code?)
-4. crafts/ -
+Readme for heithcock.com site using Vercel's Next.js. (Formerly Ruby on Rails on Heroku - c.f. heithcockdotcom repo).
+
+This needs to be at least a partially dynamic site as the /home pages require a /api/proxy.js for fetching rss
+to get around the Cross-site scripting limitation (that is, javascript in a local page is prevented by the browser
+from fetching rss from a different site.)
+
+This then is two sites under the heithcock.com umbrella. My personal website and Suzy's /home/suzy version of iGoogle.
+
+## JG's site
+
+The site is simlar to Suzy's elsworthartworks.com site, with a home page that lists out the categories of things I
+want to show and under them, a gallery of connected items.
+
+One possible difference is that I might have a hero post section with whatever the latest post was.
+
+I might also add an extract of a line or three underneath the image with an icon to read more.
+
+One more thought, for each category, having a description at the top. Only show two lines with a "[More]" link
+
+### Categories
+
+- Coding
+- Cooking
+- Cocktails
+- Posts
+- Scavenger Hunts
+- Paper projects
+    - Cards
+- Woodworking
+- Arduino
+- Lego
+- Misc?
+** random stuff like for Indigo, etc
+** alternately should these just go to Github gists?
+** The different websites (again, hosted on github but could have the readme posted here)
+
+#### posts/
+
+ - The fire (briones.jpg)
+    - Tweets from the fire
+ - Letters to Morgan
+ - Marita Heithcock ("Homecoming")
+ - Retrospect
+ - "How I met your Mother" ("Embrace your flaws", "The Importance of Chess", "Matchmaker, Matchmaker", "The Importance of Chess, Take Two", "Apple")
+
+#### hunts/
+
+- 2011 Scavenger Hunt - Snitch Hunt
+- 2012 Scavenger Hunt - Art at Hogwarts
+- 2013 Christmas Scavenger Hunt - 44 Marauder's Map
+- 2014 Scavenger Hunt - Educational Decrees
+- 2015 Scavenger Hunt - Ministry of Magic Memo
+- 2016 Scavenger Hunt - Fantastic Beasts and Where to Find Them
+- 2017 Scavenger Hunt - Ghostbusters (Christmas in Halloween)
+- 2018 - Fred & George's Joke Shop
+- 2019 - Christmas Chess
+- 2020 - An Owl Post Puzzle
+- 2021 - Chambers of Secret
+- 2022 - Skiving Snackboxes
+- 2023 - Trelawney's Tarot
+
+#### woodworking/
+
+- Morgan's shelves
+- Door stop
+- Chicken Coop
+- Tree house
+
+Better name? Projects? (but then, code?)
+
+#### arduino/
+- Fish clock
+- Jolly Roger
+
+#### paper/
+Cards and other paper crafts
+
+### Tags ?
+
+### About
+- Brief bio
+- Links to LinkedIn, GitHub(?), Instagram, ...
+- https://www.flickr.com/people/jgheithcock/
+- Colophon
+
+### Theming
+
+Going for a Marauder's map vibe. See /test.html
+
+**Background (parchment)**
+
+Background image based on link:https://www.freepik.com/free-photo/paperboard-yellow-texture_5487782.htm[efe_madrid] on Freepik
+
+**Fonts**
+
+Headers: Google's Tangerine: https://fonts.google.com/specimen/Tangerine
+Text: https://fonts.google.com/specimen/Libre+Baskerville
+
+
+## Suzy's site
+
+Home pages for Suzy (/home/suzy) and others. This is the recreation of Googles iHome pages.
+
+'''
 
 ## Next.js (Vercel) Original Readme
 

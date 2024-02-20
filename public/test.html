@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true">
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=Tangerine:wght@700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=Libre+Baskerville&family=Tangerine:wght@700&display=swap" rel="stylesheet">
+
+        <style>
+            body {
+                background: #f5e3c9 url("images/paperboard.avif") repeat;
+                color: #550706;
+                margin: 0;
+                box-shadow: 0 0px 36px 2px rgb(177 109 85 / 36%) inset;
+
+                font-family: 'IBM Plex Mono', monospace;
+                font-family: 'Libre Baskerville', serif;
+                font-size: 1.125rem;
+            }
+            header h1 {
+                box-shadow: 0 0 16px 2px rgb(78 15 11 / 50%);
+                border-bottom: solid rgb(78 15 11 / 33%);
+            }
+            footer {
+                text-align: center;
+                padding:1px;
+
+                /* box-shadow: 0 0 -16px 2px rgb(78 15 11 / 50%);*/
+                box-shadow:
+                    rgba(0, 0, 0, 0.35) 0px 8px 12px -8px inset,
+                    rgba(0, 0, 0, 0.35) 0px 33px 40px -13px inset;
+                border-top: solid rgb(78 15 11 / 33%);
+            }
+            .hero {
+                margin: 0 auto;
+                width: 80%;
+            }
+            .hero img {
+                display: block;
+                min-width: 100%;
+                max-width: 100%;
+                min-height: 100%;
+                max-height: 100%;
+                padding: 2px;
+            }
+            h1, h2, h3 {
+                font-family: 'Tangerine', cursive;
+                padding: 1rem;
+            }
+            p {
+                padding: 0 1rem .5rem 1rem;
+
+            }
+            h1 { padding-top: 2rem;}
+            h1 { font-size: 5.5rem; }
+            h2 { font-size: 3.5rem; }
+            h3 { font-size: 1.5rem; }
+            p { font-size: 1.125rem; }
+
+            @media screen and (max-width: 59.6875em) {
+                h1 { font-size: 3.5rem; }
+            h2 { font-size: 2.5rem; }
+            }
+
+            .map-border {
+                /* This is tied to the size of the image, which has a 12px border so slice is 12.
+                   c.f. https://css-tricks.com/stacked-borders/ */
+                border: solid 6px;
+                border-image: url(images/map-border-sq.png) 12 / 6px round;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>The Curmudgeonly Codger</h1>
+        </header>
+        <main>
+            <figure class="hero">
+                <img class="map-border" src="images/replacement-pawn.jpeg" alt="White pawn carved from a cork">
+                <!-- figcaption>The Replacement Pawn</figcaption -->
+            </figure>
+            <h2>The Replacement Pawn</h2>
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis harum tenetur repudiandae rem, odit animi consequatur impedit dolorem suscipit sit, cum at molestiae reiciendis vel numquam ullam, dolores natus. Accusamus.
+            </p>
+            <svg width=100% xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" >
+                <title>Map Border</title>
+                <desc>
+                    Example for doing the dashed outline around the map.
+                </desc>
+                <mask id="dash_cut_out">
+                    <!-- This cuts out a dash inside the border -->
+                    <rect id="bg" x="0" y="0" width="1100" height="1100" fill="white"/>
+                    <path id="dashes_on_border" fill="none" stroke="black" d="M40,10 L1013,30 L610,640 L20,600 Z" stroke-dasharray="40" stroke-width="4px"/>
+                </mask>
+                <path id="map_border" fill="none" stroke="#623427" d="M40,10 L1013,30 L610,640 L20,600 Z" stroke-width="6px" mask="url(#dash_cut_out)"/>
+            </svg>
+            <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis harum tenetur repudiandae rem, odit animi consequatur impedit dolorem suscipit sit, cum at molestiae reiciendis vel numquam ullam, dolores natus. Accusamus.
+            </p>
+        </main>
+        <footer>
+            <p>Copyright © JG Heithcock 2024</p>
+        </footer>
+    </body>
+</html>

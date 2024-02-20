@@ -3,6 +3,7 @@
   background-size:100% auto; /* Stretch to fit width */
   border: 1px solid transparent;
   height: 100rem;
+  color: initial;
 }
 
 

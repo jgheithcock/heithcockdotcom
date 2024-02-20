@@ -1,5 +1,5 @@
-import HomePageLayout from "../../components/homePageLayout";
-import Feed from "../../components/feed";
+import HomePageLayout from "../../components/home/layout";
+import Feed from "../../components/home/feed";
 import { getAllHomePageIds, getHomePageData } from "../../lib/homepages";
 import { capitalizeWords } from "../../lib/utils";
 
