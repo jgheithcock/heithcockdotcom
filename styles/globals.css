@@ -75,6 +75,9 @@ h1 a.active {
 /* Testing setting image size in markdown via alt= */
 img[alt="A picture of Bob, the Guard at Gringotts"] {
   width: 400px;
+  border: solid 6px !important;
+  border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
+  padding: 2px !important;
 }
 
 .folderList {
@@ -90,16 +93,24 @@ img[alt="A picture of Bob, the Guard at Gringotts"] {
   flex-wrap: wrap;
   margin: 0 -2px 1em -2px; /* -2px to adjust for 50% width */
 }
-.postPreview video {
-    /* A copy of .mapBorder */
+.postPreview video,
+.mapBorder {
+    /* .mapBorder copied from main.module.css */
     border: solid 6px !important;
     border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
     padding: 2px !important;
 }
 
+@media screen and (max-width: 1050px) {
+  .postPreview  {
+    width: 50%;
+    margin: 1em 0;
+  }
+}
+
 @media screen and (max-width: 800px) {
   .postPreview  {
-    width:100%;
+    width: 100%;
     margin: 1em 0;
   }
 }

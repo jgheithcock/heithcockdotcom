@@ -6,16 +6,14 @@ import markdownToHtml from "../lib/markdownToHtml";
 
 export default function Slug(params) {
   // this handles both Folders as well as Files
-  console.log("Slug: params ->", params);
+  // console.log("Slug: params ->", params);
   const { parent, post, children } = params;
-  const windowPrefix = parent ? `${parent.title} - ` : "";
+  const titlePrefix =
+    parent && parent.title !== post.title ? `${parent.title} - ` : "";
   return (
     <Layout>
       <Head>
-        <title>
-          {windowPrefix}
-          {post.title}
-        </title>
+        <title>{`${titlePrefix}${post.title}`}</title>
         <meta property="og:image" content={post.ogImage.url} />
         <meta name="description" content={post.excerpt} />
       </Head>
