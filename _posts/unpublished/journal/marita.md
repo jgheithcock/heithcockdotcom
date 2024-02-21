@@ -14,9 +14,9 @@ ogImage:
   url: "/images/journal/marita/2012-Marita-Heithcock.png"
 ---
 
-## Preface
+![A picture of Marita Heithcock](/images/journal/marita/2012-Marita-Heithcock.png)
 
-My mother had been battling cancer for some time and I flew out to Tennessee to see her and my father, ostensibly for my father's birthday, but also, I didn't know how many more times I would be able to see her. Before I left, I had a conversation with my brother Mark, where he asked what clothes I would be bringing, and I replied - "uh, clothes?" He said, "Well, you might think about bringing a suit." There weren't a lot of reasons I would need a suit in Tennessee other than for a funeral and I told him that I would not be brining a suit. As it turned out, she died during my visit. These are the journal entries of my trip.
+_My mother had been battling cancer for some time and I flew out to Tennessee to see her and my father, ostensibly for my father's birthday, but also, I didn't know how many more times I would be able to see her. Before I left, I had a conversation with my brother Mark, where he asked what clothes I would be bringing, and I replied - "uh, clothes?" He said, "Well, you might think about bringing a suit." There weren't a lot of reasons I would need a suit in Tennessee other than for a funeral and I told him that I would not be bringing a suit. As it turned out, she died during my visit. These are the journal entries of my trip._
 
 ## Sat, 3 March
 
