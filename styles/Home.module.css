@@ -188,8 +188,11 @@
 }
 
 @media (prefers-color-scheme: dark) {
+  .sunset {
+    color: white;
+  }
   .card a {
-    color: inherit;
+    color: rgba(255, 255, 255, 1);;
   }
   .card a:hover,
   .card a:focus,
