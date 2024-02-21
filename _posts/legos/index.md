@@ -4,8 +4,8 @@ excerpt: "Where I learn that making stop-motion animation is kinda tricky."
 coverImage:
   src: "/images/legos/gringotts/bag-30.png"
   alt: "Bob survey's the almost completed Gringotts bank."
-  width: "90%"
-  height: "90%"
+  width: "720"
+  height: "720"
 date: "2024-01-15"
 author:
   name: JG Heithcock
