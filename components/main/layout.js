@@ -7,7 +7,7 @@ const Layout = ({ preview, children }) => {
   return (
     <>
       <Meta />
-      <div className="min-h-screen">
+      <div className="min-h-screen main">
         <Header />
         <main className={styles.main}>{children}</main>
       </div>

@@ -4,14 +4,19 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'Cormorant Garamond', serif;
 
   background: #f5e3c9 url("/images/paperboard.avif") repeat;
   color: rgb(85, 7, 6); /* #550706; */
   box-shadow: 0 0px 36px 2px rgb(177 109 85 / 36%) inset;
 
-  font-family: 'IBM Plex Mono', monospace;
-  font-family: 'Libre Baskerville', serif;
 }
+.main {
+  font-size: 1.25em;
+  line-height: 1.25em;
+}
+
 h1, h2, h3 {margin:0}
 
 a {
@@ -124,6 +129,11 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
   .postPreview video {
     width: 100%;
   }
+}
+
+.main .preface {
+  font-size: larger;
+  font-weight: 300;
 }
 
 /* feed styles */
