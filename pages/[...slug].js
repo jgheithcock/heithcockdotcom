@@ -3,6 +3,7 @@ import FolderList from "../components/main/folder-list";
 import Layout from "../components/main/layout";
 import { getPosts, getAllPosts, getPostBySlug } from "../lib/mainpages";
 import markdownToHtml from "../lib/markdownToHtml";
+import DateFormatter from "../components/main/date-formatter";
 
 export default function Slug(params) {
   // this handles both Folders as well as Files
@@ -18,7 +19,7 @@ export default function Slug(params) {
         <meta name="description" content={post.excerpt} />
       </Head>
       <h1>{post.title}</h1>
-      <p>{post.date}</p>
+      <DateFormatter dateString={post.date} />
       <div dangerouslySetInnerHTML={{ __html: post.content }} />
       {children && children.length > 0 && (
         <div>

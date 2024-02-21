@@ -14,7 +14,10 @@ body {
 }
 .main {
   font-size: 1.25em;
-  line-height: 1.25em;
+}
+
+.main time {
+  padding-left: 0.25em;
 }
 
 h1, h2, h3 {margin:0}

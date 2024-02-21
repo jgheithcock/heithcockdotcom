@@ -1,5 +1,5 @@
 .main {
-    padding: 2rem 1rem 1rem;
+    padding: 2rem 1.5em 1rem;
 }
 
 .title {
@@ -9,9 +9,8 @@
 
 .header {
     font-family: 'Tangerine', cursive;
-    padding: 1rem;
-
-    padding-top: 2rem;
+    padding: 2rem;
+    padding-left: 1rem;
     font-size: 4vw;
 }
 @media screen and (max-width: 800px) {
