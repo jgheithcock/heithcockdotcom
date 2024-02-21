@@ -89,29 +89,39 @@ img[alt="A picture of Bob, the Guard at Gringotts"] {
   display: flex;
   flex-flow: column;
   align-content: center;
-  width: 33%;
+  width: 50%;
   flex-wrap: wrap;
   margin: 0 -2px 1em -2px; /* -2px to adjust for 50% width */
 }
+.postPreview video {
+  width: 90%;
+}
+
 .postPreview video,
 .mapBorder {
     /* .mapBorder copied from main.module.css */
+    /*
     border: solid 6px !important;
     border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
     padding: 2px !important;
+    */
+/*
+    border: solid 12px !important;
+    border-image: url(/images/marauders-border-caps.png) 50 / 20px round !important;
+    padding: 6px !important;
+    */
+    border: solid 12px !important;
+    border-image: url(/images/marauders-border-low.png) 50 / 20px round !important;
+    padding: 6px !important;
 }
 
-@media screen and (max-width: 1050px) {
-  .postPreview  {
-    width: 50%;
-    margin: 1em 0;
-  }
-}
-
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1500px) {
   .postPreview  {
     width: 100%;
     margin: 1em 0;
+  }
+  .postPreview video {
+    width: 100%;
   }
 }
 

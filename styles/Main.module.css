@@ -14,6 +14,11 @@
     padding-top: 2rem;
     font-size: 4vw;
 }
+@media screen and (max-width: 800px) {
+    .header  {
+        font-size: 6vw;
+    }
+}
 
 .footer {
     text-align: center;
@@ -55,9 +60,15 @@
 .mapBorder {
     /* This is tied to the size of the image, which has a 12px border so slice is 12.
        c.f. https://css-tricks.com/stacked-borders/ */
+       /*
     border: solid 6px !important;
     border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
     padding: 2px !important;
+    */
+
+    border: solid 12px !important;
+    border-image: url(/images/marauders-border-low.png) 50 / 20px round !important;
+    padding: 6px !important;
 }
 
 .error {

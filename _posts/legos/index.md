@@ -4,8 +4,8 @@ excerpt: "Where I learn that making stop-motion animation is kinda tricky."
 coverImage:
   src: "/images/legos/gringotts/bag-30.png"
   alt: "Bob survey's the almost completed Gringotts bank."
-  width: "720"
-  height: "720"
+  width: "90%"
+  height: "90%"
 date: "2024-01-15"
 author:
   name: JG Heithcock
@@ -26,7 +26,7 @@ For Christmas, my daughter and I got the [Lego Gringotts Bank](https://www.lego.
 
 ## Bag 15
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-15.mp4" type="video/mp4">
 </video>
 
@@ -37,7 +37,7 @@ Finishing the baseplate
 
 ## Bag 16
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-16.mp4" type="video/mp4">
 </video>
 
@@ -48,7 +48,7 @@ Introducing Bob, a guard
 
 ## Bag 17
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-17.mp4" type="video/mp4">
 </video>
 
@@ -59,7 +59,7 @@ Bob can't figure out what is happening
 
 ## Bag 18
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-18.mp4" type="video/mp4">
 </video>
 
@@ -70,7 +70,7 @@ Aha, a goblin!
 
 ## Bag 19
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-19.mp4" type="video/mp4">
 </video>
 
@@ -81,7 +81,7 @@ The manager takes over
 
 ## Bag 20
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-20.mp4" type="video/mp4">
 </video>
 
@@ -92,7 +92,7 @@ This is actually pretty cool
 
 ## Bag 21
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-21.mp4" type="video/mp4">
 </video>
 
@@ -103,7 +103,7 @@ Bob gets cocky
 
 ## Bag 22
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-22.mp4" type="video/mp4">
 </video>
 
@@ -114,7 +114,7 @@ Second story starts
 
 ## Bag 23
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-23.mp4" type="video/mp4">
 </video>
 
@@ -125,7 +125,7 @@ Bob is pretty excited
 
 ## Bag 24
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-24.mp4" type="video/mp4">
 </video>
 
@@ -136,7 +136,7 @@ Second story work
 
 ## Bag 25
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-25.mp4" type="video/mp4">
 </video>
 
@@ -147,7 +147,7 @@ Second story for the Magical Menagerie
 
 ## Bag 26
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-26.mp4" type="video/mp4">
 </video>
 
@@ -158,7 +158,7 @@ Bob is really impressed
 
 ## Bag 27
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-27.mp4" type="video/mp4">
 </video>
 
@@ -169,7 +169,7 @@ How goblins go upstairs
 
 ## Bag 28
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-28.mp4" type="video/mp4">
 </video>
 
@@ -180,7 +180,7 @@ Bob's superior officer takes over
 
 ## Bag 29
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-29.mp4" type="video/mp4">
 </video>
 
@@ -191,7 +191,7 @@ Bob has learned a thing or two
 
 ## Bag 30
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-30.mp4" type="video/mp4">
 </video>
 
@@ -202,7 +202,7 @@ Bob shows off
 
 ## Bag 31
 
-<video width="320" controls>
+<video controls>
   <source src="/images/legos/gringotts/bag-31.mp4" type="video/mp4">
 </video>
 
