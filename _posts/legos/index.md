@@ -14,11 +14,9 @@ ogImage:
   url: "/images/legos/gringotts/bag-30.png"
 ---
 
-![A picture of Bob, the Guard at Gringotts](/images/bob-the-guard.jpeg)
+![The Lego Gringotts Bank, assembled in its full glory](/images/legos/gringotts/gringotts-assembled.png)
 
-_This is Bob, a guard at Gringotts. I thought it would be funny if he ran around panicking while the goblins built the bank with magic. Then I started thinking "Hunh, what happens then?"_
-
-For Christmas, my daughter and I got the [Lego Gringotts Bank](https://www.lego.com/en-us/product/gringotts-wizarding-bank--collectors-edition-76417). This is a massive, 31 bag, 4801 piece set and we were only able to finish the first half (the underground section) before she needed to go back to Boston. I glibly told her I would take pictures as I went and send them to her so she could experience it second hand at least. I then idealistically thought how cool it would be to string the photos together to make a kind of stop-motion animation. And so my journey down the rabbit hole began...
+_For Christmas, my daughter and I got the [Lego Gringotts Bank](https://www.lego.com/en-us/product/gringotts-wizarding-bank--collectors-edition-76417). This is a massive, 31 bag, 4801 piece set and we were only able to finish the first half (the underground section) before she needed to go back to Boston. I glibly told her I would take pictures as I went and send them to her so she could experience it&mdash;second hand at least. I then idealistically thought how cool it would be to string the photos together to make a kind of stop-motion animation. And so my journey down the rabbit hole began. On bag 16, there is a Lego guard, and I thought it would be funny to have him panicking and running around while the bank was being magically built around him. When we got bag 18, we get a goblin and so it made sense to have the goblin be the one magically creating the bank. Then I started thinking "Hunh, what happens then...?"_
 
 <div class="folderList">
 
@@ -85,7 +83,7 @@ The manager takes over
   <source src="/images/legos/gringotts/bag-20.mp4" type="video/mp4">
 </video>
 
-This is actually pretty cool
+Bob thinks this is actually pretty cool
 
 </div>
 <div class="postPreview">
