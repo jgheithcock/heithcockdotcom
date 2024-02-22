@@ -63,10 +63,14 @@
     border: solid 6px !important;
     border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
     padding: 2px !important;
-    */
 
+    The !important is due to Next/React's <Image /> hardwiring in a great deal of styles.
+
+    round for border-image-repeat is better for the map border but repeat does less squishing
+    on the ends for the letters.
+    */
     border: solid 12px !important;
-    border-image: url(/images/marauders-border-low.png) 50 / 20px round !important;
+    border-image: url(/images/marauders-border-low.png) 50 / 20px repeat !important;
     padding: 6px !important;
 }
 
