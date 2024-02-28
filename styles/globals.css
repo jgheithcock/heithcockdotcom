@@ -20,30 +20,81 @@ body {
   padding-left: 0.25em;
 }
 
+.main .admonition {
+  /* mapBorder */
+  border: solid 6px !important;
+  border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
+  padding: 0 .5em !important;
+  margin-bottom: .5em;
+}
+
+.main .admonition p {
+  margin: .5em 0;
+}
+
 h1, h2, h3 {margin:0}
 
 a {
   color: inherit;
+  text-decoration: none;
+ }
+ a:hover {
+  text-decoration: underline;
+ }
+
+ .markdown a {
+  position: relative;
+  z-index: 0;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+  transition: color .3s ease-out;
+}
+
+.markdown a::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  transform: translateY(calc(100% + 1px));
+  width: 100%;
+  height: 100%;
+  border-radius: 43% 10% 34% 7% / 90% 85% 73% 95%;
+  background-image: radial-gradient(ellipse farthest-side, rgba(85, 7, 6, .7), rgba(45, 7, 6, .9) 100%);
+  box-shadow: 0 0 6px rgba(45, 7, 6, .9);
+  transition: transform .25s ease-out;
+}
+
+.markdown a:hover { 
+  color: #fff; 
+}
+.markdown a:hover::before {
+  transform: translateY(0);
+  transition: transform .25s ease-out;
+}
+
+.main
+
+.homePage a {
+  color: inherit;
   color: inherit;
   text-decoration: underline;
 }
-a:hover,
-a:focus,
-a:active,
-a.active {
+.homePage a:hover,
+.homePage a:focus,
+.homePage a:active,
+.homePage a.active {
   color: inherit;
   text-decoration: underline;
   text-shadow: 0 0 1px rgb(177 109 85 / 85%);
 }
 
-h1 a {
-  text-decoration: none;
-  font-style: normal;
-}
-h1 a:hover,
-h1 a:focus,
-h1 a:active,
-h1 a.active {
+.main header h1 a:hover,
+.main header h1 a:focus,
+.main header h1 a:active,
+.main header h1 a.active {
+  color: rgb(85, 7, 6) !important;
   text-decoration: none;
   text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
 }
@@ -137,6 +188,10 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
 .main .preface {
   font-size: larger;
   font-weight: 300;
+}
+
+ul.contains-task-list {
+  list-style-type: none;
 }
 
 /* feed styles */

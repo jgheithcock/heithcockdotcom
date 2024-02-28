@@ -20,7 +20,10 @@ export default function Slug(params) {
       </Head>
       <h1>{post.title}</h1>
       <DateFormatter dateString={post.date} />
-      <div dangerouslySetInnerHTML={{ __html: post.content }} />
+      <div
+        dangerouslySetInnerHTML={{ __html: post.content }}
+        className="markdown"
+      />
       {children && children.length > 0 && (
         <div>
           <hr />
