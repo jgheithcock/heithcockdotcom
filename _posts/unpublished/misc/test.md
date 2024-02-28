@@ -24,7 +24,11 @@ img[alt="A picture of Bob, the Guard at Gringotts"] {
 }
 ```
 
+HTML works:
+
 <img src="/images/bob-the-guard.jpeg" alt="drawing" width="200"/>
+
+<img src="/images/sun-black-1024.png" alt="Sun Logo" width="400" />
 
 ## Block Quote
 
@@ -34,18 +38,51 @@ img[alt="A picture of Bob, the Guard at Gringotts"] {
 
 The variable was named `foobar` - much thought had gone into its name.
 
+## Internal comments
+
+The following sentence is a comment (and is not visible):
+
+[This is an internal comment]: #
+
+## Admonitions
+
+> [!NOTE]
+> Admonitions are through the
+> [remark-github-beta-blockquote-admonitions](https://www.npmjs.com/package/remark-github-beta-blockquote-admonitions)
+> plugin and have limited functionality.
+> Tags include `NOTE`, `IMPORTANT`, `WARNING`, `CAUTION`, `TIP` but there is no difference in the HTML rendered.
+> The structure of the DOM is
+>
+> ```
+> \<div class='admonition'>
+>     \<p class='admonition-title'>...\</p>
+>     \<p>...\</p>
+> \</div>
+> ```
+
+> [!TIP]
+> The **content** can ~~have~~ include _Markdown_ `syntax`. Check [this `api`](#).
+
 ## My list
 
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis harum tenetur repudiandae rem, odit animi consequatur impedit dolorem suscipit sit, cum at molestiae reiciendis vel numquam ullam, dolores natus. Accusamus.
 
+## Footnotes
+
 Here's a sentence with a footnote. [^1]
+
+## Lists
 
 1. One
 2. Two
 3. Three
 
-term
+(Definition lists still not supported)
+
+Term
 : definition
+
+(Task lists supported but with bullets still. \<UL> element has `contains-task-list` class which is used to remove them.)
 
 - [x] Write the press release
 - [ ] Update the website
