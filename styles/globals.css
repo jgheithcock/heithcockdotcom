@@ -49,6 +49,7 @@ a {
   overflow: hidden;
   vertical-align: bottom;
   transition: color .3s ease-out;
+  text-decoration: none !important;
 }
 
 .markdown a::before {
@@ -60,8 +61,11 @@ a {
   transform: translateY(calc(100% + 1px));
   width: 100%;
   height: 100%;
+  background-image: url(/images/ink-cloud-trans.png);
+  background-size: cover;
+  /* 
   border-radius: 43% 10% 34% 7% / 90% 85% 73% 95%;
-  background-image: radial-gradient(ellipse farthest-side, rgba(85, 7, 6, .7), rgba(45, 7, 6, .9) 100%);
+  background-image: radial-gradient(ellipse farthest-side, rgba(85, 7, 6, .7), rgba(45, 7, 6, .9) 100%); */
   box-shadow: 0 0 6px rgba(45, 7, 6, .9);
   transition: transform .25s ease-out;
 }
@@ -69,8 +73,9 @@ a {
 .markdown a:hover { 
   color: #fff; 
 }
+.markdown a.active::before,
 .markdown a:hover::before {
-  transform: translateY(0);
+  transform: translateY(-10%);
   transition: transform .25s ease-out;
 }
 

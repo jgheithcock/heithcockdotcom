@@ -28,7 +28,7 @@ HTML works:
 
 <img src="/images/bob-the-guard.jpeg" alt="drawing" width="200"/>
 
-<img src="/images/sun-black-1024.png" alt="Sun Logo" width="400" />
+<img src="/images/ink-cloud-trans.png" alt="Sun Logo" width="400" />
 
 ## Block Quote
 
