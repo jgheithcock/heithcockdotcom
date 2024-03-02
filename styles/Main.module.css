@@ -12,11 +12,26 @@
     padding: 2rem;
     padding-left: 1rem;
     font-size: 4vw;
+
+    /* For nav links */
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
 }
 @media screen and (max-width: 800px) {
     .header  {
         font-size: 6vw;
     }
+}
+.NavLinks {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px;
+    height: 0;
+    line-height: 5vw;
+}
+
+.NavLinks span {
+    padding: 0;
 }
 
 .footer {

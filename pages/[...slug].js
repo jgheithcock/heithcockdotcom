@@ -1,18 +1,29 @@
 import Head from "next/head";
 import FolderList from "../components/main/folder-list";
 import Layout from "../components/main/layout";
-import { getPosts, getAllPosts, getPostBySlug } from "../lib/mainpages";
+import {
+  getPosts,
+  getNavPosts,
+  getAllPosts,
+  getPostBySlug,
+} from "../lib/mainpages";
 import markdownToHtml from "../lib/markdownToHtml";
 import DateFormatter from "../components/main/date-formatter";
 
 export default function Slug(params) {
   // this handles both Folders as well as Files
   // console.log("Slug: params ->", params);
-  const { parent, post, children } = params;
+  const { parentPost, previousPost, nextPost, post, children } = params;
   const titlePrefix =
-    parent && parent.title !== post.title ? `${parent.title} - ` : "";
+    parentPost && parentPost.title !== post.title
+      ? `${parentPost.title} - `
+      : "";
   return (
-    <Layout>
+    <Layout
+      parentPost={parentPost}
+      previousPost={previousPost}
+      nextPost={nextPost}
+    >
       <Head>
         <title>{`${titlePrefix}${post.title}`}</title>
         <meta property="og:image" content={post.ogImage.url} />
@@ -34,10 +45,9 @@ export default function Slug(params) {
   );
 }
 export async function getStaticProps({ params }) {
-  const parentSlug = params.slug.slice(0, -1).join("/");
-  const parentPost = parentSlug ? getPostBySlug(parentSlug, ["title"]) : null;
   const slugURL = params.slug.join("/");
   console.log("Slug:getStaticProps: slug = ", slugURL);
+  const { parentPost, previousPost, nextPost } = getNavPosts(params.slug);
   const post = getPostBySlug(slugURL, [
     "title",
     "name",
@@ -65,7 +75,9 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
-      parent: parentPost,
+      parentPost: parentPost,
+      previousPost: previousPost,
+      nextPost: nextPost,
       post: {
         ...post,
         content,

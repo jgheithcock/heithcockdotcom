@@ -3,12 +3,12 @@ import Footer from "./footer";
 import Meta from "../meta";
 import styles from "../../styles/Main.module.css";
 
-const Layout = ({ preview, children }) => {
+const Layout = ({ preview, children, ...props }) => {
   return (
     <>
       <Meta />
       <div className="min-h-screen main">
-        <Header />
+        <Header {...props} />
         <main className={styles.main}>{children}</main>
       </div>
       <Footer />

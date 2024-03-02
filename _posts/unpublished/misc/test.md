@@ -12,6 +12,8 @@ ogImage:
 
 Test basic and extended markdown. [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
+Active link: <a href="#" class="active">An Active Link</a>
+
 ## Image
 
 ![A picture of Bob, the Guard at Gringotts](/images/bob-the-guard.jpeg)
