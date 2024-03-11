@@ -2,6 +2,7 @@ import styles from "../../styles/Main.module.css";
 import { LeftArrowIcon, UpArrowIcon, RightArrowIcon, Icon } from "./icons";
 
 const NavLinks = ({ parentPost, previousPost, nextPost = {} }) => {
+  if (!parentPost) return null;
   return (
     <span className={styles.NavLinks}>
       {previousPost && (

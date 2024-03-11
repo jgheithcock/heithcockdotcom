@@ -28,6 +28,7 @@ export const Icon = ({
 };
 
 export const RightArrowIcon = ({ url, title, isTextButton = true }) => {
+  if (!url) return <>{title}</>;
   return (
     <Link key={url} href={url}>
       <a>⮚{isTextButton && title}</a>
@@ -36,6 +37,7 @@ export const RightArrowIcon = ({ url, title, isTextButton = true }) => {
 };
 
 export const UpArrowIcon = ({ url, title, isTextButton = true }) => {
+  if (!url) return <>{title}</>;
   return (
     <Link key={url} href={url}>
       <a>⮙{isTextButton && title}</a>
@@ -43,6 +45,7 @@ export const UpArrowIcon = ({ url, title, isTextButton = true }) => {
   );
 };
 export const LeftArrowIcon = ({ url, title, isTextButton = true }) => {
+  if (!url) return <>{title}</>;
   return (
     <Link key={url} href={url}>
       <a>⮘ {isTextButton && title}</a>
