@@ -51,12 +51,7 @@
     align-items: baseline;
 }
 .postPreview {
-    display: flex;
-    flex-flow: column;
-    align-content: center;
     width: 33%;
-    flex-wrap: wrap;
-    margin: 0 -2px 1em -2px; /* -2px to adjust for 50% width */
 }
 .excerpt {
     padding-right: 1em;

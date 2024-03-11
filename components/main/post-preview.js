@@ -14,8 +14,10 @@ const PostPreview = ({ title, coverImage, date, excerpt, author, slug }) => {
       <Link as={`/${slug}`} href="/[...slug]">
         <a>
           <CoverImage title={title} slug={slug} coverImage={coverImage} />
-          <h3 className="text-3xl mb-3 leading-snug">{title}</h3>
         </a>
+      </Link>
+      <Link as={`/${slug}`} href="/[...slug]">
+        <a className={"cloud"}>{title}</a>
       </Link>
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
