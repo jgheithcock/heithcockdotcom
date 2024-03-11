@@ -30,7 +30,7 @@ HTML works:
 
 <img src="/images/bob-the-guard.jpeg" alt="drawing" width="200"/>
 
-<img src="/images/ink-cloud-trans.png" alt="Sun Logo" width="400" />
+<img src="/images/ink-cloud.png" alt="Sun Logo" width="400" />
 
 ## Block Quote
 
@@ -56,10 +56,10 @@ The following sentence is a comment (and is not visible):
 > The structure of the DOM is
 >
 > ```
-> \<div class='admonition'>
->     \<p class='admonition-title'>...\</p>
->     \<p>...\</p>
-> \</div>
+> <div class='admonition'>
+>     <p class='admonition-title'>...</p>
+>     <p>...</p>
+> </div>
 > ```
 
 > [!TIP]

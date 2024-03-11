@@ -48,7 +48,7 @@ a {
   display: inline-block;
   overflow: hidden;
   vertical-align: bottom;
-  transition: color .3s ease-out;
+  transition: all .3s ease-out;
   text-decoration: none !important;
 }
 
@@ -61,22 +61,36 @@ a {
   transform: translateY(calc(100% + 1px));
   width: 100%;
   height: 100%;
-  background-image: url(/images/ink-cloud-trans.png);
-  background-size: cover;
-  /* 
-  border-radius: 43% 10% 34% 7% / 90% 85% 73% 95%;
-  background-image: radial-gradient(ellipse farthest-side, rgba(85, 7, 6, .7), rgba(45, 7, 6, .9) 100%); */
-  box-shadow: 0 0 6px rgba(45, 7, 6, .9);
+ 
+  background-image: url(/images/ink-cloud.png);
+  background-size: 100% 116%;
+  box-shadow: 0 0 6px rgba(45, 7, 6, .9); /* forms the underline */
   transition: transform .25s ease-out;
+
+  /*
+    Former attempts
+    border-radius: 43% 10% 34% 7% / 90% 85% 73% 95%;
+  */
+  /* 
+    background-image: radial-gradient(ellipse farthest-side, rgba(85, 7, 6, .7), rgba(45, 7, 6, .9) 100%);
+  */
+  /*
+      text-shadow: 
+      -1px 1px 2px #550706, 1px 1px 4px #550706, 1px -1px 2px #550706, -1px -1px 4px #560707,
+      -1px 1px 2px #550706, 1px 1px 4px #550706, 1px -1px 2px #550706, -1px -1px 4px #560707,
+      -1px 1px 2px #550706, 1px 1px 4px #550706, 1px -1px 2px #550706, -1px -1px 4px #560707;
+  */
 }
 
-.markdown a:hover { 
+.markdown a:hover,
+.markdown a.active { 
   color: #fff; 
 }
 .markdown a.active::before,
 .markdown a:hover::before {
-  transform: translateY(-10%);
+  transform: translateY(0);
   transition: transform .25s ease-out;
+  box-shadow: none;
 }
 
 .main
