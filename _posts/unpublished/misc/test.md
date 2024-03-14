@@ -30,7 +30,7 @@ HTML works:
 
 <img src="/images/bob-the-guard.jpeg" alt="drawing" width="200"/>
 
-<img src="/images/ink-cloud.png" alt="Sun Logo" width="400" />
+<img src="/images/ink-cloud.png" alt="The Ink Cloud" width="400" />
 
 ## Block Quote
 

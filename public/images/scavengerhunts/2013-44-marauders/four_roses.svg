@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="480">
+    <style>
+        pathx { fill:transparent; stroke:#880000;}
+        text {fill:#880000;
+        font: 16px "Lumos", "Yanone Tagesschrift", "Marker Felt", "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;}
+        text.nnw, text.ese, text.se, text.west {display:inherit;}
+        text.label {font: 24px "Magik", "Marker Felt", "HelveticaNeue",serif;}
+        rose
+        .nnw>.nnw {display:inherit;}
+        .ese>.ese {display:inherit;}
+        .se>.se {display:inherit;}
+        .west>.west {display:inherit;}
+        #rose1, #labels, #labels2 {display:none;}
+        .wind {stroke-opacity:.25; fill:none;fill-opacity:.95;}
+        .ring {stroke:#880000;stroke-opacity:.9;fill:transparent}
+        .compass_arrow {stroke:#880000;}
+        .rose_text {font-size:25px;}
+    </style>
+    <title>Four Winds</title>
+    <g id="labels" transform="translate(150,150),rotate(-67.5)" class="nnw">
+        <text class="nnw"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(0)">The</text>
+        <text class="ese"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(22.5)">book</text>
+        <text class="se"   x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(45)">of</text>
+        <text class="west" x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(67.5)">Illumination</text>
+        <text class="nnw"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(90)">is</text>
+        <text class="ese"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(112.5)">hidden</text>
+        <text class="se"   x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(135)">on a</text>
+        <text class="west" x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(157.5)">Shelf</text>
+        <text class="nnw"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(180)">located</text>
+        <text class="ese"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(202.5)">in</text>
+        <text class="se"   x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(225)">the</text>
+        <text class="west" x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(247.5)">Restricted</text>
+        <text class="nnw"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(270)">section</text>
+        <text class="ese"  x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(292.5)">of</text>
+        <text class="se"   x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(315)">the</text>
+        <text class="west" x="30px" y="3px" font-size="18px" fill="#880000" transform="rotate(337.5)">Library</text>
+    </g>
+
+    <g id="labels2" transform="translate(500,150),rotate(67.5)" class="ese">
+        <text class="nnw" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(0)">The</text>
+        <text class="ese" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-22.5)">book</text>
+        <text class="se" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-45)">of</text>
+        <text class="west" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-67.5)">Illumination</text>
+        <text class="nnw" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-90)">is</text>
+        <text class="ese" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-112.5)">hidden</text>
+        <text class="se" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-135)">on a</text>
+        <text class="west" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-157.5)">Shelf</text>
+        <text class="nnw" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-180)">located</text>
+        <text class="ese" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-202.5)">in</text>
+        <text class="se" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-225)">the</text>
+        <text class="west" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-247.5)">Restricted</text>
+        <text class="nnw" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-270)">section</text>
+        <text class="ese" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-292.5)">of</text>
+        <text class="se" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-315)">the</text>
+        <text class="west" x="-100px" y="3px" font-size="18px" fill="#880000" transform="rotate(-337.5)">Library</text>
+    </g>
+<defs>
+<path fill="none" stroke="#000000" stroke-width="1px" transform="rotate(26,100,100)" d="m0,100c0,-133 200,-133 200,0c0,133 -200,133 -200,0z" id="circle"/>
+</defs>
+<g id="rose1" transform="translate(-200,-160),scale(1.75)">
+   <path id="svg_2" d="m382.002808,291.001343l-36.721619,13.057953l0,-26.1185l36.721619,13.060547zm-26.660187,-64.34964l-16.726379,35.204071l-18.469116,-18.469238l35.195496,-16.734833zm-64.341125,-26.651703l13.057861,36.721497l-26.115845,0l13.057983,-36.721497zm-64.349609,26.651703l35.20639,16.734833l-18.471649,18.469238l-16.734741,-35.204071l0,0zm-26.651886,64.34964l36.721619,-13.060547l0,26.1185l-36.721619,-13.057953zm26.651886,64.341125l16.734741,-35.198151l18.471649,18.471924l-35.20639,16.726227zm64.349609,26.657532l-13.057983,-36.718811l26.115845,0l-13.057861,36.718811zm64.341125,-26.657532l-35.195496,-16.726227l18.469116,-18.471924l16.726379,35.198151zm-109.84259,-64.341125l0,0c0,-25.129822 20.37149,-45.50119 45.501465,-45.50119c25.129913,0 45.501221,20.371368 45.501221,45.50119c0,25.127258 -20.371307,45.498718 -45.501221,45.498718c-25.129974,0 -45.501465,-20.37146 -45.501465,-45.498718z"/>
+   <path transform="rotate(-21.8989 291.001 291)" id="svg_4" d="m382.002808,291.001343l-36.721619,13.057953l0,-26.1185l36.721619,13.060547zm-26.660187,-64.34964l-16.726379,35.204071l-18.469147,-18.469238l35.195526,-16.734833zm-64.341156,-26.651703l13.057861,36.721497l-26.115814,0l13.057953,-36.721497zm-64.349594,26.651703l35.206406,16.734833l-18.471664,18.469238l-16.734741,-35.204071l0,0zm-26.651855,64.34964l36.721619,-13.060547l0,26.1185l-36.721619,-13.057953zm26.651855,64.341125l16.734741,-35.198151l18.471664,18.471924l-35.206406,16.726227zm64.349594,26.657532l-13.057953,-36.718811l26.115814,0l-13.057861,36.718811zm64.341156,-26.657532l-35.195526,-16.726227l18.469147,-18.471924l16.726379,35.198151z"/>
+</g>
+<g id="rose" transform="translate(60,60),rotate(-22.5,144,144)" class="west" style="display:none;">
+  <path id="bird_base1" class="wind ese" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" />
+  <path id="bird_base2" class="wind se" transform="rotate(22.5,144,144)" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" />
+  <path id="bird_base2" class="wind nnw" transform="rotate(45,144,144)" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" />
+  <path id="bird_base2" class="wind west" transform="rotate(67.5,144,144)" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" />
+
+  <clipPath id="clip1">
+      <path id="clip_base" transform="rotate(67.5,144,144)" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" />
+  </clipPath>
+  <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+  <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+  <text id="T" clip-path="url(#clip1x)" transform="translate(26,26),scale(1.18,1.18)" style="font-size:22px">
+    <textPath xlink:href="#circle">Seek illumination in the restricted section of the library ^</textPath>
+  </text>
+</g>
+
+<defs>
+<path id="text_path" transform="rotate(6,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+<path id="text_path_2" transform="rotate(28.5,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+<path id="text_path_3" transform="rotate(51,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+<path id="text_path_4" transform="rotate(73.5,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+
+<clipPath id="clip_path">
+  <path d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" fill="white" stroke="#800"/>
+</clipPath>
+</defs>
+
+<!-- /* North-south rose */path id="base_wind" d="m0,204 l144,-60 l60,-144 l60,144 l144,60 l-144,60 l-60,144 l-60,-144 l-144,-60,144z" stroke="black"/ -->
+<defs>
+  <path id="compass_arrow" d="m144,124l0,-60c0.324432,5.280807 -2.919296,12.667938 -6.269165,13.778816" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="null" stroke-width="1" fill="none"/>
+  
+</defs>
+<g transform="scale(.8,.8)">
+<path id="base_wind" class="wind ese" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" fill="white" stroke="#800"/>
+<use x="288" y="0" xlink:href="#base_wind" id="rose2" width="288" height="288"/>
+<use x="0" y="288" xlink:href="#base_wind" id="rose3" width="288" height="288"/>
+<use x="288" y="288" xlink:href="#base_wind" id="rose4" width="288" height="288"/>
+<g id="ring" clip-path="url(#clip_path)">
+  <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+  <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+  <text class="rose_text">
+    <textPath xlink:href="#text_path">Seek illumination in the restricted section of the library ^</textPath>
+  </text>
+  <use xlink:href="#compass_arrow" class="compass_arrow" transform="rotate(-135,144,144)" />
+  <text class="label" x="124" y="154" transform="rotate(0,134,144)">SW</text>
+</g>
+<g transform="translate(288,0)" clip-path="url(#clip_path)">
+  <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+  <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+  <text id="T" style="font-size:25px" transform="rotate(22.5,144,144)">
+    <textPath xlink:href="#text_path">Seek illumination in the restricted section of the library ^</textPath>
+  </text>
+  <use xlink:href="#compass_arrow" class="compass_arrow" transform="rotate(45,144,144)" />
+  <text class="label" x="124" y="144" transform="rotate(22.5,134,144)">NNE</text>
+</g>
+<g transform="translate(0,288)" clip-path="url(#clip_path)">
+  <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+  <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+  <text id="T" style="font-size:25px">
+    <textPath xlink:href="#text_path_3">Seek illumination in the restricted section of the library ^</textPath>
+  </text>
+  <use xlink:href="#compass_arrow" class="compass_arrow" transform="rotate(-45,144,144)" />
+  <text class="label" x="124" y="144" transform="rotate(45,134,144)">W</text>
+</g>
+<g transform="translate(288,288)" clip-path="url(#clip_path)">
+  <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+  <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+  <text id="T" style="font-size:25px">
+    <textPath xlink:href="#text_path_4">Seek illumination in the restricted section of the library ^</textPath>
+  </text>
+  <use xlink:href="#compass_arrow" class="compass_arrow" transform="rotate(225,144,144)" />
+  <text class="label" x="124" y="154" transform="rotate(67.5,144,144)">SSE</text>
+</g>
+</g>
+</svg>

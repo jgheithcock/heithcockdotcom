@@ -84,6 +84,14 @@ a.cloud::before {
   */
 }
 
+/* Skip this for image links */
+.markdown a:has(img)::before {
+  background-image: none;
+  box-shadow: none;
+  transition: none;
+  cursor: pointer;
+}
+
 .markdown a:hover,
 .markdown a:focus,
 .markdown a:active,
@@ -132,6 +140,13 @@ a.cloud.active::before {
   text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
 }
 
+.main hr {
+  background-image: url(/images/map-border.png);
+  background-size: contain;
+  height: 4px;
+  border: 0;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -175,7 +190,6 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
 
 .folderList {
   display: flex;
-  flex-flow: row wrap;
   align-items: baseline;
 }
 .postPreview {
@@ -188,6 +202,9 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
 }
 .postPreview video {
   width: 90%;
+}
+.postPreview p {
+  text-align: center;
 }
 
 .postPreview video,
