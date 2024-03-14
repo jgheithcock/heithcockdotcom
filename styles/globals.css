@@ -190,6 +190,7 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
 
 .folderList {
   display: flex;
+  flex-flow: row wrap;
   align-items: baseline;
 }
 .postPreview {
