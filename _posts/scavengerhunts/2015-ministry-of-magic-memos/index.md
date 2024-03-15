@@ -2,7 +2,7 @@
 title: "2015 - Ministry of Magic Memos"
 excerpt: "Mafalda Hopkirk - our unsung hero"
 coverImage:
-  src: "/images/scavengerhunts/2015-ministry-of-magic-memos/memo-s.jpg"
+  src: "/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg"
   alt: "The memos, ready to fly"
   width: 4032
   height: 3024
@@ -11,7 +11,7 @@ author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/scavengerhunts/2015-ministry-of-magic-memos/memo-s.jpg"
+  url: "/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg"
 ---
 
 Once again, I was saved by the Internet. Robin Springett had created a template for [Ministry of Magic memos](https://10digitdesign.blogspot.com/2014/07/how-to-make-ministry-of-magic-memo.html) that, as [KylieSmiley had done](./2014-educational-decrees), was ready made to be turned into a Scavenger hunt. (Well, I did need to convert it from A4 to US 8.5 x 11" paper)
