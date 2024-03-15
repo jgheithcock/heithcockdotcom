@@ -6,7 +6,7 @@ coverImage:
   alt: "The memos, ready to fly"
   width: 4032
   height: 3024
-date: "2014-12-25"
+date: "2015-12-25"
 author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
