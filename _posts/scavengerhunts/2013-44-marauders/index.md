@@ -14,7 +14,7 @@ ogImage:
   url: "/images/scavengerhunts/2013-44-marauders/maraudersmap-44westwind.jpg"
 ---
 
-For the third scavenger hunt, I wanted to more faithfully recreate the Marauders Map as seen in the move, but based on our house. This is still my favorite scavenger hunt and set the bar for every scavenger hunt I've done since. I liked it so much, I made a text adventure version of the game that you can play at [44westwind.com](https://44westwind.com). You can even use an [interactive version of the map](https://www.44westwind.com/map/index.html) to find the snitches and solve the final clue.
+For the third scavenger hunt, I wanted to more faithfully recreate the Marauders Map as seen in the movie, but based on our house. This is still my favorite scavenger hunt and set the bar for every scavenger hunt I've done since. I liked it so much, I made a text adventure version of the game that you can play at [44westwind.com](https://44westwind.com). You can even use an [interactive version of the map](https://www.44westwind.com/map/index.html) to find the snitches and solve the final clue.
 
 Opening the box reveals a folded up Marauder's Map:
 
@@ -34,7 +34,7 @@ The first puzzle is to figure out that you need to open the map one section at a
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2241-page-1-the-grounds.jpg" class="mapBorder" width="100%" alt="First page of the map - the grounds">
 </a>
 
-_Note the little '44 Westwind' version of Hogwarts in the middle._
+_(Note the little '44 Westwind' version of Hogwarts in the middle.)_
 
 The second 'page' is the front yard:
 
@@ -42,25 +42,25 @@ The second 'page' is the front yard:
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2242-page-2-front-yard.jpg" class="mapBorder" width="100%" alt="Second page of the map - the front yard">
 </a>
 
-The third 'page' is the Great Room, where the christmas tree would have been. The strange amoeba shape in the middle is the kitchen counter, the "Flue Network" is the pizza oven, and the "Cauldron Cupboard" is the pantry (which we call the larder).
+The third 'page' is the Great Room, where the Christmas tree would have been. The strange amoeba shape in the middle with _House Elves Only_ is the kitchen counter, the _Flue Network_ is the pizza oven, and the _Cauldron Cupboard_ is the pantry (which we call the larder).
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg">
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg" class="mapBorder" width="100%" alt="Third page of the map - the great room">
 </a>
 
-The fourth 'page' is our daughter's room, where the "room of requirement" is a secret closet.
+The fourth 'page' is our daughter's room, where the _Room of Requirement_ is a secret closet.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2244-page-4-room-of-requirement.jpg">
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2244-page-4-room-of-requirement.jpg" class="mapBorder" width="100%" alt="Second page of the map - the girl's room">
 </a>
 
-The fifth and final 'page' is the downstairs, where my office and bar is. The "Grindylow tank" is an aquarium.
+The fifth and final 'page' is the downstairs, where my office and bar is. The area with _Grindylow_ is an aquarium.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2245-page-5-downstairs.jpg">
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2245-page-5-downstairs.jpg" class="mapBorder" width="100%" alt="Third page of the map - downstairs and the windrose">
 </a>
 
-If you pull apart the two flaps with "Hogwarts School of Witchcraft & Wizardry" on them, you find an empty windrose - that is, a star with sixteen points, one for each compass direction. The "N" with the arrow pointing up was supposed to indicate that.
+If you pull apart the two flaps with _Hogwarts School of Witchcraft & Wizardry_ on them, you find an empty windrose - that is, a star with sixteen points, one for each compass direction. The _N_ with the arrow pointing up was supposed to indicate that.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2252-empty-windrose.jpg">
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2252-empty-windrose.jpg" class="mapBorder" width="50%" alt="The empty windrose">
@@ -68,47 +68,51 @@ If you pull apart the two flaps with "Hogwarts School of Witchcraft & Wizardry" 
 
 On the top is a riddle:
 
-<a href="/images/scavengerhunts/2013-44-marauders/IMG_2247-windrose-riddle.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2247-windrose-riddle.jpg" class="mapBorder" width="50%" alt="The riddle">
-</a>
+_Four snitches hold the secret_<br/>
+_&nbsp;&nbsp;&nbsp;&nbsp;to where your treasure is hid._<br/>
+_Four winds blew them far away,_<br/>
+_&nbsp;&nbsp;&nbsp;&nbsp;and through the house they have slid._<br/>
+_The map you hold will help you,_<br/>
+_&nbsp;&nbsp;&nbsp;&nbsp;if you search it like a grid._<br/>
+_Assemble the clues below_<br/>
+_&nbsp;&nbsp;&nbsp;&nbsp;and always be intrepid!_
 
 and the bottom has clues:
 
-<a href="/images/scavengerhunts/2013-44-marauders/IMG_2248-windrose-clues.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2248-windrose-clues.jpg" class="mapBorder" width="50%" alt="The clues">
-</a>
-
-_Note the photos have the snitches assembled in, showing the final riddle - so don't peek!_
+_A stern north-northeaster blew your first clue up-and-away to hide._<br/>
+_Your second followed a strong southwester, hungry for adventure._<br/>
+_Eight dragons guard your third, just south of southeast._<br/>
+_The fourth escaped outside, following this house's namesake, the west wind._
 
 If you fold this flap back, you will find the super secret, extra advice. This is really only helpful if you already know both Harry Potter and the house - fortunately my daughter did!
 
-_- North-northeast -_
-
+**_North-northeast_**<br/>
 _You might need to ask Neville's help, he really gets it._
 
-_- Southwest -_
-
+**_Southwest_**<br/>
 _Dobby would tell you to tickle a pear._
 
-_- South-southeast -_
-
+**_South-southeast_**<br/>
 _Fred and George point to someone 'Pacing in his study'._
 
-_- West -_
-
+**_West_**<br/>
 _Mrs. Weasely likes to listen to Celestina Warbeck for inspiration._
 
-Aside from the riddle, the clues and the advice, there are a number of _tells_ to help you out. As you might guess, each section of the map has one snitch. The advice tells you where that wind would blow things to (_e.g._ Neville really 'got' the room of requirement, so the North-northeast snitch was blown into my daughter's secret closet).
+Aside from the riddle, the clues and the advice, there are a number of _tells_ to help you out. As you might guess, each section of the map has one snitch. The advice tells you where that wind would blow things to (_e.g._ Neville really 'got' the room of requirement, so the North-northeast snitch was blown into my daughter's secret closet - marked "Room of Requirement"). The other tell is that I put little snitch icons in each section in the approximate location where they could be found (so for example, one snitch is in the _Flue Network_)
 
-Bouncing around the house and even going outside, you finally locate all four snitches. Note that each snitch has an abbreviation of a compass direction with an arrow and that the edges of the stars have letters, that do not mean very much by themselves.
+Bouncing around the house and even going outside, you finally locate all four snitches. Note that each snitch has an abbreviation of a compass direction with an arrow and that the edges of the stars have letters, though those do not mean very much by themselves.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2251-snitches.jpg">
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2251-snitches.jpg" class="mapBorder" width="100%" alt="The snitches">
 </a>
 
-Putting the snitches into the windrose - with the arrows pointing to the correct compass direction, reveals the final clue:
+Putting all four snitches into the windrose - with the arrows pointing to the correct compass direction, reveals the final clue:
 
 _Seek illumination in the restricted section of the library_
+
+<a href="/images/scavengerhunts/2013-44-marauders/IMG_2247-windrose-riddle.jpg">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2247-windrose-riddle.jpg" class="mapBorder" width="50%" alt="The riddle">
+</a>
 
 Following this clue takes you to the secret bookshelf upon which is the book of illumination:
 
@@ -119,6 +123,8 @@ Following this clue takes you to the secret bookshelf upon which is the book of 
 Inside the book is a thin strip of paper with a phone number. When you call the number, you hear a ringing phone in the house. Following the sound (and redialing if you take too long), you find your first iPhone.
 
 _Merry Christmas!_
+
+<hr />
 
 ## Behind the scenes
 
