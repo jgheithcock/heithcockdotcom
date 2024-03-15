@@ -73,8 +73,10 @@ export default function RssContent({ data, show_feeds }) {
         if (err) throw err;
         let closeFeed = show_feeds == "never";
         const items = feed.items.map((item) => {
+          const key_str = item.guid || item.link || item.title;
+          if (typeof key_str.toString === "undefined") return null;
           const new_item = (
-            <React.Fragment key={item.guid || item.link || item.title}>
+            <React.Fragment key={key_str}>
               <DT {...item} closeFeed={closeFeed}></DT>
               <DD {...item}></DD>
               {/* title, link, pubDate, content, contentSnippet, guid, categories, isoDate - where guid is misc type and date, category is either "Current Conditions" or "Weather Forecast" */}
