@@ -3,7 +3,7 @@ title: "2013 - 44 Marauders Map"
 excerpt: "Still my favorite scavenger hunt."
 coverImage:
   src: "/images/scavengerhunts/2013-44-marauders/maraudersmap-44westwind.jpg"
-  alt: "The first map and the snitch"
+  alt: "44 Westwind as the Hogwart's Marauders map"
   width: 960
   height: 960
 date: "2013-12-25"

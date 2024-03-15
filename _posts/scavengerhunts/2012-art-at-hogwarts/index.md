@@ -3,7 +3,7 @@ title: "2012 - Art at Hogwarts"
 excerpt: "The sequel."
 coverImage:
   src: "https://www.elsworthartworks.com/images/oil/landscapes/mendocino_coast_sunset_1080.jpg"
-  alt: "The first map and the snitch"
+  alt: "The painting for the clue 'Stand on a cliff, overlooking the ocean'"
   width: 864
   height: 1080
 date: "2012-12-25"

@@ -3,7 +3,7 @@ title: "2014 - Educational Decrees"
 excerpt: "A tribute to Dolores Umbridge."
 coverImage:
   src: "/images/scavengerhunts/2014-educational-decrees/decree-44.jpg"
-  alt: "The first map and the snitch"
+  alt: "Educational decree #44"
   width: 797
   height: 1188
 date: "2014-12-25"
