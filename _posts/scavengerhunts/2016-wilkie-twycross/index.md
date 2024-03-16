@@ -6,7 +6,7 @@ coverImage:
   alt: "Newt's letter to Morgan"
   width: 904
   height: 1155
-date: "2016-2-10"
+date: "2016-02-10"
 author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
