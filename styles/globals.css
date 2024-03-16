@@ -233,6 +233,11 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
     padding: 6px !important;
 }
 
+img.mapBorder {
+  max-width: 100%;
+  max-height: 1000px;
+}
+
 @media screen and (max-width: 1500px) {
   .postPreview  {
     width: 100%;
