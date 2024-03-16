@@ -18,7 +18,7 @@ For the fourth scavenger hunt, I happened across [KylieSmiley16's Educational De
 
 We had a tacit understanding for the prior scavenger hunts that, unless explicity called out, the clues would be indoors, on "our side" of the house and also on the main floor or downstairs and this was no exception.
 
-The big concept here was that, as a _true Gryffindor_, she would need to break each and every one of the decrees. Later of course she realized she was a _true Ravenclaw_ but the defiance remained.
+The big concept here was that, as a _true Gryffindor_, she would need to break each and every one of the decrees. Later of course she informed me she was a _true Ravenclaw_ but the defiance remained.
 
 <hr/>
 
