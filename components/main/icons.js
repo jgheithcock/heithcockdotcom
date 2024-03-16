@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import styles from "../../styles/Main.module.css";
 
 export const Icon = ({
   url,
@@ -27,28 +28,19 @@ export const Icon = ({
   );
 };
 
-export const RightArrowIcon = ({ url, title, isTextButton = true }) => {
+export const IconButton = ({ icon, url, title, isTextButton = true }) => {
   if (!url) return <>{title}</>;
   return (
     <Link key={url} href={url}>
-      <a>⮚{isTextButton && title}</a>
+      <a className={styles.iconButton}>
+        <span className="symbol">{icon}</span>
+        {isTextButton && <label>{title}</label>}
+      </a>
     </Link>
   );
 };
+export const RightArrowIcon = (params) => <IconButton icon={"⮚"} {...params} />;
 
-export const UpArrowIcon = ({ url, title, isTextButton = true }) => {
-  if (!url) return <>{title}</>;
-  return (
-    <Link key={url} href={url}>
-      <a>⮙{isTextButton && title}</a>
-    </Link>
-  );
-};
-export const LeftArrowIcon = ({ url, title, isTextButton = true }) => {
-  if (!url) return <>{title}</>;
-  return (
-    <Link key={url} href={url}>
-      <a>⮘ {isTextButton && title}</a>
-    </Link>
-  );
-};
+export const UpArrowIcon = (params) => <IconButton icon={"⮙"} {...params} />;
+
+export const LeftArrowIcon = (params) => <IconButton icon={"⮘"} {...params} />;

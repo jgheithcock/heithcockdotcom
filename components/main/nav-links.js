@@ -6,19 +6,17 @@ const NavLinks = ({ parentPost, previousPost, nextPost = {} }) => {
   return (
     <span className={styles.NavLinks}>
       {previousPost && (
-        <span className="prevBtn">
+        <span className={styles.prevBtn}>
           <LeftArrowIcon title={previousPost.title} url={previousPost.slug} />
-          &nbsp;&nbsp;
         </span>
       )}
       {parentPost && (
-        <span className="upBtn">
+        <span className={styles.upBtn}>
           <UpArrowIcon title={parentPost.title} url={parentPost.slug} />
-          &nbsp;&nbsp;
         </span>
       )}
       {nextPost && (
-        <span className="nextBtn">
+        <span className={styles.nextBtn}>
           <RightArrowIcon title={nextPost.title} url={nextPost.slug} />
         </span>
       )}

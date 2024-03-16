@@ -16,7 +16,7 @@ export default function Document() {
           crossOrigin="true"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=IBM+Plex+Mono:wght@300&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Tangerine:wght@700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=IBM+Plex+Mono:wght@300&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Noto+Sans+Symbols+2&family=Tangerine:wght@700&display=swap"
           rel="stylesheet"
         />
       </Head>
