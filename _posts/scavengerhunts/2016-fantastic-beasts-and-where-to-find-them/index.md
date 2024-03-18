@@ -14,39 +14,46 @@ ogImage:
   url: "/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg"
 ---
 
-## The Letter
+For a change, I eschewed Photoshop and just wrote the opening clue - a letter from Newt explaining that he had left his trunk behind - in a spiral and decorated it with some alchemical symbols and a dragon head in the center for the Chinese Fireball.
 
-For a change, I eschewed Photoshop and just wrote the opening clue - a letter from Newt explaining that he had left his trunk behind - in a spiral and decorated it with some alchemical symbols.
+## The Letter
 
 <a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg">
 <img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg" alt="Newt's Letter" class="mapBorder" width="100%" />
 </a>
 
-So you don't tweak your neck, the letter in plain form:
+So you don't tweak your neck, the letter in plain form is...
 
 > Dear Morgan,
 >
-> I'm afraid that in
-> my hurried departure
+> I'm afraid that in  
+> my hurried departure  
 > I left my trunk behind –
 >
-> just as well perhaps as
-> going through customs
-> again might be more
+> just as well perhaps as  
+> going through customs  
+> again might be more  
 > challenging this time.
 >
-> I'd like for you to keep it and
+> I'd like for you to keep it and  
 > safeguard it and its contents.
 >
-> Please feel free to make use of it and anything you find there.
+> Please feel free to make use of it  
+> and anything you find there.
 >
-> There should be some useful kit for a budding naturalist such as yourself.
+> There should be some useful kit for  
+> a budding naturalist such as yourself.  
+> The only issue is that I'm dashed
 >
-> The only issue is that I'm dashed if I can remember where I left it. I'm sure it isn't on the top floor, or outside.
+> if I can remember where I left it.  
+> I'm sure it isn't on the top floor,  
+> or outside.
 >
-> I have a feeling that it was by one of the animals you showed me – perhaps that lovely Chinese Fireball?
+> I have a feeling that it was by  
+> one of the animals you showed me  
+> – perhaps that lovely Chinese Fireball?
 >
-> Best of luck,
+> Best of luck,  
 > Newt Scamander
 
 The letter was then folded in a variant of the "Twist Note" from [Michael G. LaFosse and Richard L. Alexander's Origami Stationery](http://origamido.rochlis.com/products/origami_stationery.php). My variant is more suited to the scavenger hunt as it folds into a minature Marauders Map. Interestingly, I think this was my own innovation. Later, in 2017, Thomas Hull and Michael Urbanski did a very nice paper on [the Augmented Square Twist](http://origametry.net/ast/ast.html) which shows this in detail.
@@ -81,19 +88,33 @@ She had gotten a stuffed pygmy puff and so this was an easy find, under it was a
 
 ## Pygmy Puff
 
-The pygmy puff was a simple [waterbomb](http://www.origami-instructions.com/origami-water-balloon.html)
+_The pygmy puff was a simple [waterbomb](http://www.origami-instructions.com/origami-water-balloon.html)..._
+
+<a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puffs.jpg">
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puffs.jpg" alt="Pygmy puffs" class="mapBorder" width="100%" />
+</a>
+
+_Unfolded..._
+
+<a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puff-clue.jpg">
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puff-clue.jpg" alt="Pygmy puff and clue" class="mapBorder" width="100%" />
+</a>
 
 > _Well, this is what comes of having such a wonderful menagerie. How about that bowtruckle—the one with the curious affinity for grapevines?_
 
-Another stuffed animal - of a bowtruckle in fact. We had put him a statue with some vines draping around him. Inside was a....
+And in a sconce of a figure with grapevines was a...
 
 ## Bowtruckle
 
+<a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/bow-truckle.jpg">
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/bow-truckle.jpg" alt="Bow Truckle" class="mapBorder" width="100%" />
+</a>
+
 The part of the bowtrucle was played by a [Praying Mantis](http://en.origami-club.com/bug/mantis/mantis/index.html).
 
-> _Hmm, no, no, clearly not. I'm sure we are close. Didn't you show me some wonderful Gryffindor Lions?_
+> _Hmm, no, no, clearly not. I'm sure we are close. Didn't you show me a wonderful Gryffindor Lion?_
 
-Once again, [Suzy's Italian Lion](https://www.elsworthartworks.com/oil/past/italian_lion_waterspout.html) was pressed into service, behind it was of course a...
+Once again, [Suzy's Italian Lion](https://www.elsworthartworks.com/oil/past/italian_lion_waterspout.html) was pressed into service, behind it was a...
 
 ## Gryffindor Lion
 
