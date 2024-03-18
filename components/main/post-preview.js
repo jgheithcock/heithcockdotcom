@@ -22,7 +22,10 @@ const PostPreview = ({ title, coverImage, date, excerpt, author, slug }) => {
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className={styles.excerpt}>{excerpt}</p>
+      <p
+        dangerouslySetInnerHTML={{ __html: excerpt }}
+        className={styles.excerpt}
+      />
     </div>
   );
 };
