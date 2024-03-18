@@ -2,16 +2,16 @@
 title: "2017 - A Ghostly Christmas"
 excerpt: "Hogwart's ghosts lead you on a ghostly quest"
 coverImage:
-  src: "/images/scavengerhunts/2017-ghostly-christmas/box-and-clues.jpg"
-  alt: "The clues to a ghostly Christmas"
-  width: 4032
-  height: 3024
+  src: "/images/scavengerhunts/2017-ghostly-christmas/ghostly-christmas.jpg"
+  alt: "A ghostly Christmas"
+  width: 3019
+  height: 3019
 date: "2017-12-25"
 author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/scavengerhunts/2017-ghostly-christmas/box-and-clues.jpg"
+  url: "/images/scavengerhunts/2017-ghostly-christmas/ghostly-christmas.jpg"
 ---
 
 The concept for this year's scavenger hunt was that Peeves, the poltergeist, had hidden your present and you would need to get the ghosts of Hogwarts to help you find him (and your present). The vision I had was to have all of the clues hidden, either inside a closet or dark cabinet. They would be in front of a candle (electric) and so have a spooky glow.
