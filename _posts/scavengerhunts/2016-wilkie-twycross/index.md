@@ -3,7 +3,7 @@ title: "2016 - Birthday with Wilkie Twycross"
 excerpt: "Wilkie Twycross teaches the three D's of Apparition"
 coverImage:
   src: "/images/scavengerhunts/2016-wilkie-twycross/flyer.jpg"
-  alt: "Newt's letter to Morgan"
+  alt: "Wilkie Twycross's flyer for teaching the three D's of Apparition"
   width: 904
   height: 1155
 date: "2016-02-10"
