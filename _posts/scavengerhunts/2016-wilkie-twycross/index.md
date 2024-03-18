@@ -23,32 +23,32 @@ For my daughter's sixteenth birthday, I made a little scavenger hunt based on [W
 The concept was to recreate Wilkie's flyer and have her 'apparate' from one clue to the next:
 
 <a href="/images/scavengerhunts/2016-wilkie-twycross/flyer.jpg">
-<img src="/images/scavengerhunts/2016-wilkie-twycross/flyer.jpg" alt="Wilkie Twycross's flyer for teaching the three D's of Apparition" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-wilkie-twycross/flyer.jpg" alt="Wilkie Twycross's flyer for teaching the three D's of Apparition" class="mapBorder" />
 </a>
 
 <hr/>
 In the box with the flyer were two notes. One from Albus Dumbledore (so setting the rules that this scavenger hunt would take place out of doors):
 
 <a href="/images/scavengerhunts/2016-wilkie-twycross/note-from-albus.jpg">
-<img src="/images/scavengerhunts/2016-wilkie-twycross/note-from-albus.jpg" alt="Note from Albus" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-wilkie-twycross/note-from-albus.jpg" alt="Note from Albus" class="mapBorder" />
 </a>
 
 The second was the first instruction from Wilkie:
 
 <a href="/images/scavengerhunts/2016-wilkie-twycross/destination.jpg">
-<img src="/images/scavengerhunts/2016-wilkie-twycross/destination.jpg" alt="Wilkie's instruction for destination" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-wilkie-twycross/destination.jpg" alt="Wilkie's instruction for destination" class="mapBorder" />
 </a>
 
 Under the sundial by the waterfall was Wilkie's second instruction:
 
 <a href="/images/scavengerhunts/2016-wilkie-twycross/determination.jpg">
-<img src="/images/scavengerhunts/2016-wilkie-twycross/determination.jpg" alt="Wilkie's instruction for determination" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-wilkie-twycross/determination.jpg" alt="Wilkie's instruction for determination" class="mapBorder" />
 </a>
 
 This was a bit of a stretch, but when you realize how many spiders had taken over the tree house, you would find the last instruction:
 
 <a href="/images/scavengerhunts/2016-wilkie-twycross/deliberation.jpg">
-<img src="/images/scavengerhunts/2016-wilkie-twycross/deliberation.jpg" alt="Wilkie's instruction for deliberation" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-wilkie-twycross/deliberation.jpg" alt="Wilkie's instruction for deliberation" class="mapBorder" />
 </a>
 
 The Roc is a large bird, and so if you looked in the chicken coop, you would find your present - a new key fob to my Prius (No, I didn't buy her a car for her sixteenth birthday!)

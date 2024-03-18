@@ -19,7 +19,7 @@ Once again, I was saved by the Internet. Robin Springett had created a template 
 The other inspiration was the _wonderful_ letters Harry received in _The Order of the Phoenix_ from Mafalda Hopkirk, with such cheerful signoffs after horrible news. In this case, each memo would restrict the possible locations of both _parcels and memorandums_ to differen areas of the house.
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg" class="mapBorder" width="100%" alt="The memos">
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg" class="mapBorder" alt="The memos">
 </a>
 
 <hr/>
@@ -27,7 +27,7 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #1
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-1.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-1.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-1.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -35,7 +35,7 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #2
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-2.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-2.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-2.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -43,7 +43,7 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #3
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-3.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-3.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-3.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -51,7 +51,7 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #4
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-4.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-4.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-4.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -59,7 +59,7 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #5
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-5.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-5.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-5.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -67,7 +67,7 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #6
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-6.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-6.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-6.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -75,5 +75,5 @@ The other inspiration was the _wonderful_ letters Harry received in _The Order o
 ## Memo #7
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-7.jpg">
-<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-7.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memo-7.jpg" alt="Decree #32" class="mapBorder" />
 </a>

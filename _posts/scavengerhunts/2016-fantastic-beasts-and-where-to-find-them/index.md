@@ -19,7 +19,7 @@ For a change, I eschewed Photoshop and just wrote the opening clue - a letter fr
 ## The Letter
 
 <a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg">
-<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg" alt="Newt's Letter" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg" alt="Newt's Letter" class="mapBorder" />
 </a>
 
 So you don't tweak your neck, the letter in plain form is...
@@ -61,7 +61,7 @@ The letter was then folded in a variant of the "Twist Note" from [Michael G. LaF
 Here is the box with the folded letter and the origami animals you will find.
 
 <a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/box.jpg">
-<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/box.jpg" alt="The fantastic origami beasts and the letter" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/box.jpg" alt="The fantastic origami beasts and the letter" class="mapBorder" />
 </a>
 
 <hr/>
@@ -91,13 +91,13 @@ She had gotten a stuffed pygmy puff and so this was an easy find, under it was a
 _The pygmy puff was a simple [waterbomb](http://www.origami-instructions.com/origami-water-balloon.html)..._
 
 <a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puffs.jpg">
-<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puffs.jpg" alt="Pygmy puffs" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puffs.jpg" alt="Pygmy puffs" class="mapBorder" />
 </a>
 
 _Unfolded..._
 
 <a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puff-clue.jpg">
-<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puff-clue.jpg" alt="Pygmy puff and clue" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/pygmy-puff-clue.jpg" alt="Pygmy puff and clue" class="mapBorder" />
 </a>
 
 > _Well, this is what comes of having such a wonderful menagerie. How about that bowtruckle—the one with the curious affinity for grapevines?_
@@ -107,7 +107,7 @@ And in a sconce of a figure with grapevines was a...
 ## Bowtruckle
 
 <a href="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/bow-truckle.jpg">
-<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/bow-truckle.jpg" alt="Bow Truckle" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/bow-truckle.jpg" alt="Bow Truckle" class="mapBorder" />
 </a>
 
 The part of the bowtrucle was played by a [Praying Mantis](http://en.origami-club.com/bug/mantis/mantis/index.html).

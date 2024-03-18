@@ -19,19 +19,19 @@ For the third scavenger hunt, I wanted to more faithfully recreate the Marauders
 Opening the box reveals a folded up Marauder's Map:
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2240-in-box.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2240-in-box.jpg" class="mapBorder" width="100%" alt="Marauders map in box">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2240-in-box.jpg" class="mapBorder" alt="Marauders map in box">
 </a>
 
 The natural step is to open it all out, but that does not make a lot of sense:
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2231-spread-out.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2231-spread-out.jpg" class="mapBorder" width="100%" alt="Marauders map spread out in front of the box">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2231-spread-out.jpg" class="mapBorder" alt="Marauders map spread out in front of the box">
 </a>
 
 The first puzzle is to figure out that you need to open the map one section at a time, both left and right. If you do, the first 'page' is the grounds.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2241-page-1-the-grounds.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2241-page-1-the-grounds.jpg" class="mapBorder" width="100%" alt="First page of the map - the grounds">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2241-page-1-the-grounds.jpg" class="mapBorder" alt="First page of the map - the grounds">
 </a>
 
 _(Note the little '44 Westwind' version of Hogwarts in the middle.)_
@@ -39,25 +39,25 @@ _(Note the little '44 Westwind' version of Hogwarts in the middle.)_
 The second 'page' is the front yard:
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2242-page-2-front-yard.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2242-page-2-front-yard.jpg" class="mapBorder" width="100%" alt="Second page of the map - the front yard">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2242-page-2-front-yard.jpg" class="mapBorder" alt="Second page of the map - the front yard">
 </a>
 
 The third 'page' is the Great Room, where the Christmas tree would have been. The strange amoeba shape in the middle with _House Elves Only_ is the kitchen counter, the _Flue Network_ is the pizza oven, and the _Cauldron Cupboard_ is the pantry (which we call the larder).
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg" class="mapBorder" width="100%" alt="Third page of the map - the great room">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg" class="mapBorder" alt="Third page of the map - the great room">
 </a>
 
 The fourth 'page' is our daughter's room, where the _Room of Requirement_ is a secret closet.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2244-page-4-room-of-requirement.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2244-page-4-room-of-requirement.jpg" class="mapBorder" width="100%" alt="Second page of the map - the girl's room">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2244-page-4-room-of-requirement.jpg" class="mapBorder" alt="Second page of the map - the girl's room">
 </a>
 
 The fifth and final 'page' is the downstairs, where my office and bar is. The area with _Grindylow_ is an aquarium.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2245-page-5-downstairs.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2245-page-5-downstairs.jpg" class="mapBorder" width="100%" alt="Third page of the map - downstairs and the windrose">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2245-page-5-downstairs.jpg" class="mapBorder" alt="Third page of the map - downstairs and the windrose">
 </a>
 
 If you pull apart the two flaps with _Hogwarts School of Witchcraft & Wizardry_ on them, you find an empty windrose - that is, a star with sixteen points, one for each compass direction. The _N_ with the arrow pointing up was supposed to indicate that.
@@ -103,7 +103,7 @@ Aside from the riddle, the clues and the advice, there are a number of _tells_ t
 Bouncing around the house and even going outside, you finally locate all four snitches. Note that each snitch has an abbreviation of a compass direction with an arrow and that the edges of the stars have letters, though those do not mean very much by themselves.
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2251-snitches.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2251-snitches.jpg" class="mapBorder" width="100%" alt="The snitches">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2251-snitches.jpg" class="mapBorder" alt="The snitches">
 </a>
 
 Putting all four snitches into the windrose - with the arrows pointing to the correct compass direction, reveals the final clue:
@@ -117,7 +117,7 @@ _Seek illumination in the restricted section of the library_
 Following this clue takes you to the secret bookshelf upon which is the book of illumination:
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2253-book-of-lllumination.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/IMG_2253-book-of-lllumination.jpg" class="mapBorder" width="100%" alt="The book of illumination">
+<img src="/images/scavengerhunts/2013-44-marauders/IMG_2253-book-of-lllumination.jpg" class="mapBorder" alt="The book of illumination">
 </a>
 
 Inside the book is a thin strip of paper with a phone number. When you call the number, you hear a ringing phone in the house. Following the sound (and redialing if you take too long), you find your first iPhone.
@@ -142,7 +142,7 @@ The cover of the original Marauder's map (by [MinaLima](https://minalima.com/pro
 _MinaLima's depiction of Hogwarts_
 
 <a href="https://minalima.com/product/the-marauders-map/">
-<img src="/images/scavengerhunts/2013-44-marauders/maraudersmap-minalima.png" class="mapBorder" width="100%" alt="MinaLima's depiction of Hogwarts on the Marauders Map">
+<img src="/images/scavengerhunts/2013-44-marauders/maraudersmap-minalima.png" class="mapBorder" alt="MinaLima's depiction of Hogwarts on the Marauders Map">
 </a>
 
 </div>
@@ -152,7 +152,7 @@ _MinaLima's depiction of Hogwarts_
 _Our house as Hogwarts_
 
 <a href="/images/scavengerhunts/2013-44-marauders/maraudersmap-44westwind.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/maraudersmap-44westwind-414.jpg" class="mapBorder" width="100%" alt="Our house as Hogwarts on the cover of the Marauders map">
+<img src="/images/scavengerhunts/2013-44-marauders/maraudersmap-44westwind-414.jpg" class="mapBorder" alt="Our house as Hogwarts on the cover of the Marauders map">
 </a>
 </div>
 </div>
@@ -162,7 +162,7 @@ As it should be clear, I am not an artist, and our house is a lot less castle-li
 Here is my extremely poor line drawing:
 
 <a href="/images/scavengerhunts/2013-44-marauders/44-westwind-drawing.jpg">
-<img src="/images/scavengerhunts/2013-44-marauders/44-westwind-drawing.jpg" class="mapBorder" width="100%" alt="Sketch of 44 Westwind">
+<img src="/images/scavengerhunts/2013-44-marauders/44-westwind-drawing.jpg" class="mapBorder" alt="Sketch of 44 Westwind">
 </a>
 
 ### The windrose
@@ -170,7 +170,7 @@ Here is my extremely poor line drawing:
 The other big challenge was what to do for the clues - I was looking for something other than a random collection of [plot coupons](https://tvtropes.org/pmwiki/pmwiki.php/Main/PlotCoupon). Ideally, I wanted it to not matter when you found each item but would need them all to move forward. The fifth Harry Potter movie, we see Harry looking at the map with a beautiful compass rose in it and I thought you could split the sixteen compass points into four four-pointed stars and fold them together. Each star would only have part of the clue and maybe we could arrange it to not matter what order you found and put in the star. And maybe I could make it in SVG!
 
 <a href="/images/scavengerhunts/2013-44-marauders/four_roses.svg">
-<img src="/images/scavengerhunts/2013-44-marauders/four_roses.svg" class="mapBorder" width="100%" alt="Four roses (stars)">
+<img src="/images/scavengerhunts/2013-44-marauders/four_roses.svg" class="mapBorder" alt="Four roses (stars)">
 </a>
 
 (_The text around the circle uses the [Lumos](https://www.harrypotterfanzone.com/fonts/lumos-font/) font and so some substitution may appear._)

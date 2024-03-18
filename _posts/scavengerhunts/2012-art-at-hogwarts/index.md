@@ -29,7 +29,7 @@ As before, I made seven clues, one for each book but in reverse order as her pre
 - There’s a <s>troll</s> present in the dungeon! (Just thought you’d like to know)
 
 <a href="/images/scavengerhunts/2012-art-at-hogwarts/art-clues.png">
-<img src="/images/scavengerhunts/2012-art-at-hogwarts/art-clues.png" class="mapBorder" width="100%" alt="Art Clues">
+<img src="/images/scavengerhunts/2012-art-at-hogwarts/art-clues.png" class="mapBorder" alt="Art Clues">
 </a>
 
 <hr/>
@@ -37,5 +37,5 @@ As before, I made seven clues, one for each book but in reverse order as her pre
 _The painting for "Stand on a cliff, overlooking the ocean"_
 
 <a href="https://www.elsworthartworks.com/oil/landscapes/mendocino_coast_sunset.html">
-<img src="https://www.elsworthartworks.com/images/oil/landscapes/mendocino_coast_sunset_1080.jpg" class="mapBorder" width="100%" alt="Mendocino Coast Sunset, by Suzy Elsworth">
+<img src="https://www.elsworthartworks.com/images/oil/landscapes/mendocino_coast_sunset_1080.jpg" class="mapBorder" alt="Mendocino Coast Sunset, by Suzy Elsworth">
 </a>

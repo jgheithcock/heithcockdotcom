@@ -29,7 +29,7 @@ _School Mascots are not to be consulted for extracurricular activities_
 (Behind the [painting of the Lion](https://www.elsworthartworks.com/oil/past/italian_lion_waterspout.html))
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-32.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-32.jpg" alt="Decree #32" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-32.jpg" alt="Decree #32" class="mapBorder" />
 </a>
 
 <hr/>
@@ -41,7 +41,7 @@ _Use of the Floo Network is restricted to the High Inquisitor and her staff_
 (Inside the Pizza Oven)
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-37.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-37.jpg" alt="Decree #37" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-37.jpg" alt="Decree #37" class="mapBorder" />
 </a>
 
 <hr/>
@@ -53,7 +53,7 @@ _Students must observe new restrictions regarding Library and Common Room Access
 (In the bookshelf door)
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-38.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-38.jpg" alt="Decree #38" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-38.jpg" alt="Decree #38" class="mapBorder" />
 </a>
 
 <hr/>
@@ -65,7 +65,7 @@ _The Mirror of Erised is Off Limits to all Students_
 (Behind the Front Hall Mirror)
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-39.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-39.jpg" alt="Decree #39" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-39.jpg" alt="Decree #39" class="mapBorder" />
 </a>
 
 <hr/>
@@ -77,7 +77,7 @@ _Boys and Girls Found Near the Black Lake Will Be Expelled_
 (By the Aquarium)
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-41.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-41.jpg" alt="Decree #41" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-41.jpg" alt="Decree #41" class="mapBorder" />
 </a>
 
 <hr/>
@@ -89,7 +89,7 @@ _Access to the Dungeons is Only Permitted to Members of the Inquisitorial Squad_
 (In the Wine Cellar)
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-43.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-43.jpg" alt="Decree #43" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-43.jpg" alt="Decree #43" class="mapBorder" />
 </a>
 
 <hr/>
@@ -101,7 +101,7 @@ _Honeyduke beverages are not to be consumed on School Grounds_
 (In the Coke Machine)
 
 <a href="/images/scavengerhunts/2014-educational-decrees/decree-44.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/decree-44.jpg" alt="Decree #44" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/decree-44.jpg" alt="Decree #44" class="mapBorder" />
 </a>
 
 <hr />
@@ -109,5 +109,5 @@ _Honeyduke beverages are not to be consumed on School Grounds_
 The &lsquo;present&rsquo; was a certificate for horseback riding lessons.
 
 <a href="/images/scavengerhunts/2014-educational-decrees/certificate.jpg">
-<img src="/images/scavengerhunts/2014-educational-decrees/certificate.jpg" alt="Certificate for horseback lessons" class="mapBorder" width="100%" />
+<img src="/images/scavengerhunts/2014-educational-decrees/certificate.jpg" alt="Certificate for horseback lessons" class="mapBorder" />
 </a>
