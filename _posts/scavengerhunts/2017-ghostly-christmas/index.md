@@ -1,6 +1,6 @@
 ---
 title: "2017 - A Ghostly Christmas"
-excerpt: "Hogwart's ghosts lead you on a ghostly quest"
+excerpt: "Hogwart's ghosts lead you on a spooky quest"
 coverImage:
   src: "/images/scavengerhunts/2017-ghostly-christmas/ghostly-christmas.jpg"
   alt: "A ghostly Christmas"
