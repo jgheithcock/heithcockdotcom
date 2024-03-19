@@ -183,6 +183,9 @@ a.cloud.active::before {
     color: white;
     background: black;
   }
+  img {
+    background: #f5e3c9;
+  }
 }
 .mw-editsection { display:none;}
 
