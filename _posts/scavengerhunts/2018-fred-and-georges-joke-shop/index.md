@@ -5,7 +5,7 @@ coverImage:
   src: "/images/scavengerhunts/2018-fred-and-georges-joke-shop/clues-all.jpg"
   alt: "The clues from Fred & George's scavenger hunt"
   width: 3024
-  height: 4032
+  height: 3220
 date: "2018-12-25"
 author:
   name: JG Heithcock
