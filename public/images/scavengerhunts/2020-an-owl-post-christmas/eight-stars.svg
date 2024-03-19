@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width="940" height="465">
+    <style>
+        path { fill:transparent; stroke:#880000;}
+        text {fill:#880000;
+        font: 16px "Lumos", "Yanone Tagesschrift", "Marker Felt", "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;}
+        .wind {stroke-opacity:.25; fill:transparent; fill-opacity:.95;}
+        .ring {stroke:#880000; stroke-opacity:.9; fill:transparent; }
+        .rose_text {font-size:42.5px;}
+    </style>
+    <title>Eight Stars</title>
+
+<defs>
+  <path id="text_path" transform="rotate(6,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+  <path id="text_path_2" transform="rotate(28.5,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+  <path id="text_path_3" transform="rotate(51,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+  <path id="text_path_4" transform="rotate(73.5,144,144)" fill="none" stroke="blue" d="m28,144c0,-64.088394 51.911606,-116 116,-116c64.088394,0 116,51.911606 116,116c0,64.088394 -51.911606,116 -116,116c-64.088394,0 -116,-51.911606 -116,-116z" />
+
+  <clipPath id="clip_path">
+    <path d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" fill="white" stroke="#800"/>
+  </clipPath>
+</defs>
+
+<g transform="scale(.8,.8)">
+  <path id="base_wind" class="wind" d="m0,0 l144,60 l144,-60 l-60,144 l60,144 l-144,-60 l-144,60 l60,-144 l-60,-144" fill="white" stroke="#800"/>
+  <use x="288" y="0" xlink:href="#base_wind" id="rose2" width="288" height="288"/>
+  <use x="0" y="288" xlink:href="#base_wind" id="rose3" width="288" height="288"/>
+  <use x="288" y="288" xlink:href="#base_wind" id="rose4" width="288" height="288"/>
+  <g clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text">
+      <textPath xlink:href="#text_path">This feathered fowl's no owl but- </textPath>
+    </text>
+  </g>
+  <g transform="translate(288,0)" clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text" transform="rotate(22.5,144,144)">
+      <textPath xlink:href="#text_path">This feathered fowl's no owl but- </textPath>
+    </text>
+  </g>
+  <g transform="translate(0,288)" clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text">
+      <textPath xlink:href="#text_path_3">This feathered fowl's no owl but- </textPath>
+    </text>
+  </g>
+  <g transform="translate(288,288)" clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text">
+      <textPath xlink:href="#text_path_4">This feathered fowl's no owl but- </textPath>
+    </text>
+  </g>
+</g>
+
+<g transform="scale(.8,.8), translate(600,0)">
+  <use x="0" y="0" xlink:href="#base_wind" width="288" height="288"/>
+  <use x="288" y="0" xlink:href="#base_wind" width="288" height="288"/>
+  <use x="0" y="288" xlink:href="#base_wind" width="288" height="288"/>
+  <use x="288" y="288" xlink:href="#base_wind" width="288" height="288"/>
+  <g clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text">
+      <textPath xlink:href="#text_path">still fit for the Headmaster's mail.</textPath>
+    </text>
+  </g>
+  <g transform="translate(288,0)" clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text" transform="rotate(22.5,144,144)">
+      <textPath xlink:href="#text_path">still fit for the Headmaster's mail.</textPath>
+    </text>
+  </g>
+  <g transform="translate(0,288)" clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text">
+      <textPath xlink:href="#text_path_3">still fit for the Headmaster's mail.</textPath>
+    </text>
+  </g>
+  <g transform="translate(288,288)" clip-path="url(#clip_path)">
+    <circle id="circle_outer" class="ring" r="140" cy="144" cx="144"/>
+    <circle id="circle_inner" class="ring" r="109.877204" cy="144" cx="144"/>
+    <text class="rose_text">
+      <textPath xlink:href="#text_path_4">still fit for the Headmaster's mail.</textPath>
+    </text>
+  </g>
+</g>
+</svg>
