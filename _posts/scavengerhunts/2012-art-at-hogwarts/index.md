@@ -16,7 +16,7 @@ ogImage:
 
 The sequel. Like many sequels, this one was less interesting, visually, though I did like the concept.
 
-At the last minute, I realized I wanted to do another scavenger hunt but did not have any ideas for what to do. Fortunately, my wife is an artist (https://www.elsworthartworks.com/") and we have a lot of paintings in our house. One of the very cool things at Hogwarts is the paintings that move and talk to the students. For this scavenger hunt, my daughter would have to find the correct painting and then "talk" to it (by looking around for the banner that had the clue to the next painting).
+At the last minute, I realized I wanted to do another scavenger hunt but did not have any ideas for what to do. Fortunately, my wife is an artist ([elsworthartworks.com](https://www.elsworthartworks.com/)) and we have a lot of paintings in our house. One of the very cool things at Hogwarts is the paintings that move and talk to the students. For this scavenger hunt, my daughter would have to find the correct painting and then "talk" to it (by looking around for the banner that had the clue to the next painting).
 
 As before, I made seven clues, one for each book but in reverse order as her present was in the dungeon (the basement). That said, clearly I was reaching for some of these ("Listen to a screamer?"):
 
