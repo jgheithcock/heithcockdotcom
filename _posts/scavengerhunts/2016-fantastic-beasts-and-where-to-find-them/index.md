@@ -1,11 +1,11 @@
 ---
-title: "2016 - Fantastic Beasts and Where to Find Them"
+title: "2016 - A Fantastic Christmas"
 excerpt: "Newt forgets his trunk"
 coverImage:
   src: "/images/scavengerhunts/2016-fantastic-beasts-and-where-to-find-them/letter.jpg"
   alt: "Newt's letter to Morgan"
   width: 3024
-  height: 4032
+  height: 3024
 date: "2016-12-25"
 author:
   name: JG Heithcock
