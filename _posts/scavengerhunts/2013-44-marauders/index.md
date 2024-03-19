@@ -42,7 +42,7 @@ The second 'page' is the front yard:
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2242-page-2-front-yard.jpg" class="mapBorder" alt="Second page of the map - the front yard">
 </a>
 
-The third 'page' is the Great Room, where the Christmas tree would have been. The strange amoeba shape in the middle with _House Elves Only_ is the kitchen counter, the _Flue Network_ is the pizza oven, and the _Cauldron Cupboard_ is the pantry (which we call the larder).
+The third 'page' is the Great Room, where the Christmas tree would have been. The strange amoeba shape in the middle with _House Elves Only_ is the kitchen counter, the _Floo Network_ is the pizza oven, and the _Cauldron Cupboard_ is the pantry (which we call the larder).
 
 <a href="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg">
 <img src="/images/scavengerhunts/2013-44-marauders/IMG_2243-page-3-great-room.jpg" class="mapBorder" alt="Third page of the map - the great room">
@@ -98,7 +98,7 @@ _Fred and George point to someone 'Pacing in his study'._
 **_West_**<br/>
 _Mrs. Weasely likes to listen to Celestina Warbeck for inspiration._
 
-Aside from the riddle, the clues and the advice, there are a number of _tells_ to help you out. As you might guess, each section of the map has one snitch. The advice tells you where that wind would blow things to (_e.g._ Neville really 'got' the room of requirement, so the North-northeast snitch was blown into my daughter's secret closet - marked "Room of Requirement"). The other tell is that I put little snitch icons in each section in the approximate location where they could be found (so for example, one snitch is in the _Flue Network_)
+Aside from the riddle, the clues and the advice, there are a number of _tells_ to help you out. As you might guess, each section of the map has one snitch. The advice tells you where that wind would blow things to (_e.g._ Neville really 'got' the room of requirement, so the North-northeast snitch was blown into my daughter's secret closet - marked "Room of Requirement"). The other tell is that I put little snitch icons in each section in the approximate location where they could be found (so for example, one snitch is in the _Floo Network_)
 
 Bouncing around the house and even going outside, you finally locate all four snitches. Note that each snitch has an abbreviation of a compass direction with an arrow and that the edges of the stars have letters, though those do not mean very much by themselves.
 
