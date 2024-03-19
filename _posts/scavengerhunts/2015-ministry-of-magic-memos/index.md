@@ -4,8 +4,8 @@ excerpt: "Mafalda Hopkirk - our unsung hero"
 coverImage:
   src: "/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg"
   alt: "The memos, ready to fly"
-  width: 4032
-  height: 3024
+  width: 3020
+  height: 3780
 date: "2015-12-25"
 author:
   name: JG Heithcock
