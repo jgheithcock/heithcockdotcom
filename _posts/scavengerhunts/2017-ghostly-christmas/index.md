@@ -14,7 +14,7 @@ ogImage:
   url: "/images/scavengerhunts/2017-ghostly-christmas/ghostly-christmas.jpg"
 ---
 
-The concept for this year's scavenger hunt was that Peeves, the poltergeist, had hidden your present and you would need to get the ghosts of Hogwarts to help you find him (and your present). The vision I had was to have all of the clues hidden, either inside a closet or dark cabinet. They would be in front of a candle (electric) and so have a spooky glow.
+The concept for this year's scavenger hunt was that [Peeves, the poltergeist](https://harrypotter.fandom.com/wiki/Peeves), has hidden your present and you need to get the ghosts of Hogwarts to help you find him (and your present). My vision was to have all of the clues hidden inside a closet or a dark cabinet. They would be in front of a candle (electric) and so have a spooky glow.
 
 <a href="/images/scavengerhunts/2017-ghostly-christmas/box-and-clues.jpg">
 <img src="/images/scavengerhunts/2017-ghostly-christmas/box-and-clues.jpg" alt="The clues to a ghostly Christmas" class="mapBorder" />
@@ -28,27 +28,29 @@ In the box with the [Marauder's Map](./2013-44-marauders/) was the first clue:
 <img src="/images/scavengerhunts/2017-ghostly-christmas/clue-1.jpg" alt="The first clue - Peeves!" class="mapBorder" />
 </a>
 
-> Oh no! Peeves has your gift!\_
+> Oh no! Peeves has your gift!
 >
-> Perhaps the ghosts of Hogwarts can help you find him?\_
+> Perhaps the ghosts of Hogwarts can help you find him?
 >
 > I think I saw Sir Nicholas in Professor McGonagall's closet?
 
-From the map, and part of local lore, was that my wife's office was Professor McGonagall's and so in her closet you would find...
+From the map, and part of local lore, was that my wife's office was Professor McGonagall's, and so in her closet you would find...
 
 <a href="/images/scavengerhunts/2017-ghostly-christmas/clue-2.jpg">
 <img src="/images/scavengerhunts/2017-ghostly-christmas/clue-2.jpg" alt="The second clue - Sir Nicholas" class="mapBorder" />
 </a>
 
+_The card reads..._
+
 > You found Sir Nicholas!
 >
 > Sir Nicholas says...
 >
-> _&ldquo;I heard clanking in the chimney connected to the Flue network.&rdquo;_
+> _&ldquo;I distinctly heard clanking in the Floo network.&rdquo;_
 
-And so this establishes the pattern, you find a ghost, they direct you to some likely spot and follow you there. It doesn't pan out and so they direct you to where they think the next ghost might be. With four ghosts, that gives us eight clues with one of those as the starting clue in the box.
+And so this establishes the pattern: you find a ghost, they direct you to some likely spot, and follow you there. Their idea doesn't pan out and they direct you to where they think the next ghost might be. With four ghosts, that gives us eight clues with one of those as the starting clue in the box.
 
-If you scan through the [44 Westwind Marauder's Map](https://www.44westwind.com/map/index.html), you will see that is the pizza oven, and inside is...
+If you scan through the [44 Westwind Marauder's Map](https://www.44westwind.com/map/index.html), you will see that the pizza oven is labeled _Floo Network_, and inside is...
 
 <a href="/images/scavengerhunts/2017-ghostly-christmas/clue-3-in-floo-network.jpg">
 <img src="/images/scavengerhunts/2017-ghostly-christmas/clue-3-in-floo-network.jpg" alt="Clue three in situ" class="mapBorder" />
