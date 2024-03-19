@@ -150,7 +150,7 @@ In plain text...
 >
 > _Where would you go to be in the dark?_
 
-Clearly, a lot of dark places in ones house but for her, it was too easy as we had gotten to calling her secret closet _the Room of Requirement_. In the closet was a ...
+Clearly, a lot of dark places in one's house but, for her, it was too easy as we had gotten to calling her secret closet _the Room of Requirement_. In the closet was a ...
 
 ### Mystic Smoke and a Fortune Teller
 
@@ -160,7 +160,7 @@ _Mystic Smoke - an alternative to Peruvian Instant-Darkness powder_
 <img src="/images/scavengerhunts/2018-fred-and-georges-joke-shop/mystic-smoke.png" alt="Mystic Smoke" class="mapBorder" />
 </a>
 
-_A standard [Fortune teller fold](https://www.wikihow.com/Fold-a-Fortune-Teller), what made it distinctive was the rounded corners and pattern on the paper, a gift from my mom. They have some very distinctive borders that show off well in many of the folds._
+_A standard [Fortune teller fold](https://www.wikihow.com/Fold-a-Fortune-Teller), what made it distinctive was the paper, a gift from my mom. It has some very decorative borders that show off well in many of the folds._
 
 <a href="/images/scavengerhunts/2018-fred-and-georges-joke-shop/fortune-teller.jpg">
 <img src="/images/scavengerhunts/2018-fred-and-georges-joke-shop/fortune-teller.jpg" alt="Origami fortune teller card" class="mapBorder" />
@@ -192,7 +192,7 @@ _The blah-blah pen, supposedly it had a twelve ways of saying "blah blah blah bl
 <img src="/images/scavengerhunts/2018-fred-and-georges-joke-shop/blah-blah-pen.png" alt="The Blah-blah pen" class="mapBorder" />
 </a>
 
-The clue was a flat fortune teller, but what made it distinctive was the rounded corners and pattern on the paper.
+The clue was a flat fortune teller, but what made it stand out was the rounded corners and pattern on the paper.
 
 <a href="/images/scavengerhunts/2018-fred-and-georges-joke-shop/round-square.jpg">
 <img src="/images/scavengerhunts/2018-fred-and-georges-joke-shop/round-square.jpg" alt="Origami pin-wheel card" class="mapBorder" />
@@ -235,7 +235,7 @@ _Unfolded..._
 > _— Yes, this one actually works!_  
 > _But don't slip it in your Dad's coffee_  
 > _— Like we did..._  
-> _Again, moving on to the \_last_ clue\_
+> _Again, moving on to the **last** clue_
 >
 > _Where would you go to find distracted muggles?_
 
