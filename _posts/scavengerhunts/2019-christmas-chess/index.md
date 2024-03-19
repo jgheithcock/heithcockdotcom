@@ -16,7 +16,7 @@ ogImage:
 
 The inspiration for this scavenger hunt came about when I found out that the iconic chess match at the end of _Harry Potter and the Sorcerers&rsquo;s Stone_ was actually [fully planned out](https://www.the-leaky-cauldron.org/features/essays/issue26/chessgameinsorcerersstone/) by international master, [Jeremy Silman](https://www.jeremysilman.com/book-review/creating-the-harry-pottter-chess-position/). Even better, it was eight moves! This meant I could have my magical 7 clues + the starting clue in the box that I've found works so well. Less than seven goes too quickly and more drags far, far too long. Plus &ldquo;seven is the most powerful magical number.&rdquo; [^1]
 
-So the concept was that you would somehow start with the opening position and figure out what the next move should be. Somehow that would map to a room or location where you would find the piece that moves next. You would figure out where that piece should move to and keep going. One challenge was that all of White's moves are by the Queen, so that is four Queens I needed and I wanted them all extra-large. Fortunately, it is an accepted custom that, in case of pawn promotion, you can use an upside down rook to represent a new Queen.
+So the concept was that you would somehow start with the opening position and figure out what the next move should be. Somehow that would map to a room or location where you would find the piece that moves next. You would figure out where that piece should move to and keep going. One challenge was that all of White's moves are by the Queen, so that is four Queens that I needed and I wanted them all extra-large. Fortunately, it is an accepted custom that, in case of pawn promotion, you can use an upside down rook to represent a new Queen.
 
 [^1]: &ldquo;...isn't seven the most powerfully magical number...&rdquo; — Tom Riddle — _Harry Potter and the Half-Blood Prince_
 
@@ -105,7 +105,7 @@ _Merry Christmas!_
 
 ## Behind the scenes
 
-For the curious, here is a sequence of photos showing the construction of the Chess Marauder's Map. I used the same approach to make the [44 Westwind version](./2013-44-marauders) The overall concept is to print out each of the pages, then cut all the pieces except the bottom most down the middle...
+For the curious, here is a sequence of photos showing the construction of the Chess Marauder's Map. I used the same approach to make the [44 Westwind version](./2013-44-marauders). The overall concept is to print out each of the pages, then cut all the pieces except the bottom most down the middle...
 
 <a href="/images/scavengerhunts/2019-christmas-chess/making-the-map-1.jpg">
 <img src="/images/scavengerhunts/2019-christmas-chess/making-the-map-1.jpg" alt="The pages of the map, cut down the middle" class="mapBorder" />
