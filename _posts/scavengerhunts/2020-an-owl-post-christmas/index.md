@@ -30,16 +30,26 @@ Naturally, she writes in a spiral, to promote thinking in all directions...
 
 To make it easier for you to read, here is the text:
 
-> Hello Morgan, Ron told me about  
-> your last Christmas scavenger hunt  
-> and I thought a scavenger hunt using  
-> Owl Post would be interesting, as their  
-> job is to find people, and your job is  
-> to find things. I hope you like my poem  
-> and that you have fun finding your way.  
-> Your friend,  
-> Luna  
-> OvO[^0]
+<div style="padding-left: 2em;max-width:10em">
+<i>
+Hello Morgan,
+
+Ron told me about
+your last Christmas scavenger hunt
+and I thought a scavenger hunt using
+Owl Post would be interesting, as their
+job is to find people, and your job is
+to find things. I hope you like my poem
+and that you have fun finding your way.
+
+Your friend,
+
+Luna
+
+OvO[^0]
+</i>
+
+</div>
 
 [^0]: OvO is Luna's way of making an Owl - an Owl face made from letters.
 
