@@ -10,6 +10,7 @@
 
 # Temporary/hidden
 /hold
+hold/
 
 # next.js
 /.next/
