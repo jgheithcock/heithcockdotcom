@@ -51,25 +51,29 @@ The next page is a riddle, followed by the clues, one for each star you will nee
 
 _Eight OvO’s_
 
-> Four like the mail they can take,  
-> &nbsp;&nbsp;&nbsp;&nbsp;the rest, unique as snowflakes.  
-> Not with a map of mayhem,  
-> &nbsp;&nbsp;&nbsp;&nbsp;but your wits, must you find them,  
-> Each owl is fit for one task,  
-> &nbsp;&nbsp;&nbsp;&nbsp;for that, they do glow and bask  
-> Instead of mail, they carry  
-> &nbsp;&nbsp;&nbsp;&nbsp;eight stars to line their aerie.
+<i style="left-padding: 1em;">
+Four like the mail they can take,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;the rest, unique as snowflakes.<br />
+Not with a map of mayhem,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;but your wits, must you find em,<br />
+Each owl is fit for one task,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;for that, they do glow and bask<br />
+Instead of mail, they carry<br />
+&nbsp;&nbsp;&nbsp;&nbsp;eight stars to line their aerie.
+</i>
 
 _One OvO is..._
 
-> ...fit for the boy...  
-> ...fit to rot your brain  
-> ...fit for drinking with  
-> ...fit to spend the night  
-> ...fit for Pigwidgeon’s friend  
-> ...fit to rot your teeth  
-> ...fit for being made  
-> ...fit for feeding
+<i style="left-padding: 1em;">
+...fit for the boy<br />
+...fit to rot your brain<br />
+...fit for drinking with<br />
+...fit to spend the night<br />
+...fit for Pigwidgeon’s friend<br />
+...fit to rot your teeth<br />
+...fit for being made<br />
+...fit for feeding
+</i>
 
 Note that one of the things I like about this mechanism is that you can solve them in any order, though it forms a bit of a puzzle to put them in.
 
