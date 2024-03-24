@@ -267,4 +267,14 @@ _Unfolded..._
 > _— And so, for your treat:_  
 > _Where would you go to find a baby dragon?_
 
-And the answer, that she got right away, is the Pizza Oven - it is a nice big spot that fits in well for these.
+And the answer, that she got right away, is the Pizza Oven - it is a nice big spot that, when cold, was great to hold her present: a dozen chocolate frogs
+
+<a href="/images/scavengerhunts/chocolate-frogs/ready-for-delivery.jpg">
+<img src="/images/scavengerhunts/chocolate-frogs/ready-for-delivery.jpg" alt="A Dozen Chocolate Frogs" class="mapBorder" />
+</a>
+
+(And quite a few more):
+
+<a href="/images/scavengerhunts/chocolate-frogs/chocolate-frogs.jpg">
+<img src="/images/scavengerhunts/chocolate-frogs/chocolate-frogs.jpg" alt="More Chocolate Frogs" class="mapBorder" />
+</a>

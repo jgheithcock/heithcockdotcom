@@ -56,7 +56,7 @@ So you don't tweak your neck, the letter in plain form is...
 > Best of luck,  
 > Newt Scamander
 
-The letter was then folded in a variant of the "Twist Note" from [Michael G. LaFosse and Richard L. Alexander's Origami Stationery](http://origamido.rochlis.com/products/origami_stationery.php). My variant is more suited to the scavenger hunt as it folds into a minature Marauders Map. Interestingly, I think this was my own innovation. Later, in 2017, Thomas Hull and Michael Urbanski did a very nice paper on [the Augmented Square Twist](http://origametry.net/ast/ast.html) which shows this in detail.
+The letter was then folded in a variant of the "Twist Note" from [Michael G. LaFosse and Richard L. Alexander's Origami Stationery.](http://origamido.rochlis.com/products/origami_stationery.php) My variant is more suited to the scavenger hunt as it folds into a minature Marauders Map. Interestingly, I think this was my own innovation. Later, in 2017, Thomas Hull and Michael Urbanski did a very nice paper on [the Augmented Square Twist](http://origametry.net/ast/ast.html) which shows this in detail.
 
 Here is the box with the folded letter and the origami animals you will find.
 
@@ -126,7 +126,7 @@ As in the [third scavenger hunt](./2013-44-marauders), the aquarium is the Grynd
 
 ## Grindylow
 
-For the Grindylow, I used an (Octopus)[https://www.sushiyasuda.com/merchandise/tako.html]
+For the Grindylow, I used an [Octopus](https://www.sushiyasuda.com/merchandise/tako.html)
 
 > _Oh I was so sure that time. Wait! I remember—we were discussing the care and feeding of salamanders._
 

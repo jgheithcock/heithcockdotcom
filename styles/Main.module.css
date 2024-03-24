@@ -20,6 +20,24 @@
 
 }
 
+.bottomNav .NavLinks {
+    padding: 1em 0;
+    justify-content: space-evenly;
+}
+
+.bottomNav a {
+    text-decoration: none;
+}
+
+.bottomNav a:hover,
+.bottomNav a:focus,
+.bottomNav a:active,
+.bottomNav a.active {
+  color: rgb(85, 7, 6) !important;
+  text-decoration: none;
+  text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
+}
+
 .NavLinks {
     font-family: 'Cormorant Garamond', serif;
     font-size: 22px;

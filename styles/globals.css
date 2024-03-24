@@ -193,6 +193,7 @@ a.cloud.active::before {
 img[alt="A picture of Bob, the Guard at Gringotts"],
 img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
   width: 400px;
+  max-width: 100%;
   border: solid 6px !important;
   border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
   padding: 2px !important;

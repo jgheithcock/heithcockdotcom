@@ -16,7 +16,7 @@ ogImage:
 
 Once again, I was saved by the Internet. Robin Springett had created a template for [Ministry of Magic memos](https://10digitdesign.blogspot.com/2014/07/how-to-make-ministry-of-magic-memo.html) that, as [KylieSmiley had done](./2014-educational-decrees), was ready made to be turned into a Scavenger hunt. (Well, I did need to convert it from A4 to US 8.5 x 11" paper)
 
-The other inspiration was the _wonderful_ letters Harry received in _The Order of the Phoenix_ from Mafalda Hopkirk, with such cheerful signoffs after horrible news. In this case, each memo would restrict the possible locations of both _parcels and memorandums_ to differen areas of the house.
+The other inspiration was the _wonderful_ letters Harry received in _The Order of the Phoenix_ from Mafalda Hopkirk, with such cheerful signoffs after horrible news. In this case, each memo would restrict the possible locations of both _parcels and memorandums_ to different areas of the house.
 
 <a href="/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg">
 <img src="/images/scavengerhunts/2015-ministry-of-magic-memos/memos.jpg" class="mapBorder" alt="The memos">

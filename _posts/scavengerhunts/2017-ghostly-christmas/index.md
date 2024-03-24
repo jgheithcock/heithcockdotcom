@@ -142,7 +142,7 @@ And so downstairs, in the wine cellar[^1], you find...
 >
 > _&ldquo;Sigh.&rdquo;_
 >
-> _&ldquo;I saw him hidding luggage in the restricted section of the library.&rdquo;_
+> _&ldquo;I saw him hiding luggage in the restricted section of the library.&rdquo;_
 
 In the restricted section (the secret bookshelf to my office), there is a box that the Harry Potter books came in that is made to look like a trunk. Inside you find your present!
 

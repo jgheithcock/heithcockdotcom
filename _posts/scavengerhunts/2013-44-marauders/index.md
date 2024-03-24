@@ -157,7 +157,7 @@ _Our house as Hogwarts_
 </div>
 </div>
 
-As it should be clear, I am not an artist, and our house is a lot less castle-like. I hit upon the idea of taking each side of our (also not square) house, looking at the [elevations](https://en.wikipedia.org/wiki/Multiview_orthographic_projection#Elevation) from the blueprints. The front and side would be the two front-facing sections and the back and other side could be reversed to be the back-facing ones. Confusing I realize.
+As it should be clear, I am not an artist, and our house is a lot less castle-like. I hit upon the idea of taking each side of our (also not square) house, looking at the [elevations](https://en.wikipedia.org/wiki/Multiview_orthographic_projection#Elevation) from the blueprints. The front and side would be the two front-facing sections and the back and other side would be reversed to be the back-facing ones. Confusing I realize.
 
 Here is my extremely poor line drawing:
 
