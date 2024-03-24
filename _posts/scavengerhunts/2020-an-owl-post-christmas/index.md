@@ -39,7 +39,9 @@ To make it easier for you to read, here is the text:
 > and that you have fun finding your way.  
 > Your friend,  
 > Luna  
-> OvO
+> OvO[^0]
+
+[^0]: OvO is Luna's way of making an Owl - an Owl face made from letters.
 
 The next page is a riddle, followed by the clues, one for each star you will need to find...
 
