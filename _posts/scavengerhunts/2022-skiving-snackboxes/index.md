@@ -153,7 +153,7 @@ You can see at the top, I had an idea that I would leave the top of the box atta
 I recreated [MinaLima's Weasley logo](https://minalima.com/product/weasleys-wizard-wheezes-advertisement/) as [SVG](https://www.w3.org/Graphics/SVG/) to use as a cutout for the sides of the boxes.
 
 <a href="/images/scavengerhunts/2022-skiving-snackboxes/weasleys-wizard-wheezes.svg">
-<img src="/images/scavengerhunts/2022-skiving-snackboxes/weasleys-wizard-wheezes.svg" alt="The Weasley's Wizard Wheezes W logo" class="mapBorder" />
+<img src="/images/scavengerhunts/2022-skiving-snackboxes/weasleys-wizard-wheezes.svg" alt="The Weasleys' Wizard Wheezes W logo" class="mapBorder" />
 </a>
 
 The outside of the box is orange, with the inside shell purple. I used the orange cutout W's to paste inside for maximum Weasley logo coverage.
