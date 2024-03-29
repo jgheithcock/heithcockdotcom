@@ -42,7 +42,7 @@ The variable was named `foobar` - much thought had gone into its name.
 
 ## Internal comments
 
-The following sentence is a comment (and is not visible):
+The following sentence is a comment (and is not visible), note that any returns will get stripped out:
 
 [This is an internal comment]: #
 
