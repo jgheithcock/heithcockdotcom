@@ -9,6 +9,7 @@ import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
 import remarkGFM from "remark-gfm";
 import remarkAdmonitions from "remark-github-beta-blockquote-admonitions";
+import remarkSmartypants from "remark-smartypants";
 import { unified } from "unified";
 
 //const admOptions = {titleTextMap: (str) => { displayTitle: str; checkedTitle: str }};
@@ -23,6 +24,7 @@ export default async function markdownToHtml(markdown) {
     .use(remarkRehype, { allowDangerousHtml: true })
     .use(rehypeRaw)
     .use(rehypeFormat)
+    .use(remarkSmartypants, { dashes: "oldschool" })
     .use(rehypeSlug)
     .use(rehypeStringify)
     .process(markdown);

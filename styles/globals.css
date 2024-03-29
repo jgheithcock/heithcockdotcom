@@ -7,8 +7,10 @@ body {
   font-family: 'IBM Plex Mono', monospace;
   font-family: 'Cormorant Garamond', serif;
 
-  background: #f5e3c9 url("/images/paperboard.jpg") repeat;
-  color: rgb(85, 7, 6); /* #550706; */
+  --background-color:  #f5e3c9;
+  --text-color: rgb(85, 7, 6); /* #550706; */
+  background: var(--background-color) url("/images/paperboard.jpg") repeat;
+  color: var(--text-color);
   box-shadow: 0 0px 36px 2px rgb(177 109 85 / 36%) inset;
 
 }
@@ -36,7 +38,7 @@ body {
 }
 
 .main .admonition p {
-  margin: .5em 0;
+  margin: .5em;
 }
 
 h1, h2 {margin:0}
@@ -153,6 +155,12 @@ a.cloud.active::before {
   height: 4px;
   border: 0;
 }
+.main hr.marauders-low {
+  background-image: url(/images/marauders-hr-low.png);
+  background-size: contain;
+  height: 12px;
+  border: 0;
+}
 
 * {
   box-sizing: border-box;
@@ -218,6 +226,12 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
 .postPreview p {
   text-align: center;
 }
+.three-across .postPreview {
+  width: 33%;
+}
+.four-across .postPreview {
+  width: 25%;
+}
 
 .postPreview video,
 .mapBorder {
@@ -242,13 +256,63 @@ img.mapBorder {
   max-height: 1000px;
 }
 
-@media screen and (max-width: 1500px) {
+div.tarot {
+  box-sizing: border-box;
+  display: flex;
+  flex-flow: row;
+}
+div.tarot .card {
+  padding-right: 1em;
+}
+div.tarot .notes p:first-child {
+  margin-block-start: 0;
+}
+
+div.admonition {
+  display: inline-flex;
+  flex-flow: row;
+  place-items: center;
+}
+div.admonition p.admonition-title {
+  font-size: 0;
+}
+div.admonition p.admonition-title::before {
+  content: '';
+  font-size: initial;
+  background-image: url(/images/pointing-right.svg);
+  /* from https://commons.wikimedia.org/wiki/File:Joseph_Watson_manicule,_No._246,_pointing_right.svg */
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 36px;
+  height: 1em;
+  display: inline-block;
+}
+
+@media screen and (max-width: 800px) {
   .postPreview  {
     width: 100%;
     margin: 1em 0;
   }
   .postPreview video {
     width: 100%;
+  }
+  .three-across .postPreview,
+  .four-across .postPreview {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  div.tarot {
+    flex-wrap: wrap;
+  }
+  div.tarot .notes {
+    margin-top: 1em;
+  }
+  div.tarot .card {
+    margin: 0 auto;
+  }
+  div.tarot .card {
+    padding-right: 0
   }
 }
 
