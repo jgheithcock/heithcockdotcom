@@ -163,7 +163,7 @@ a.active .mapBorder {
     }
 
     .mapBorder {
-        border-image: url(/images/marauders-border-low-dark.png) 50 / 20px repeat;
+        border-image: url(/images/marauders-border-low-dark.png) 50 / 20px repeat !important;
     }
     a:hover img.mapBorder,
     a:focus img.mapBorder,
