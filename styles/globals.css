@@ -258,6 +258,7 @@ img.mapBorder {
 
 div.note {
   background-color: rgb(255 255 255 / 80%);
+  color: black;
   padding: 1em;
 }
 div.tarot {
