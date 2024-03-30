@@ -124,6 +124,10 @@ a.cloud.active::before {
   box-shadow: none;
 }
 
+.markdown img {
+  max-width: 100%;
+}
+
 .main
 
 .homePage a {
