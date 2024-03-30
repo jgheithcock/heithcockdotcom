@@ -145,14 +145,13 @@ a.active .mapBorder {
 
 @media (prefers-color-scheme: dark) {
     .header {
-        box-shadow: 0 0 16px 2px rgb(144 255 144 / 50%) !important;
-        border-bottom: solid rgb(144 255 144 / 33%) !important;
+        box-shadow: 0 0 30px 0px rgb(144 255 144 / 30%) !important;
+        border-bottom: solid rgb(144 255 144 / 20%) !important;
     }
     .footer {
         box-shadow:
-            rgba(144, 200, 144, 0.35) 0px 8px 12px -8px inset,
-            rgba(144, 255, 144, 0.35) 0px 33px 40px -13px inset !important;
-        border-top: solid rgb(144, 255, 144 / 33%) !important;
+            0px 33px 40px -13px inset rgba(144, 255, 144, 0.25)  !important;
+        border-top: solid rgb(144 255 144 / 33%) !important;
     }
     .bottomNav a:hover,
     .bottomNav a:focus,
