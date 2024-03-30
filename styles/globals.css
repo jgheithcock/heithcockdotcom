@@ -455,7 +455,7 @@ img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
     background: black;
     box-shadow: 0 0px 36px 12px rgba(144, 144, 144, 0.4) inset;
   }
-  img {
+  img.mapBorder {
     background: white;
   }
   .main hr {
