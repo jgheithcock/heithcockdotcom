@@ -52,7 +52,7 @@ Also in the box was the first clue...
 ## 1: Harry Potter and the Philosopher's Stone
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/1-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/1-clue.png" alt="Clue #1" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/1-clue.png" class="parchment" alt="Clue #1" style="max-width:100%;"/>
 </a>
 
 > 1: Philosopher's Stone: &ldquo;That's — —!&rdquo;
@@ -64,7 +64,7 @@ As per usual[^1], I thought this was a gimmee. I think of it as such an iconic l
 ## 2: Harry Potter and the Chamber of Secrets
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/2-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/2-clue.png" alt="Clue #2" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/2-clue.png" class="parchment" alt="Clue #2" style="max-width:100%;"/>
 </a>
 
 > 2: Chamber of Secrets: &ldquo;Ron's wand needs a new core.&rdquo;
@@ -82,7 +82,7 @@ And so, eventually, she found...
 ## 3: Harry Potter and the Prisoner of Azkaban
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/3-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/3-clue.png" alt="Clue #3" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/3-clue.png" class="parchment" alt="Clue #3" style="max-width:100%;"/>
 </a>
 
 > 3: Prisoner of Azkaban: &ldquo;You may need Crookshanks.&rdquo;
@@ -92,7 +92,7 @@ This required you to recall that Harry & co. needed Crookshanks to get past the 
 ## 4: Harry Potter and the Goblet of Fire
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/4-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/4-clue.png" alt="Clue #4" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/4-clue.png" class="parchment" alt="Clue #4" style="max-width:100%;"/>
 </a>
 
 > 4: Goblet of Fire: &ldquo;Why prefects never listen.&rdquo;
@@ -104,7 +104,7 @@ Admittedly a bit of a stretch. When someone doesn't listen to what you say, the 
 ## 5: Harry Potter and the Half-Blood Prince
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/5-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/5-clue.png" alt="Clue #5" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/5-clue.png" class="parchment" alt="Clue #5" style="max-width:100%;"/>
 </a>
 
 > 5: Half-Blood Prince: &ldquo;Some secrets are not in boxes.&rdquo;
@@ -114,7 +114,7 @@ Looking back on this one, ... yeah, it wasn't a great clue. This was sort of a d
 ## 6: Harry Potter and the Order of the Phoenix
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/6-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/6-clue.png" alt="Clue #6" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/6-clue.png" class="parchment" alt="Clue #6" style="max-width:100%;"/>
 </a>
 
 > 6: Order of the Phoenix: &ldquo;Where tossed cauldrons go.&rdquo;
@@ -129,7 +129,7 @@ And this one I thought was, well, maybe not a gimmee but I thought it was &ldquo
 ## 7: Harry Potter and the Deathly Hallows
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/7-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/7-clue.png" alt="Clue #7" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/7-clue.png" class="parchment" alt="Clue #7" style="max-width:100%;"/>
 </a>
 
 > 7: Deathly Hallows: &ldquo;A safe break-in.&rdquo;
@@ -139,7 +139,7 @@ This one was straight forward at least, in her book safe, she found a final clue
 ## The final clue
 
 &nbsp;<a href="/images/scavengerhunts/2021-chambers-of-secret/8-clue.png">
-<img src="/images/scavengerhunts/2021-chambers-of-secret/8-clue.png" alt="Clue #8" style="max-width:100%;"/>
+<img src="/images/scavengerhunts/2021-chambers-of-secret/8-clue.png" class="parchment" alt="Clue #8" style="max-width:100%;"/>
 </a>
 
 > _7: Your gift has been delivered via Floo network._

@@ -21,7 +21,7 @@ While we were in the temporary house on Hutchinson Court, I made a scavenger hun
 I created seven maps, one for each of the books. Each map had the middle section replaced with the area of the house where the next clue could be found, with footsteps leading more or less to the spot. Each of these were done in the Marauder's Map style with words for lines.
 
 <a href="/images/scavengerhunts/2011-snitch-hunt/map.png">
-<img src="/images/scavengerhunts/2011-snitch-hunt/map.png" class="mapBorder" alt="Starting card and clues" />
+<img src="/images/scavengerhunts/2011-snitch-hunt/map.png" class="mapBorder parchment" alt="Starting card and clues" />
 </a>
 
 _Note the footsteps in the top left. That was a clue to where the goblet was with the next map inside._
@@ -39,7 +39,7 @@ I made little banners to 'pop up' in the middle of the map with clues that were 
 - _Harry Potter and the Deathly Hallows_ <br/> Where these and all the others live... (Inside the box of HP books in the Guest hall)
 
 <a href="/images/scavengerhunts/2011-snitch-hunt/clues.png">
-<img src="/images/scavengerhunts/2011-snitch-hunt/clues.png" alt="Starting card and clues" class="mapBorder" />
+<img src="/images/scavengerhunts/2011-snitch-hunt/clues.png" alt="Starting card and clues" class="mapBorder parchment" />
 </a>
 
 At the end of it, she found the snitch - a round ball that opened to reveal a USB flash drive with the Stephen Fry version of the Harry Potter audiobooks. The ball was the same one I had used by the way (oh so many years ago) to hold the engagement ring when I proposed to my wife - it survived the fire!

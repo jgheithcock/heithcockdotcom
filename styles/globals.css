@@ -456,11 +456,14 @@ img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
   }
   body {
     color: white;
-    background: black;
+    background: black none repeat;
     box-shadow: 0 0px 36px 12px rgba(144, 144, 144, 0.4) inset;
   }
   img.mapBorder {
     background: white;
+  }
+  img.parchment {
+    background: #f5e3c9 url("/images/paperboard.jpg") repeat;
   }
   .main hr {
     background-image: url(/images/map-border-dark.png) !important;

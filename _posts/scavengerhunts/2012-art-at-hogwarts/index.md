@@ -29,7 +29,7 @@ As before, I made seven clues, one for each book but in reverse order as her pre
 - There’s a <s>troll</s> present in the dungeon! (Just thought you’d like to know)
 
 <a href="/images/scavengerhunts/2012-art-at-hogwarts/art-clues.png">
-<img src="/images/scavengerhunts/2012-art-at-hogwarts/art-clues.png" class="mapBorder" alt="Art Clues">
+<img src="/images/scavengerhunts/2012-art-at-hogwarts/art-clues.png" class="mapBorder parchment" alt="Art Clues">
 </a>
 
 <hr/>
