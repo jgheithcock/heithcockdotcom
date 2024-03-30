@@ -14,7 +14,7 @@ ogImage:
   url: "/images/legos/gringotts/bag-30.png"
 ---
 
-![The Lego Gringotts Bank, assembled in its full glory](/images/legos/gringotts/gringotts-assembled.png)
+<img src="/images/legos/gringotts/gringotts-assembled.png" alt="The Lego Gringotts Bank, assembled in its full glory" width="400px" class="mapBorder"/>
 
 <div class="preface">
 

@@ -122,6 +122,12 @@
     border-image: url(/images/marauders-border-low.png) 50 / 20px repeat !important;
     padding: 6px !important;
 }
+a:hover .mapBorder,
+a:focus .mapBorder,
+a:active .mapBorder,
+a.active .mapBorder {
+  border-image: url(/images/marauders-border-caps.png) 50 / 20px repeat !important;
+}
 
 .error {
     text-align:center;
@@ -137,3 +143,32 @@
     margin-top: 0.25em;
 }
 
+@media (prefers-color-scheme: dark) {
+    .header {
+        box-shadow: 0 0 16px 2px rgb(144 255 144 / 50%) !important;
+        border-bottom: solid rgb(144 255 144 / 33%) !important;
+    }
+    .footer {
+        box-shadow:
+            rgba(144, 200, 144, 0.35) 0px 8px 12px -8px inset,
+            rgba(144, 255, 144, 0.35) 0px 33px 40px -13px inset !important;
+        border-top: solid rgb(144, 255, 144 / 33%) !important;
+    }
+    .bottomNav a:hover,
+    .bottomNav a:focus,
+    .bottomNav a:active,
+    .bottomNav a.active {
+        color: rgba(144, 200, 144, 0.65) !important;
+        text-shadow: 0px 0px 4px rgb(144 255 144 / 85%) !important;
+    }
+
+    .mapBorder {
+        border-image: url(/images/marauders-border-low-dark.png) 50 / 20px repeat;
+    }
+    a:hover img.mapBorder,
+    a:focus img.mapBorder,
+    a:active img.mapBorder,
+    a.active img.mapBorder {
+      border-image: url(/images/marauders-border-caps-dark.png) 50 / 20px repeat !important;
+    }
+}

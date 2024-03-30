@@ -31,8 +31,8 @@ body {
 
 .main .admonition {
   /* mapBorder */
-  border: solid 6px !important;
-  border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
+  border: solid 6px;
+  border-image: url(/images/map-border-sq.png) 12 / 6px round;
   padding: 0 .5em !important;
   margin-bottom: .5em;
 }
@@ -95,8 +95,8 @@ a.cloud::before {
 
 /* Skip this for image links */
 .markdown a:has(img)::before {
-  background-image: none;
-  box-shadow: none;
+  background-image: none !important;
+  box-shadow: none !important;
   transition: none;
   cursor: pointer;
 }
@@ -144,7 +144,7 @@ a.cloud.active::before {
 .main header h1 a:focus,
 .main header h1 a:active,
 .main header h1 a.active {
-  color: rgb(85, 7, 6) !important;
+  color: rgb(85, 7, 6);
   text-decoration: none;
   text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
 }
@@ -183,29 +183,7 @@ a.cloud.active::before {
     padding: 2px;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
-  img {
-    background: #f5e3c9;
-  }
-}
 .mw-editsection { display:none;}
-
-/* Testing setting image size in markdown via alt= */
-img[alt="A picture of Bob, the Guard at Gringotts"],
-img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
-  width: 400px;
-  max-width: 100%;
-  border: solid 6px !important;
-  border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
-  padding: 2px !important;
-}
 
 .folderList {
   display: flex;
@@ -236,19 +214,16 @@ img[alt="The Lego Gringotts Bank, assembled in its full glory"] {
 .postPreview video,
 .mapBorder {
     /* .mapBorder copied from main.module.css (See notes there) */
-    /*
-    border: solid 6px !important;
-    border-image: url(/images/map-border-sq.png) 12 / 6px round !important;
-    padding: 2px !important;
-    */
-/*
-    border: solid 12px !important;
-    border-image: url(/images/marauders-border-caps.png) 50 / 20px round !important;
+    border: solid 12px;
+    border-image: url(/images/marauders-border-low.png) 50 / 20px repeat;
     padding: 6px !important;
-    */
-    border: solid 12px !important;
-    border-image: url(/images/marauders-border-low.png) 50 / 20px repeat !important;
-    padding: 6px !important;
+}
+
+a:hover img.mapBorder,
+a:focus img.mapBorder,
+a:active img.mapBorder,
+a.active img.mapBorder {
+  border-image: url(/images/marauders-border-caps.png) 50 / 20px repeat !important;
 }
 
 img.mapBorder {
@@ -469,4 +444,52 @@ img[src="http://www.rssweather.net/images/fcicons/chancetstorm.gif"] {
 }
 img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
   background: url(https://ssl.gstatic.com/onebox/weather/64/windy.png);
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+    box-shadow: 0 0px 36px 2px rgba(144, 144, 144, 0.36) inset;
+  }
+  img {
+    background: white;
+  }
+  .main hr {
+    background-image: url(/images/map-border-dark.png) !important;
+  }
+  .main hr.marauders-low {
+    background-image: url(/images/marauders-hr-low-dark.png) !important;
+  }
+
+  .main .admonition {
+    border-image: url(/images/map-border-sq-dark.png) 12 / 6px round !important;
+  }
+  .markdown a::before,
+  a.cloud::before {   
+    background-image: url(/images/ink-cloud-dark.png) !important;
+    box-shadow:0 0px 34px 1px #aaaaaa !important;
+  }
+
+  .main header h1 a:hover,
+  .main header h1 a:focus,
+  .main header h1 a:active,
+  .main header h1 a.active {
+    color: rgba(144, 200, 144, 0.65) !important;
+    text-shadow: 0px 0px 4px rgb(144 255 144 / 85%) !important;
+  }
+
+  .postPreview video,
+  .mapBorder {
+      border-image: url(/images/marauders-border-low-dark.png) 50 / 20px repeat;
+  }
+  a:hover img.mapBorder,
+  a:focus img.mapBorder,
+  a:active img.mapBorder,
+  a.active img.mapBorder {
+    border-image: url(/images/marauders-border-caps-dark.png) 50 / 20px repeat !important;
+  }
 }

@@ -859,4 +859,4 @@ _Merry Christmas!_
 
 <hr/>
 
-If you have gotten this far, congratulations and thanks. If you are wanting even more, you can check out the [behind the scenes](./2023-trawlawnys-tarot/behind-the-scenes) post that has the 'original' and 'Harry Potter' version side by side and how I chose the _Harry Potter_ character for each Tarot card.
+If you have gotten this far, congratulations and thanks. If you are wanting even more, you can check out the [behind the scenes](./2023-trawlawnys-tarot/behind-the-scenes) post that has the 'original' and 'Harry Potter' version side by side and how and why I chose the _Harry Potter_ character for each Tarot card.
