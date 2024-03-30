@@ -12,7 +12,6 @@ const Layout = ({ preview, children, ...props }) => {
         <Header {...props} />
         <main className={styles.main}>{children}</main>
         <div className={styles.bottomNav}>
-          <hr />
           <NavLinks {...props} />
         </div>
       </div>
