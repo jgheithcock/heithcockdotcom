@@ -256,6 +256,10 @@ img.mapBorder {
   max-height: 1000px;
 }
 
+div.note {
+  background-color: rgb(255 255 255 / 80%);
+  padding: 1em;
+}
 div.tarot {
   box-sizing: border-box;
   display: flex;
@@ -266,6 +270,31 @@ div.tarot .card {
 }
 div.tarot .notes p:first-child {
   margin-block-start: 0;
+}
+
+div.clue {
+  background-color: rgb(255 255 255 / 80%);
+  color: black;
+  position: relative;
+  overflow: hidden;
+  width: 300px;
+  text-align: center;
+  font-size:2.5em;
+  text-wrap: nowrap;
+}
+div.top.clue {
+  height: .63em;
+  top: -.13em;
+}
+div.bottom.clue {
+  height: .66em;
+  line-height: 0em;
+}
+div.left.clue {
+  text-align: left;
+}
+div.right.clue {
+  text-align: right;
 }
 
 div.admonition {
