@@ -17,13 +17,13 @@ const Meta = ({ favFolder }) => {
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href={`/favicon/${subFolder}favicon-32x32.png`}
+        href={`/favicon/${subFolder}icon-32.png`}
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href={`/favicon/${subFolder}favicon-16x16.png`}
+        href={`/favicon/${subFolder}icon-16.png`}
       />
       <link rel="manifest" href={`/favicon/${subFolder}manifest.webmanifest`} />
       <link
