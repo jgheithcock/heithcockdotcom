@@ -14,11 +14,13 @@ ogImage:
   url: "/images/replacement-pawn.jpeg"
 ---
 
-<div class="test-active">
+<span class="test before"> [m](#) </span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="test after"> [m](#) </span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="test"> [m](#) </span>
 
 This is to test [_The Hero with a thousand Faces and a few more to boot_](/) to links in an .md page.
 
-[a](/)
+<span class="active"> [a](#) </span>
 
 [ab](/)
 
@@ -33,5 +35,3 @@ This is to test [_The Hero with a thousand Faces and a few more to boot_](/) to 
 [abcdefg](/)
 
 [abcdefh](/)
-
-</div>
