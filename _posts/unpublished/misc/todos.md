@@ -17,7 +17,34 @@ ogImage:
 
 ## Contents
 
-[The TOC will go here]: #
+- Go through readme for article/album ideas
+- First up? Coding for this site. (A colophon)
+- Second? More history/essays?
+
+  - Comparison of Harry Potter, Lord of the Rings, Star wars
+
+    - Look up other reviews/essays and link in
+    - Gandalf only proactive hero/npc, Dumbledore and Yoda reactive
+      - Gandalf:
+        - Gandalf acts prior to the Hobbit to resolve Smaug before he can be an agent of Sauron
+        - Gandalf then acts after Bilbo finds the ring, to both uncover the history and truth of the ring but also to safeguard the shire (with both elves and rangers)
+        - Gandalf leads the party and is an active contributor and planned to lead them the rest of the way and continues to guide Aragorn and others actively.
+      - Dumbledore: More reactive than Gandalf but more proactive than Yoda
+        - “I had proven, as a very young man, that power was my weakness and my temptation.” - _H. P. & the Deathly Hallows_
+        - Admits he delayed confronting Grindlewald until it would be too shameful to resist any longer.
+        - Has evidence up front that Tom Riddle is both powerful, has injured people and shows no change of heart, yet only "keeps tabs" on him and even when he visits Dumbledore later, evidently changed, with evidence of criminal misconduct, Dumbledore effectively does nothing.
+        - Knows Voldemort is attempting to regain life & power but takes a wait and see approach. Only after Voldemort has killed multiple people and returned to life does he begin _looking_ for horcruxes and information.
+        - Even when he knows tha Draco has been assigned to kill him, he adopts a wait and see approach that almost causes the death of many.
+      - Yoda: the most passive of all
+        - Denies Anakin, at the age of nine, to be trained
+        - Yoda's own chosen Padawan, Count Dooku, turns to the dark side
+        - Unable to see that Senator Palpatine is Darth Sidious
+        - Gives up after a protracted battle in the Senate hall, after consistently winning after the first skirmish going against him to flee into exile.
+        - Later, protests that Luke is too old
+        - Then, encourages him to give up on his friends and continue training.
+
+  - Write up story of Google's three buildings, plus the warehouse (Area 51) that is Bets
+    "There are three separate buildings that make up the company called Google...."
 
 ## Images
 
