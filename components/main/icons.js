@@ -13,7 +13,7 @@ export const Icon = ({
 }) => {
   console.log("url =", `/images/${imageUrl}`);
   return (
-    <Link key={url} href={url}>
+    <Link key={url} href={url} legacyBehavior>
       <a>
         <Image
           alt={title}
@@ -31,7 +31,7 @@ export const Icon = ({
 export const IconButton = ({ icon, url, title, isTextButton = true }) => {
   if (!url) return <>{title}</>;
   return (
-    <Link key={url} href={url}>
+    <Link key={url} href={url} legacyBehavior>
       <a className={styles.iconButton}>
         <span className="symbol">{icon}</span>
         {isTextButton && <label>{title}</label>}

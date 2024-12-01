@@ -6,7 +6,7 @@ const Header = ({ ...props }) => {
   return (
     <header>
       <h1 className={styles.header}>
-        <Link href="/">
+        <Link href="/" legacyBehavior>
           <a className={styles.title}>The Curmudgeonly Codger</a>
         </Link>
         <NavLinks {...props} />

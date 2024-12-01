@@ -6,17 +6,17 @@ import styles from "../../styles/Main.module.css";
 const PostPreview = ({ title, coverImage, date, excerpt, author, slug }) => {
   /*
   console.log(
-    `PostPreview: title: ${title}, slug: ${slug}, coverImage: ${coverImage}, excerpt: ${excerpt}, date: ${date}`
+    `PostPreview: title: ${title}, slug: ${slug}, coverImage: ${coverImage.url}, excerpt: ${excerpt}, date: ${date}`
   );
   */
   return (
     <div className={styles.postPreview}>
-      <Link as={`/${slug}`} href="/[...slug]">
+      <Link as={`/${slug}`} href="/[...slug]" legacyBehavior>
         <a>
           <CoverImage title={title} slug={slug} coverImage={coverImage} />
         </a>
       </Link>
-      <Link as={`/${slug}`} href="/[...slug]">
+      <Link as={`/${slug}`} href="/[...slug]" legacyBehavior>
         <span className={"markdown"}>
           <a>{title}</a>
         </span>
