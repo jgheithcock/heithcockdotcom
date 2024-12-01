@@ -586,3 +586,6 @@ img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
     border-image: url(/images/marauders-border-caps-dark.png) 50 / 20px repeat !important;
   }
 }
+
+/* Handle case where images inside of a flex 33% box render full size */
+figure img {width: 100%; height: 100%;}
