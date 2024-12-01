@@ -8,6 +8,13 @@ from fetching rss from a different site.)
 
 This then is two sites under the heithcock.com umbrella. My personal website and Suzy's /home/suzy version of iGoogle.
 
+## Development, testing and deploying
+
+To see the work in a local browser, choose a new terminal and type `npm run dev`.
+
+To deploy, push using GitHub.
+
+
 ## JG's site
 
 The site is simlar to Suzy's elsworthartworks.com site, with a home page that lists out the categories of things I
