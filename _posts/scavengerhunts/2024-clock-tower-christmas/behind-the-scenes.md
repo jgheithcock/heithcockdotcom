@@ -106,6 +106,10 @@ Here is a photograph of all of the clock parts, waiting for assembly.
 
 ## Making the Map
 
+<a href="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/0-map-pages.jpg">
+<img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/0-map-pages.jpg" alt="The pages before assembly" style="max-width:100%" />
+</a>
+
 To make the map, you take a standard 8.5" x 11" sheet of paper and draw two lines 2.5" from the left and right. Fold each half on that line and the center will be 3.5" wide. Fold each flap so that the edges meet and you will now have a 3/4" flap that you can glue the next page to. Cut each of the pages in half and repeat for as many pages as you like. The cover is a page with the flaps removed.
 
 In the photograph below, you can see the left side of the Potions page has been glued in with the right side still to be glued.
