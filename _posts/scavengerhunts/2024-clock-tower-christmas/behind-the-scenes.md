@@ -139,3 +139,23 @@ I used some foam backing I already had to thicken the sections, both to keep the
 <a href="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/clock-base-backs.jpg">
 <img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/clock-base-backs.jpg" alt="Backs of the bottom section of the clock tower" style="max-width:100%" />
 </a>
+
+## The Clues
+
+The final form of the origami clock clues is the third iteration. My first idea was to make a miniature version of Robert Lang's [Black Forest Cuckoo Clock](https://langorigami.com/artwork/black-forest-cuckoo-clock-opus-182/). He has the diagrams for folding this in his [Origami Design Secrets](https://langorigami.com/publication/origami-design-secrets/) but after finally figuring out how to adapt this, I realized it was a) far too much work to do seven times and b) it was also going to be _very_ challenging to unfold. I came up with a simpler version but it also was going to be challenging to unfold (the hands of the clock really crimp the paper).
+
+<a href="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/origami-clock.jpg">
+<img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/origami-clock.jpg" alt="Origami Clock prototype" style="max-width:100%" />
+</a>
+
+I almost given up when I thought of just printing the clock on a hexagonal fold. This comes from a fold called the [Hexagonal Incense Packet](https://www.origamiheaven.com/historyofthehexagonalincensepacket.htm), first seen in print in 1878.
+
+<a href="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/origata.hexagon.instruct.jpg">
+<img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/origata.hexagon.instruct.jpg" alt="Instructions for folding the hexagonal incense packet" style="max-width:100%" />
+</a>
+
+Aside from being easy to fold and unfold, it allowed me to print the specific icon of the clue with the time on the front. Due to the way it is folded, I could also add a common back to fit the clock theme. I sized the paper so that I could fit four on a US standard 8.5" x 11" piece of paper and did the layout in Photoshop.
+
+<a href="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/clue-template.jpg">
+<img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/clue-template.jpg" alt="Template for the clues" style="max-width:100%" />
+</a>
