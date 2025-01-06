@@ -12,7 +12,6 @@ body {
   background: var(--background-color) url("/images/paperboard.jpg") repeat;
   color: var(--text-color);
   box-shadow: 0 0px 36px 2px rgb(177 109 85 / 36%) inset;
-
 }
 
 .symbol {
@@ -521,7 +520,7 @@ img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
   html {
     color-scheme: dark;
   }
-  body {
+  html, body {
     color: white;
     background: black none repeat;
     box-shadow: 0 0px 36px 12px rgba(144, 144, 144, 0.4) inset;

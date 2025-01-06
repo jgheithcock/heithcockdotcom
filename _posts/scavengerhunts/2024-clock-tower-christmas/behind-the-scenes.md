@@ -35,7 +35,7 @@ _The Clock wheel pack with initial prototypes above._
 ### Background on Traditional Rotary Combination Locks
 
 <a href="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/combination-clock/rotary-combination-lock.jpg">
-<img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/combination-clock/rotary-combination-lock.jpg" alt="An antique engraving of an old 4-wheel rotary combination lock" style="max-width:500px" />
+<img src="/images/scavengerhunts/2024-clock-tower-christmas/behind-the-scenes/combination-clock/rotary-combination-lock.jpg" alt="An antique engraving of an old 4-wheel rotary combination lock" style="max-width:100%" />
 </a>
 
 Traditional rotary combination locks work by having a number of disks or wheels free-floating on a spindle. Each wheel has a notch (called the gate), that when lined up allows a metal bar (called the "fence") to move into the gate, allowing you to open the shackle.
