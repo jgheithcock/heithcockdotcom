@@ -296,7 +296,7 @@ The next page of notes were for four cards this time...
 <div class="tarot" aria-label="Notes on the Lovers">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Lovers">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg" alt="The Lovers - Pamela Colman Smith" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg" alt="The Lovers - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
