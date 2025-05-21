@@ -1,8 +1,8 @@
 ---
-title: "2023 - Trawlawny's Tarot-Behind the scenes"
+title: "2023 - Trelawny's Tarot-Behind the scenes"
 excerpt: "A card by card walkthrough of choosing each Harry Potter character"
 coverImage:
-  src: "/images/scavengerhunts/2023-trawlawnys-tarot/the-fool-compared.png"
+  src: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-compared.png"
   alt: "Harry Potter and Dumbledore as the Fool and the Magician"
   width: 600
   height: 518
@@ -11,7 +11,7 @@ author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/scavengerhunts/2023-trawlawnys-tarot/the-fool-compared.png"
+  url: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-compared.png"
 ---
 
 ## Behind the scenes
@@ -57,8 +57,8 @@ _Pamela Colman Smith's Fool_
 
 _Harry Potter as the Fool_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/00-the-fool.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/00-the-fool.png" alt="Harry Potter as the Fool Tarot Card" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/00-the-fool.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/00-the-fool.png" alt="Harry Potter as the Fool Tarot Card" />
 </a>
 </div>
 </div>
@@ -89,8 +89,8 @@ _Pamela Colman Smith's Magician_
 
 _Dumbledore as the Magician_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/01-the-magician.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/01-the-magician.png" alt="Dumbledore as the Magician" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/01-the-magician.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/01-the-magician.png" alt="Dumbledore as the Magician" />
 </a>
 </div>
 </div>
@@ -114,8 +114,8 @@ _Pamela Colman Smith's High Priestess_
 
 _Dumbledore as the High Priestess_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/02-the-high-priestess.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/02-the-high-priestess.png" alt="Snape as the High Priestess" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/02-the-high-priestess.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/02-the-high-priestess.png" alt="Snape as the High Priestess" />
 </a>
 </div>
 </div>
@@ -146,8 +146,8 @@ _Pamela Colman Smith's Empress_
 
 _Lily Potter as the Empress_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/03-the-empress.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/03-the-empress.png" alt="Lily Potter as the Empress" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/03-the-empress.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/03-the-empress.png" alt="Lily Potter as the Empress" />
 </a>
 </div>
 </div>
@@ -183,8 +183,8 @@ _Pamela Colman Smith's Emperor_
 
 _James Potter as the Emperor_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/04-the-emperor.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/04-the-emperor.png" alt="James Potter as the Emperor" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/04-the-emperor.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/04-the-emperor.png" alt="James Potter as the Emperor" />
 </a>
 </div>
 </div>
@@ -207,8 +207,8 @@ _Pamela Colman Smith's Hierophant_
 
 _Dolores Umbridge as the Hierophant_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/05-the-hierophant.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/05-the-hierophant.png" alt="Dolores Umbridge as the Hierophant" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/05-the-hierophant.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/05-the-hierophant.png" alt="Dolores Umbridge as the Hierophant" />
 </a>
 </div>
 </div>
@@ -245,8 +245,8 @@ _Pamela Colman Smith's the Lovers_
 
 _Professor Lockhart as Cupid_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/06-the-lovers.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/06-the-lovers.png" alt="Professor Lockhart as Cupid, Harry & Ginny as the Lovers" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/06-the-lovers.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/06-the-lovers.png" alt="Professor Lockhart as Cupid, Harry & Ginny as the Lovers" />
 </a>
 </div>
 </div>
@@ -271,8 +271,8 @@ _Pamela Colman Smith's the Chariot_
 
 _Sirius's Motorcycle as the Chariot_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/07-the-chariot.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/07-the-chariot.png" alt="Sirius's Motorcycle as the Chariot" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/07-the-chariot.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/07-the-chariot.png" alt="Sirius's Motorcycle as the Chariot" />
 </a>
 </div>
 </div>
@@ -295,8 +295,8 @@ _Pamela Colman Smith's Strength_
 
 _Hagrid is Strength_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/08-strength.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/08-strength.png" alt="Rubeus Hagrid as Strength" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/08-strength.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/08-strength.png" alt="Rubeus Hagrid as Strength" />
 </a>
 </div>
 </div>
@@ -321,8 +321,8 @@ _Pamela Colman Smith's The Hermit_
 
 _Mad-Eye Moody as the Hermit_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/09-the-hermit.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/09-the-hermit.png" alt="Mad-Eye Moody as the Hermit" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/09-the-hermit.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/09-the-hermit.png" alt="Mad-Eye Moody as the Hermit" />
 </a>
 </div>
 </div>
@@ -364,8 +364,8 @@ _Pamela Colman Smith's The Wheel of Fortune_
 
 _Weasleys' Wizard Wheezes as the Wheel of Fortune_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/10-wheel-of-fortune.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/10-wheel-of-fortune.png" alt="Weasleys' Wizard Wheezes representing the Wheel of Fortune" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/10-wheel-of-fortune.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/10-wheel-of-fortune.png" alt="Weasleys' Wizard Wheezes representing the Wheel of Fortune" />
 </a>
 </div>
 </div>
@@ -388,8 +388,8 @@ _Pamela Colman Smith's Justice_
 
 _Cornelius Fudge as Justice_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/11-justice.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/11-justice.png" alt="Cornelius Fudge as Justice" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/11-justice.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/11-justice.png" alt="Cornelius Fudge as Justice" />
 </a>
 </div>
 </div>
@@ -412,8 +412,8 @@ _Pamela Colman Smith's The Hanged Man_
 
 _Peter Pettigrew as The Hanged Man_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/12-the-hanged-man.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/12-the-hanged-man.png" alt="Peter Pettigrew as The Hanged Man" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/12-the-hanged-man.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/12-the-hanged-man.png" alt="Peter Pettigrew as The Hanged Man" />
 </a>
 </div>
 </div>
@@ -444,8 +444,8 @@ _Pamela Colman Smith's Death_
 
 _A Thestral as Death_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/13-death.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/13-death.png" alt="A Thestral as Death" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/13-death.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/13-death.png" alt="A Thestral as Death" />
 </a>
 </div>
 </div>
@@ -468,8 +468,8 @@ _Pamela Colman Smith's Temperance_
 
 _Hermione as Temperance_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/14-temperance.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/14-temperance.png" alt="Hermione as Temperance" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/14-temperance.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/14-temperance.png" alt="Hermione as Temperance" />
 </a>
 </div>
 </div>
@@ -500,8 +500,8 @@ _Pamela Colman Smith's The Devil_
 
 _Horace Slughorn as The Devil_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/15-the-devil.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/15-the-devil.png" alt="Horace Slughorn as The Devil" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/15-the-devil.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/15-the-devil.png" alt="Horace Slughorn as The Devil" />
 </a>
 </div>
 </div>
@@ -524,8 +524,8 @@ _Pamela Colman Smith's The Tower_
 
 _Horace Slughorn as The Tower_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/16-the-tower.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/16-the-tower.png" alt="Horace Slughorn as The Tower" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png" alt="Horace Slughorn as The Tower" />
 </a>
 </div>
 </div>
@@ -554,8 +554,8 @@ _Pamela Colman Smith's The Star_
 
 _Luna Lovegood as The Star_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/17-the-star.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/17-the-star.png" alt="Luna Lovegood as The Star" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/17-the-star.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/17-the-star.png" alt="Luna Lovegood as The Star" />
 </a>
 </div>
 </div>
@@ -578,8 +578,8 @@ _Pamela Colman Smith's The Moon_
 
 _Remus Lupin as The Moon_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/18-the-moon.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/18-the-moon.png" alt="Remus Lupin as The Moon" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/18-the-moon.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/18-the-moon.png" alt="Remus Lupin as The Moon" />
 </a>
 </div>
 </div>
@@ -602,8 +602,8 @@ _Pamela Colman Smith's The Sun_
 
 _<s>Xenophilius Lovegood</s>The Sun as The Sun_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/19-the-sun.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/19-the-sun.png" alt="The Sun" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/19-the-sun.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/19-the-sun.png" alt="The Sun" />
 </a>
 </div>
 </div>
@@ -630,8 +630,8 @@ _Pamela Colman Smith's Judgement_
 
 _Professor McGonagal as Judgement_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/20-judgement.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/20-judgement.png" alt="Professor McGonagal as Judgement" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/20-judgement.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/20-judgement.png" alt="Professor McGonagal as Judgement" />
 </a>
 </div>
 </div>
@@ -654,8 +654,8 @@ _Pamela Colman Smith's The World_
 
 _Ginny Weasley as The World_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/21-the-world.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/21-the-world.png" alt="Ginny Weasley as The World" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/21-the-world.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/21-the-world.png" alt="Ginny Weasley as The World" />
 </a>
 </div>
 </div>
@@ -678,8 +678,8 @@ _Pamela Colman Smith's the Knight of Swords_
 
 _My daughter as the Knight of Swords_
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/knight-of-swords.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/knight-of-swords.png" alt="My daughter as the Knight of Swords" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png" alt="My daughter as the Knight of Swords" />
 </a>
 </div>
 </div>
@@ -688,18 +688,18 @@ _My daughter as the Knight of Swords_
 
 I was initially going to have a simple pattern of repeated alchemical symbols for fire (🜂), water (🜄), earth (🜃) and air (🜁) but that looked overly simplistic...
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/back-fire-earth-water-air.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/back-fire-earth-water-air.png" alt="Fire, Earth, Water & Air back" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-fire-earth-water-air.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-fire-earth-water-air.png" alt="Fire, Earth, Water & Air back" />
 </a>
 
 I was then going to use more interesting symbols, for the moon, star, sun and earth
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/back-sun-moon-earth-star.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/back-sun-moon-earth-star.png" alt="Sun, moon, earth and star back" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-sun-moon-earth-star.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-sun-moon-earth-star.png" alt="Sun, moon, earth and star back" />
 </a>
 
 But my wife convinced me to go for a more interesting back, one that evoked the [dueling table](https://www.pinterest.com/pin/289637819766509184/) and, lets face it, looked cooler. And so I modified an image from [VectorStock.com image](vectorstock.com/47230429) to change the color scheme and extend it to fit the traditional Tarot card dimension (2.75" x 4.75")....
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/back-moons.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/back-moons.png" alt="Moons back" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-moons.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-moons.png" alt="Moons back" />
 </a>

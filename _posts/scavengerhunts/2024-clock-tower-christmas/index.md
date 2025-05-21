@@ -14,7 +14,7 @@ ogImage:
   url: "/images/scavengerhunts/2024-clock-tower-christmas/solving-0-midnight.jpg"
 ---
 
-Almost immediately after finishing [Tralawny's Tarot](../2023-trawlawnys-tarot/), I came up with the idea of doing a clock-based scavenger hunt, where I would do an extended version of the Marauder's map, with all the areas of the house mapped out and the center mechanic replaced with a paper clock that would represent the [Clock Tower](https://harrypotter.fandom.com/wiki/Clock_Tower) - but the clock would be a combination clock and show different icons for the clues.
+Almost immediately after finishing [Tralawny's Tarot](../2023-trelawnys-tarot/), I came up with the idea of doing a clock-based scavenger hunt, where I would do an extended version of the Marauder's map, with all the areas of the house mapped out and the center mechanic replaced with a paper clock that would represent the [Clock Tower](https://harrypotter.fandom.com/wiki/Clock_Tower) - but the clock would be a combination clock and show different icons for the clues.
 
 This took a bit longer to make...
 

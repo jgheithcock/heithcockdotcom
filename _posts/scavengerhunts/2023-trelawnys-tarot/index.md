@@ -1,8 +1,8 @@
 ---
-title: "2023 - Trawlawny's Tarot"
+title: "2023 - Trelawny's Tarot"
 excerpt: "Hermione shares her notes on the Tarot"
 coverImage:
-  src: "/images/scavengerhunts/2023-trawlawnys-tarot/the-fool-and-the-magician.png"
+  src: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-and-the-magician.png"
   alt: "Harry Potter and Dumbledore as the Fool and the Magician"
   width: 1000
   height: 864
@@ -11,15 +11,15 @@ author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/scavengerhunts/2023-trawlawnys-tarot/the-fool-and-the-magician.png"
+  url: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-and-the-magician.png"
 ---
 
 We have both found Tarot cards and card reading fun and so for this year's hunt, I thought "What if Hermione had made notes from Trawlawney's class - on Tarot cards - after all, she was surprisingly accurate there. What would that look like?"
 
 In the box is a letter from Hermione...
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/letter.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/letter.jpg" alt="Letter from Hermione" style="max-width:100%;" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/letter.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/letter.jpg" alt="Letter from Hermione" style="max-width:100%;" />
 </a>
 
 The letter reads...
@@ -93,8 +93,8 @@ This was intended to be an easy clue to get things started, there are two refere
 Inside Hedwig was the second page of notes. Wrapped in the note was an actual Tarot card. The one you just read about---but with Harry Potter as the Fool.
 
 <center>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/00-the-fool.png">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/00-the-fool.png" alt="Harry Potter as the Fool Tarot Card" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/00-the-fool.png">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/00-the-fool.png" alt="Harry Potter as the Fool Tarot Card" />
 </a>
 <div class="top clue">Seeketh Thy</div>
 </center>
@@ -151,8 +151,8 @@ The High Priestess is the other side of the coin to the Magician. Where the magi
 
 There are a number of books in this house that could be considered secret, magical, and hard to reach. You finally find the next set of notes in a box that mimics the book, _Harry Potter and the Deathly Hallows_....
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/locations/secret-magical-book.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/locations/secret-magical-book.jpg" alt="A secret book" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/locations/secret-magical-book.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/locations/secret-magical-book.jpg" alt="A secret book" class="mapBorder" />
 </a>
 
 As before, wrapped in the notes are two more Harry Potter themed Tarot cards, Dumbledore as the Magician and Snape as the High Priestess. As with the fool, affixed to the top and bottom of the two were slips of paper, with the bottom and top part of some text.
@@ -160,16 +160,16 @@ As before, wrapped in the notes are two more Harry Potter themed Tarot cards, Du
 <div class="folderList">
 <div class="postPreview">
 <div class="bottom right clue">Seeke</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/01-the-magician.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/01-the-magician.png" alt="Dumbledore as the Magician" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/01-the-magician.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/01-the-magician.png" alt="Dumbledore as the Magician" />
 </a>
 <div class="top right clue">Happy Outco</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">th Thy</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/02-the-high-priestess.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/02-the-high-priestess.png" alt="Snape as the High Priestess" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/02-the-high-priestess.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/02-the-high-priestess.png" alt="Snape as the High Priestess" />
 </a>
 <div class="top left clue">me–Thy Prize</div>
 </div>
@@ -254,8 +254,8 @@ Our hero is now ready to leave adolescence behind....
 
 This clue is a toughie. To solve this, you need to figure out that the chair in my office (I'm the father figure here), has a secret compartment....
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/locations/chair.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/locations/chair.jpg" alt="Behind the Emperor's throne" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/locations/chair.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/locations/chair.jpg" alt="Behind the Emperor's throne" class="mapBorder" />
 </a>
 
 Behind the cushion was the next set of notes and next three Harry Potter Tarot cards....
@@ -264,24 +264,24 @@ Behind the cushion was the next set of notes and next three Harry Potter Tarot c
 <div class="postPreview">
 
 <div class="bottom right clue">Happ</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/03-the-empress.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/03-the-empress.png" alt="Lily as the Empress" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/03-the-empress.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/03-the-empress.png" alt="Lily as the Empress" />
 </a>
 <div class="top right clue">Neither Out O</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom clue">y Outcome–Th</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/04-the-emperor.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/04-the-emperor.png" alt="James as the Emperor" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/04-the-emperor.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/04-the-emperor.png" alt="James as the Emperor" />
 </a>
 <div class="top clue">f Doors Nor In </div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">y Prize</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/05-the-hierophant.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/05-the-hierophant.png" alt="Dolores Umbridge as the Hierophant" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/05-the-hierophant.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/05-the-hierophant.png" alt="Dolores Umbridge as the Hierophant" />
 </a>
 <div class="top left clue">The Public Eye</div>
 </div>
@@ -377,8 +377,8 @@ Relationships, mobility, empathy and introspection. Our hero is now ready to ans
 
 This one was pretty quick, I think she went right to her old Dragon rocker....
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/locations/dragon-rocker.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/locations/dragon-rocker.jpg" alt="Dragon Rocker" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/locations/dragon-rocker.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/locations/dragon-rocker.jpg" alt="Dragon Rocker" class="mapBorder" />
 </a>
 
 Underneath the seat was the next set of notes with the prior four Tarot cards with characters from Harry Potter.
@@ -388,32 +388,32 @@ Harry & Ginny (and Professor Lockhart as Cupid), Sirius's Motorcycle (ridden by 
 <div class="folderList four-across">
 <div class="postPreview">
 <div class="bottom right clue">Neither </div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/06-the-lovers.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/06-the-lovers.png" alt="Lockhart as cupid in the Lovers" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/06-the-lovers.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/06-the-lovers.png" alt="Lockhart as cupid in the Lovers" />
 </a>
 <div class="top right clue">But Rat</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom clue">Out Of Doors </div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/07-the-chariot.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/07-the-chariot.png" alt="Sirus's Motorcycle as the Chariot" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/07-the-chariot.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/07-the-chariot.png" alt="Sirus's Motorcycle as the Chariot" />
 </a>
 <div class="top clue">her Look Insid</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom clue">Nor In The Pub</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/08-strength.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/08-strength.png" alt="Rubeus Hagrid as Strength" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/08-strength.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/08-strength.png" alt="Rubeus Hagrid as Strength" />
 </a>
 <div class="top clue">e The Secret C</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">lic Eye</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/09-the-hermit.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/09-the-hermit.png" alt="Mad-Eye Moody as the Hermit" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/09-the-hermit.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/09-the-hermit.png" alt="Mad-Eye Moody as the Hermit" />
 </a>
 <div class="top left clue">orners, </div>
 </div>
@@ -492,24 +492,24 @@ Doubtless the toughest clue of the bunch. I guess I do more cooking than others 
 <div class="folderList three-across">
 <div class="postPreview">
 <div class="bottom right clue">But Rather Lo</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/10-wheel-of-fortune.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/10-wheel-of-fortune.png" alt="Weasleys' Wizard Wheezes representing the Wheel of Fortune" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/10-wheel-of-fortune.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/10-wheel-of-fortune.png" alt="Weasleys' Wizard Wheezes representing the Wheel of Fortune" />
 </a>
 <div class="top right clue">The Hidden N</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom clue">ok Inside The S</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/11-justice.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/11-justice.png" alt="Fudge as Justice" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/11-justice.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/11-justice.png" alt="Fudge as Justice" />
 </a>
 <div class="top clue">ooks, And The&nbsp;</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">ecret Corners,</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/12-the-hanged-man.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/12-the-hanged-man.png" alt="Peter Pettigrew is the Hanged Man" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/12-the-hanged-man.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/12-the-hanged-man.png" alt="Peter Pettigrew is the Hanged Man" />
 </a>
 <div class="top left clue">Dark Crannies</div>
 </div>
@@ -613,32 +613,32 @@ This was an easy one - going right to the cardboard Hogwarts model on top of my 
 <div class="folderList four-across">
 <div class="postPreview">
 <div class="bottom right clue">The H</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/13-death.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/13-death.png" alt="Thestral as Death" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/13-death.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/13-death.png" alt="Thestral as Death" />
 </a>
 <div class="top right clue">That Ar</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">idden Nooks,</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/14-temperance.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/14-temperance.png" alt="Hermione as Temperance" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/14-temperance.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/14-temperance.png" alt="Hermione as Temperance" />
 </a>
 <div class="top clue">e Concealed In</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom clue">And The Dark&nbsp;</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/15-the-devil.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/15-the-devil.png" alt="Slughorn as the Devil" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/15-the-devil.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/15-the-devil.png" alt="Slughorn as the Devil" />
 </a>
 <div class="top clue"> The Midst Of</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">Crannies</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/16-the-tower.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/16-the-tower.png" alt="The Astronomy tower as the Tower" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png" alt="The Astronomy tower as the Tower" />
 </a>
 <div class="top left clue">The Abode</div>
 </div>
@@ -714,8 +714,8 @@ One of the happiest cards in the deck, the sun represents victory, the happy out
 
 Harder to find than I would have thought, especially as she painted it...
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/locations/sun-and-moon-painting.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/locations/sun-and-moon-painting.jpg" alt="Sun and Moon Together - Morgan Heithcock" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/locations/sun-and-moon-painting.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/locations/sun-and-moon-painting.jpg" alt="Sun and Moon Together - Morgan Heithcock" class="mapBorder" />
 </a>
 
 Behind the painting were the next page of the notes for the final two cards and the Harry Potter versions of the Star, Moon and Sun...
@@ -723,24 +723,24 @@ Behind the painting were the next page of the notes for the final two cards and 
 <div class="folderList three-across">
 <div class="postPreview">
 <div class="bottom right clue">That Are Conce</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/17-the-star.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/17-the-star.png" alt="Luna as the Star" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/17-the-star.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/17-the-star.png" alt="Luna as the Star" />
 </a>
 <div class="top right clue">Of Th</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom clue">aled In The Mid</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/18-the-moon.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/18-the-moon.png" alt="Lupin & Sirius as the Moon" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/18-the-moon.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/18-the-moon.png" alt="Lupin & Sirius as the Moon" />
 </a>
 <div class="top clue">ine Mother’s M</div>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">st Of The Abode</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/19-the-sun.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/19-the-sun.png" alt="Xenophilius approves this sun" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/19-the-sun.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/19-the-sun.png" alt="Xenophilius approves this sun" />
 </a>
 <div class="top left clue">other</div>
 </div>
@@ -795,8 +795,8 @@ The final card of the trumps or Major Arcana of the Tarot. The same mythological
 
 This was a long hunt, not least as she took the time to read through all of the notes, but she said it was one of her favorites. I had thought she might get tripped up on this last clue but she went right to a wooden globe I had made the prior Christmas.
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/locations/globe.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/locations/globe.jpg" alt="The world in miniature" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/locations/globe.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/locations/globe.jpg" alt="The world in miniature" class="mapBorder" />
 </a>
 
 Under it were some final notes and the last two Harry Potter versions of the Major Arcana. That is supposed to be McGonagal as Judgment and Ginny as the World (well, for Harry)...
@@ -804,15 +804,15 @@ Under it were some final notes and the last two Harry Potter versions of the Maj
 <div class="folderList">
 <div class="postPreview">
 <div class="bottom right clue">Of Thine Mot</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/20-judgement.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/20-judgement.png" alt="McGonagal as Judgement" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/20-judgement.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/20-judgement.png" alt="McGonagal as Judgement" />
 </a>
 </div>
 
 <div class="postPreview">
 <div class="bottom left clue">her’s Mother</div>
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/21-the-world.png">
-  <img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/21-the-world.png" alt="Ginny as the World" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/21-the-world.png">
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/21-the-world.png" alt="Ginny as the World" />
 </a>
 </div>
 </div>
@@ -821,8 +821,8 @@ Under it were some final notes and the last two Harry Potter versions of the Maj
 
 Now came deciphering the final clue. She had to arrange the cards in order and by so doing, would be able to read the words between the cards:
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/the-cards-assembled.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/the-cards-assembled.jpg" alt="The cards assembled" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/the-cards-assembled.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/the-cards-assembled.jpg" alt="The cards assembled" class="mapBorder" />
 </a>
 
 You can click the image to see a full-sized version or, for your convenience...
@@ -839,24 +839,24 @@ Of Thine Mother’s Mother
 
 So one final clue, leading to searching her grandmother Sharlee's place. And here, I confess I was looking forward to a prolonged search of all the hidden nooks and dark crannies that can be found in a person's place. But no, she found it in the first place she looked, inside the closed TV cabinet, behind the TV...
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/the-wrapped-present.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/the-wrapped-present.jpg" alt="The wrapped present" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/the-wrapped-present.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/the-wrapped-present.jpg" alt="The wrapped present" class="mapBorder" />
 </a>
 
 On the present was the [Knight of Swords](https://en.wikipedia.org/wiki/Knight_of_Swords), but with Ginny as the knight.
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/cards/knight-of-swords.png">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/cards/knight-of-swords.png" alt="Ginny as the Knight of Swords" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png" alt="Ginny as the Knight of Swords" class="mapBorder" />
 </a>
 
 And inside, a pillow that Sharlee had embroidered once before - long before the fire. This was a recreation with some detective work on my part and my wife's assistance - and a lot of work on Sharlee's part - again! (So it was very appropriate for it to be found at Sharlee's!)
 
-<a href="/images/scavengerhunts/2023-trawlawnys-tarot/sun-pillow.jpg">
-<img src="/images/scavengerhunts/2023-trawlawnys-tarot/sun-pillow.jpg" alt="Sun Pillow" class="mapBorder" />
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/sun-pillow.jpg">
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/sun-pillow.jpg" alt="Sun Pillow" class="mapBorder" />
 </a>
 
 _Merry Christmas!_
 
 <hr/>
 
-If you have gotten this far, congratulations and thanks. If you are wanting even more, you can check out the [behind the scenes](./2023-trawlawnys-tarot/behind-the-scenes) post that has the 'original' and 'Harry Potter' version side by side and how and why I chose the _Harry Potter_ character for each Tarot card.
+If you have gotten this far, congratulations and thanks. If you are wanting even more, you can check out the [behind the scenes](./2023-trelawnys-tarot/behind-the-scenes) post that has the 'original' and 'Harry Potter' version side by side and how and why I chose the _Harry Potter_ character for each Tarot card.
