@@ -21,6 +21,9 @@ ogImage:
 - First up? Coding for this site. (A colophon)
 - Second? More history/essays?
 
+  - "The Bitter Lesson" as applied to product roadmaps
+    How we should stop supporting legacy products and rely on new markets.
+
   - Comparison of Harry Potter, Lord of the Rings, Star wars
 
     - Look up other reviews/essays and link in
