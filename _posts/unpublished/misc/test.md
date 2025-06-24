@@ -20,7 +20,7 @@ Active link: <a href="#" class="active">An Active Link</a>
 
 Note: None of the possible extensions work for setting image width. The one possibility is, in the global.css file:
 
-```
+```html
 img[alt="A picture of Bob, the Guard at Gringotts"] {
     width: 400px;
 }
@@ -28,7 +28,11 @@ img[alt="A picture of Bob, the Guard at Gringotts"] {
 
 HTML works:
 
+An image of Bob the lego guard:
+
 <img src="/images/bob-the-guard.jpeg" alt="drawing" width="200"/>
+
+The Ink Cloud image:
 
 <img src="/images/ink-cloud.png" alt="The Ink Cloud" width="400" />
 
@@ -36,7 +40,7 @@ HTML works:
 
 > It was a fine day...
 
-## Code...
+## Code
 
 The variable was named `foobar` - much thought had gone into its name.
 
@@ -62,7 +66,9 @@ The following sentence is a comment (and is not visible), note that any returns 
 > </div>
 > ```
 
-> [!TIP]
+Example:
+
+> [!NOTE]
 > The **content** can ~~have~~ include _Markdown_ `syntax`. Check [this `api`](#).
 
 ## My list
@@ -114,7 +120,7 @@ X^2^
 
 ## code fencing
 
-```
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
