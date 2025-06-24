@@ -14,7 +14,8 @@ ogImage:
   url: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-compared.png"
 ---
 
-## Behind the scenes
+Behind the scenes
+-----------------
 
 As with so many, this hunt went through a fair few changes. I first thought I would have a Celtic Cross, but then realized it would be very challenging to "force" the next card. It was a fortunate moment to remember [Eden Gray's](https://en.wikipedia.org/wiki/Eden_Gray) "The Fool's Journey" - very much derived from Joseph Campbell's 1949 [The Hero with a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces).
 
@@ -112,7 +113,7 @@ _Pamela Colman Smith's High Priestess_
 </div>
 <div class="postPreview">
 
-_Dumbledore as the High Priestess_
+_Snape as the High Priestess_
 
 <a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/02-the-high-priestess.png">
   <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/02-the-high-priestess.png" alt="Snape as the High Priestess" />
@@ -237,7 +238,7 @@ In any case, who else but Professor Lockhart for playing Cupid?
 _Pamela Colman Smith's the Lovers_
 
 <a href="https://en.wikipedia.org/wiki/The_Lovers">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/TheLovers.jpg" width="300px" alt="The Lovers - Pamela Colman Smith" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg" width="300px" alt="The Lovers - Pamela Colman Smith" />
 </a>
 </div>
 

@@ -601,7 +601,7 @@ Like death, the tower represents something we inherently fear and loath, yet can
   </div>
 </div>
 
-The first twelve cards were about personal growth, the following four were about their experiences in the world at large, the remaining five leave the physical world our hero has been living in....
+The first twelve cards were about personal growth, the preceding four were about their experiences in the world at large, the remaining five leave the physical world our hero has been living in....
 
 > [!TIP]
 > For your next step on your journey:<br/>can you find a tower that Trelawney might have been referencing?
