@@ -2,6 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
+  /* First font-family is for Suzy's home page */
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-family: 'IBM Plex Mono', monospace;
@@ -530,6 +531,7 @@ img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
     background: white;
   }
   img.parchment {
+    /* For transparent PNGs */
     background: #f5e3c9 url("/images/paperboard.jpg") repeat;
   }
   .main hr {
