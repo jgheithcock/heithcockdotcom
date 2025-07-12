@@ -14,11 +14,13 @@ ogImage:
   url: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-and-the-magician.png"
 ---
 
-We have both found Tarot cards and card reading fun and so for this year's hunt, I thought "What if Hermione had made notes from Trawlawney's class - on Tarot cards - after all, she was surprisingly accurate there. What would that look like?"
+My daughter and I have both found Tarot cards and card reading fun and so I
+thought "What if Hermione had made notes from Trawlawney's class on Tarot cards?
+After all, she was surprisingly accurate there. What would that look like?"
 
 In the box is a letter from Hermione...
 
-<a href="/images/scavengerhunts/2023-trelawnys-tarot/letter.jpg">
+<a href="/images/scavengerhunts/2023-trelawnys-tarot/letter.jpg" class="shrink-for-print">
 <img src="/images/scavengerhunts/2023-trelawnys-tarot/letter.jpg" alt="Letter from Hermione" style="max-width:100%;" />
 </a>
 

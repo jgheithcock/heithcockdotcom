@@ -68,6 +68,12 @@ a label {
   cursor: pointer;
 }
 
+@media print {
+  .markdown a.shrink-for-print {
+    max-width: 80%;
+  }
+}
+
 /*
 .markdown a::before,
 a.cloud::before {
@@ -221,6 +227,12 @@ a.cloud::before {
   text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
 }
 
+@media print {
+  .main header {
+    display: none !important;
+  }
+}
+
 .main hr {
   background-image: url(/images/map-border.png);
   background-size: contain;
@@ -307,6 +319,8 @@ div.note {
   background-color: rgb(255 255 255 / 80%);
   color: black;
   padding: 1em;
+  max-width: 1000px;
+  page-break-inside: avoid
 }
 div.tarot {
   box-sizing: border-box;
@@ -316,6 +330,7 @@ div.tarot {
 div.tarot .card {
   padding-right: 1em;
 }
+
 div.tarot .notes p:first-child {
   margin-block-start: 0;
 }
