@@ -14,6 +14,8 @@ export default function Slug(params) {
   // this handles both Folders as well as Files
   // console.log("Slug: params ->", params);
   const { parentPost, previousPost, nextPost, post, children } = params;
+  const hasChildren = children && children.length > 0;
+  const articleClass = children && children.length > 2 ? "folder" : "single";
   const titlePrefix =
     parentPost && parentPost.title !== post.title
       ? `${parentPost.title} - `
@@ -29,18 +31,20 @@ export default function Slug(params) {
         <meta property="og:image" content={post.ogImage.url} />
         <meta name="description" content={post.excerpt} />
       </Head>
-      <h1>{post.title}</h1>
-      <DateFormatter dateString={post.date} />
-      <div
-        dangerouslySetInnerHTML={{ __html: post.content }}
-        className="markdown"
-      />
-      {children && children.length > 0 && (
-        <div>
-          <hr />
-          <FolderList posts={children} />
-        </div>
-      )}
+      <article className={articleClass}>
+        <h1>{post.title}</h1>
+        <DateFormatter dateString={post.date} />
+        <div
+          dangerouslySetInnerHTML={{ __html: post.content }}
+          className="markdown"
+        />
+        {hasChildren && (
+          <div>
+            <hr />
+            <FolderList posts={children} />
+          </div>
+        )}
+      </article>
     </Layout>
   );
 }

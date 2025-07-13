@@ -46,12 +46,17 @@ h1, h2 {margin:0}
 a {
   color: inherit;
   text-decoration: none;
- }
- a:hover {
+}
+a:hover {
   text-decoration: underline;
- }
+}
 
- .markdown a {
+article.single {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.markdown a {
   position: relative;
   z-index: 0;
   display: inline-block;
@@ -64,6 +69,7 @@ a {
   transition: all .3s ease-out;
   */
 }
+
 a label {
   cursor: pointer;
 }
