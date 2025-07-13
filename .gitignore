@@ -11,7 +11,8 @@
 # Temporary/hidden
 /hold
 hold/
-/original/
+/original
+original
 
 # next.js
 /.next/
