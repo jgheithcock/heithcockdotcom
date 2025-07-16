@@ -17,23 +17,23 @@ ogImage:
 We took our daughter to Disneyland for her ninth birthday and became entranced
 with the idea of building her a treehouse when we went through what used to be
 the [Adventureland Treehouse](
-https://en.wikipedia.org/wiki/Adventureland_Treehouse). And we had the perfect
-tree for it...
+https://en.wikipedia.org/wiki/Adventureland_Treehouse). We had the perfect
+tree for it.
 
 <a href="/images/woodworking/treehouse/CIMG4969-the-tree.jpg">
 <img src="/images/woodworking/treehouse/CIMG4969-the-tree.jpg"
 class="mapBorder" alt="The tree" />
 </a>
 
-One issue was we needed an extra trunk to make the best platform. Fortunately,
-we found a nice straight log that would work.
+One issue was that we needed an extra trunk to hold one corner of the platform.
+Fortunately, we found a nice straight log that would work.
 
 <a href="/images/woodworking/treehouse/CIMG4972-found-post.jpg">
 <img src="/images/woodworking/treehouse/CIMG4972-found-post.jpg"
 class="mapBorder" alt="Log for the post" />
 </a>
 
-Fortunately I had a helper to dig a hole to pour in a concrete foundation for
+I had a helper to dig the hole to pour in a concrete foundation for
 the post.
 
 <a href="/images/woodworking/treehouse/CIMG4974-helper.jpg">
@@ -41,7 +41,7 @@ the post.
 class="mapBorder" alt="Digging post hole" />
 </a>
 
-Foundation dug, post installed. Ready to build the platform.
+Hole dug, post installed. Ready to build the platform.
 
 <a href="/images/woodworking/treehouse/CIMG4981-post-installed.jpg">
 <img src="/images/woodworking/treehouse/CIMG4981-post-installed.jpg"
@@ -78,8 +78,8 @@ Posts for walls.
 class="mapBorder" alt="Putting in walls" />
 </a>
 
-I used to work at a winery and had a few discarded barrels. We used these for
-making the rounded walls.
+I used to work at a winery and had a couple of discarded barrels. We used these
+for making the rounded walls.
 
 <a href="/images/woodworking/treehouse/CIMG6666-wine-stave-walls.jpg">
 <img src="/images/woodworking/treehouse/CIMG6666-wine-stave-walls.jpg"
@@ -87,7 +87,7 @@ class="mapBorder" alt="Wine Stave Walls" />
 </a>
 
 Leaving a space open for a doorway. I had a dream of making a rope bridge but
-hadn't thought beyond that.
+hadn't thought how I would do that.
 
 <a href="/images/woodworking/treehouse/CIMG6667-doorway.jpg">
 <img src="/images/woodworking/treehouse/CIMG6667-doorway.jpg"
