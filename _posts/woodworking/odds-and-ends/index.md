@@ -6,7 +6,7 @@ coverImage:
   alt: "The finished bookshelf"
   width: 954
   height: 1157
-date: "2009-01-01"
+date: "2025-04-15"
 author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"

@@ -6,7 +6,7 @@ coverImage:
   alt: "A bookshelf for my daughter"
   width: 954
   height: 1157
-date: "2023-02-26"
+date: "2025-04-15"
 author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
