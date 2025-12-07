@@ -316,7 +316,8 @@ a.active img.mapBorder {
   border-image: url(/images/marauders-border-caps.png) 50 / 20px repeat !important;
 }
 
-img.mapBorder {
+img.mapBorder,
+video.mapBorder {
   max-width: 100%;
   max-height: 1000px;
 }
