@@ -2,7 +2,7 @@
 title: "2025 - A Christmas Page Turner"
 excerpt: "A real life 'Choose Your Own Adventure' scavenger hunt."
 coverImage:
-  src: "/images/scavengerhunts/2025-christmas-page-turner/final-clue/spell-of-animadvertere.jpg"
+  src: "/images/scavengerhunts/2025-christmas-page-turner/final-clue-8.jpg"
   alt: "The final clue of the Christmas page turner hunt"
   width: 1000
   height: 864
@@ -11,7 +11,7 @@ author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/scavengerhunts/2025-christmas-page-turner/final-clue/spell-of-animadvertere.jpg"
+  url: "/images/scavengerhunts/2025-christmas-page-turner/final-clue-8.jpg"
 ---
 
 I had a different idea for this scavenger hunt, and in fact had mapped out the work and started on the art, when I realized this would be the first Christmas the girl's partner would be visiting for the holidays and I wanted to make sure they were included. I had thought of doing a "real life [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) hunt before, but it seemed pretty blah. But on reflection, the idea of a branching set of choices seemed like a good idea for a shared adventure, they could each pick a path and follow it out. The idea grew and grew and finally I realized I was going to need 28 books, clues and locations to pull this off!
