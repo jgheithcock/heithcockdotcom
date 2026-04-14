@@ -1,0 +1,762 @@
+/* Standalone Chi app — not tied to blog article styles */
+
+.chi-root {
+  --chi-bg: #f1f1f1;
+  --chi-segment-bg: #e1e1e1;
+  --chi-segment-fill: #7c3aed;
+  --chi-segment-empty: #ffffff;
+  --chi-text: #1a1a1a;
+  --chi-muted: #5c5c5c;
+  --chi-header-h: 52px;
+  min-height: 100vh;
+  background: var(--chi-bg);
+  color: var(--chi-text);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+.chi-root--overlay-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.chi-root .chi-player {
+  min-height: calc(100vh - var(--chi-header-h));
+}
+
+.chi-root--overlay-header .chi-player {
+  min-height: 100vh;
+}
+
+.chi-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #ccc;
+  background: #f5f5f5;
+}
+
+.chi-header a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.chi-header a:hover {
+  text-decoration: underline;
+}
+
+.chi-header--overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 40;
+  transform: translateY(-100%);
+  transition: transform 0.2s ease;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+.chi-header--overlay.is-visible {
+  transform: translateY(0);
+}
+
+.chi-main-pad {
+  padding: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.chi-routine-row {
+  margin-bottom: 1.5rem;
+}
+
+.chi-routine-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.chi-routine-title-row h2 {
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+.chi-routine-title-row a.title {
+  color: inherit;
+  text-decoration: none;
+}
+
+.chi-routine-title-row a.title:hover {
+  text-decoration: underline;
+}
+
+.chi-routine-grip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0.2rem 0.25rem;
+  border: none;
+  border-radius: 4px;
+  background: transparent;
+  cursor: grab;
+  color: var(--chi-muted);
+  opacity: 0.35;
+  transition: opacity 0.15s ease, color 0.15s ease, background 0.15s ease;
+  touch-action: none;
+}
+
+.chi-routine-grip:hover {
+  color: var(--chi-text);
+  background: rgba(0, 0, 0, 0.06);
+  opacity: 1;
+}
+
+.chi-routine-grip:active {
+  cursor: grabbing;
+}
+
+.chi-routine-grip:focus-visible {
+  opacity: 1;
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+.chi-routine-row:hover .chi-routine-grip,
+.chi-routine-title-row:hover .chi-routine-grip {
+  opacity: 1;
+}
+
+.chi-routine-grip-icon {
+  display: block;
+  user-select: none;
+}
+
+.chi-routine-grip-lines {
+  display: block;
+  width: 12px;
+  height: 2px;
+  border-radius: 1px;
+  background: currentColor;
+  box-shadow: 0 4px 0 currentColor, 0 8px 0 currentColor;
+}
+
+.chi-icon-btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0.25rem;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--chi-muted);
+}
+
+.chi-icon-btn:hover {
+  color: var(--chi-text);
+}
+
+.chi-thumbs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.chi-thumb {
+  width: 240px;
+  height: 136px;
+  object-fit: cover;
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.chi-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.chi-toolbar-title {
+  margin: 0;
+}
+
+.chi-toolbar-new {
+  flex-shrink: 0;
+}
+
+/* ——— Player ——— */
+
+.chi-player {
+  position: relative;
+  flex: 1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: black;
+}
+
+.chi-player-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-height: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.chi-video-frame {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  flex-shrink: 0;
+}
+
+/* Fullscreen the whole frame (video + segment + overlays), not <video> alone — see RoutinePlayer */
+.chi-frame-fullscreen-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 60;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  pointer-events: auto;
+  line-height: 0;
+}
+
+.chi-frame-fullscreen-btn:hover {
+  filter: brightness(1.08);
+}
+
+.chi-frame-fullscreen-btn-img {
+  display: block;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+.chi-video-frame:fullscreen,
+.chi-video-frame:-webkit-full-screen {
+  width: 100%;
+  max-width: none;
+  min-height: 100%;
+  height: 100%;
+  background: #000;
+  box-sizing: border-box;
+}
+
+/* Video + bottom-cover share one box so the cover stays on the picture, not the fullscreen letterbox */
+.chi-video-canvas {
+  position: relative;
+  width: 100%;
+  display: block;
+  flex-shrink: 0;
+}
+
+.chi-video-frame:fullscreen .chi-video-canvas,
+.chi-video-frame:-webkit-full-screen .chi-video-canvas {
+  width: 100%;
+  max-height: 100vh;
+  max-height: 100dvh;
+}
+
+.chi-video-frame:fullscreen .chi-video,
+.chi-video-frame:-webkit-full-screen .chi-video {
+  width: 100%;
+  height: auto;
+  max-height: 100vh;
+  max-height: 100dvh;
+  object-fit: contain;
+}
+
+/* Overlay on the video so the bar tracks the frame size and isn’t a separate strip at the viewport top */
+.chi-video-frame .chi-segment-wrap {
+  position: absolute;
+  top: 135px;
+  left: 50px;
+  right: 50px;
+  width: auto;
+  height: 16px;
+  margin: 0;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.chi-video {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  max-height: none;
+  background: #000;
+  display: block;
+}
+
+/* Corner overlay to hide video onscreen buttons — anchored to .chi-video-canvas (same box as the video) */
+.chi-player-bottom-cover {
+  position: absolute;
+  bottom: 88px;
+  right: 0;
+  z-index: 25;
+  pointer-events: none;
+  display: block;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  object-position: bottom right;
+  line-height: 0;
+}
+
+.chi-segment-wrap {
+  /* positioned relative to .chi-video-frame when nested there */
+  height: 16px;
+  pointer-events: none;
+}
+
+.chi-segment-track {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.chi-segment-track-under {
+  position: absolute;
+  inset: 0;
+  background: var(--chi-segment-bg);
+}
+
+.chi-segment-cells {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+  align-items: stretch;
+}
+
+.chi-segment-cell {
+  flex: 1 1 0;
+  min-width: 0;
+  background: var(--chi-segment-empty);
+  border-radius: 16px;
+  position: relative;
+  overflow: hidden;
+}
+
+.chi-segment-cell-fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  background: var(--chi-segment-fill);
+}
+
+.chi-segment-cell-fill.is-full {
+  width: 100%;
+}
+
+/* Editor */
+.chi-editor-main {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 2rem);
+  min-height: 0;
+  box-sizing: border-box;
+}
+
+.chi-editor-title {
+  flex-shrink: 0;
+  margin-top: 0;
+}
+
+.chi-editor-main > .chi-actions-row {
+  flex-shrink: 0;
+}
+
+.chi-editor-dnd-outer {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.chi-editor-dnd-shell {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.chi-editor-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: minmax(0, 1fr);
+  gap: 1rem;
+  align-items: stretch;
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: hidden;
+}
+
+@media (max-width: 800px) {
+  .chi-editor-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
+  }
+}
+
+.chi-panel {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  max-height: 100%;
+  overflow: hidden;
+}
+
+.chi-panel h3 {
+  margin-top: 0;
+  flex-shrink: 0;
+}
+
+.chi-panel .chi-search,
+.chi-panel .chi-tag-chips {
+  flex-shrink: 0;
+}
+
+.chi-routine-panel-body {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.chi-routine-panel-body .chi-routine-drop {
+  flex: 1;
+}
+
+.chi-search {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 0.75rem;
+  box-sizing: border-box;
+}
+
+.chi-tag-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.chi-tag-chip {
+  font-size: 0.8rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid #ccc;
+  background: #fafafa;
+  cursor: pointer;
+}
+
+.chi-tag-chip.is-on {
+  background: #ddd;
+  border-color: #999;
+}
+
+.chi-library-list {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+.chi-library-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 0.75rem;
+  cursor: grab;
+  background: #fafafa;
+}
+
+.chi-library-card:hover {
+  border-color: #ccc;
+}
+
+.chi-library-card-thumb {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #ccc;
+}
+
+.chi-library-card-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.5rem 0.75rem 0.25rem;
+}
+
+.chi-library-card-title {
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.chi-library-card-add {
+  border: none;
+  background: #2563eb;
+  color: #fff;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 1.25rem;
+  line-height: 1;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.chi-library-card-add:hover {
+  background: #1d4ed8;
+}
+
+.chi-library-card-tags {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #888;
+  padding: 0 0.75rem 0.65rem;
+}
+
+.chi-routine-drop {
+  flex: 1;
+  min-height: 0;
+  border: 2px dashed #aaa;
+  border-radius: 8px;
+  padding: 0.5rem;
+  overflow-y: auto;
+}
+
+.chi-slot-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.5rem;
+  background: #eef;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+.chi-slot-title {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chi-slot-duration {
+  flex: 0 0 4.75rem;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.chi-editor-title--clickable {
+  cursor: text;
+  user-select: none;
+}
+
+.chi-editor-title-input {
+  display: block;
+  width: 100%;
+  max-width: 36rem;
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+  padding: 0.2rem 0.35rem;
+  border: 2px solid #2563eb;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.chi-actions-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  flex-shrink: 0;
+}
+
+.chi-actions-live {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: auto;
+}
+
+.chi-btn-icon {
+  padding: 0.4rem 0.65rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chi-btn-icon:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.chi-btn-icon-svg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Prev / play-pause / next — artwork from /public/chi/player-controls/ */
+.chi-player-transport {
+  position: absolute;
+  bottom: max(5.5rem, env(safe-area-inset-bottom, 0px));
+  right: max(0.5rem, env(safe-area-inset-right, 0px));
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(0.35rem, 2vw, 0.75rem);
+  z-index: 50;
+  pointer-events: none;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.chi-player-transport .chi-transport-btn {
+  pointer-events: auto;
+}
+
+.chi-transport-btn {
+  padding: 0;
+  margin: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  line-height: 0;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.chi-transport-btn:hover:not(:disabled) {
+  filter: brightness(1.06);
+}
+
+.chi-transport-btn:disabled {
+  opacity: 0.38;
+  cursor: not-allowed;
+}
+
+.chi-transport-btn img {
+  display: block;
+  width: min(72px, 20vw);
+  height: auto;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+@media (max-width: 720px) {
+  .chi-player-transport {
+    bottom: max(4.5rem, env(safe-area-inset-bottom, 0px));
+    right: max(0.35rem, env(safe-area-inset-right, 0px));
+  }
+
+  .chi-transport-btn img {
+    width: min(56px, 22vw);
+  }
+
+  .chi-frame-fullscreen-btn-img {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+.chi-placeholder {
+  height: 40px;
+  border: 2px dashed #7c3aed;
+  border-radius: 4px;
+  margin-bottom: 4px;
+  background: rgba(124, 58, 237, 0.08);
+}
+
+.chi-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.chi-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: #fff;
+  cursor: pointer;
+}
+
+.chi-btn-primary {
+  background: #2563eb;
+  color: #fff;
+  border-color: #2563eb;
+}
+
+.chi-form-row {
+  margin-bottom: 0.75rem;
+}
+
+.chi-form-row label {
+  display: block;
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+}
+
+.chi-form-row input,
+.chi-form-row textarea {
+  width: 100%;
+  max-width: 480px;
+  box-sizing: border-box;
+  padding: 0.4rem;
+}
+
+.chi-settings-note {
+  font-size: 0.85rem;
+  color: var(--chi-muted);
+  max-width: 560px;
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "week-1-monday",
+    "title": "Week 1 — Monday",
+    "videoIds": ["sample-arm-wrap", "sample-balance", "sample-torso"]
+  },
+  {
+    "id": "week-1-tuesday",
+    "title": "Week 1 — Tuesday",
+    "videoIds": ["sample-balance", "sample-arm-wrap"]
+  }
+]
