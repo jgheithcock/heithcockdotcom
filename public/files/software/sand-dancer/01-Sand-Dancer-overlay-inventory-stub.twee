@@ -1,0 +1,202 @@
+:: StoryTitle
+Sand-Dancer
+
+
+:: StoryData
+{
+  "ifid": "A461CF2A-8668-4867-B717-6EB53AF84A1F",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "middle of nowhere",
+  "tag-colors": {
+    "startup": "yellow",
+    "overlay": "yellow",
+    "header": "blue"
+  },
+  "zoom": 1
+}
+
+
+:: Startup [startup] {"position":"200,100","size":"100,100"}
+...but it's too late, you're crashing, you're crashing, you crash...
+
+
+=><=============
+S A N D - D A N C E R
+
+(display:'inventory')
+
+
+:: header [header] {"position":"325,100","size":"100,100"}
+(set: _style to (dm:
+  'width', '25vw',
+  'min-width', '12em',
+  'background', '#000',
+  'background-color', 'rgba(241, 233, 210, .95)',
+  'border', '1px solid #fff',
+  'border-color', '#211100',
+  'color', '#211100',
+  'box-shadow', '.1em 1em 2em .2em rgba(0,0,0,.2)'
+))\
+($createInventory: "Stuff you are carrying...", "left", _style)\
+ (append: ?sidebar)[(link-repeat:"Stuff")[($showInventory:)]]
+
+
+:: inventory {"position":"575,100","size":"100,100"}
+(display:'overlay')\
+(set: $createInventory to (macro: str-type _caption, str-type _placement, dm-type _style,[
+  (set: _title to [\
+    |||||||||||||||||||=
+    ''[_caption]''
+    =|
+    (css:'text-decoration:none !important;font-size:.8em;')[(link-repeat: '&#x2715;')[(hide:?inventory)]]
+    |=|
+  ])
+  (out:)[($createOverlay: 'inventory', _title, _placement, _style) (hide:?inventory)]
+]))\
+(set: $showInventory to (macro: [
+  (show: ?inventory)
+  (out-data:'')
+]))
+
+
+:: middle of nowhere [Tower-Vicinity] {"position":"200,225","size":"100,100"}
+# Middle of Nowhere
+You've smashed up against a tall Saguaro, which is all you can see out the windshield except a few feet of desert sand, then blackness. Hell, you must have driven off the road and crashed. Ocean keeps telling you this night commute on this lonely highway's gonna kill you; maybe you should start listening.
+
+Through the windshield, you see a brown lizard clinging frantically to the tall Saguaro.
+
+
+
+:: overlay [overlay] {"position":"450,100","size":"100,100"}
+<!-- getBrowserWidth - useful for responsive UI on mobile devices -->\
+(set: $getBrowserWidth to (macro:,[
+  (set: _width to 0)
+  <script>_width = window.innerWidth;</script><!-- Uses Javascript to directly query the browser window -->
+  (out-data:_width)
+]))\
+<!-- isMobile - Uses getBrowserWidth above to decide if UI is on a (narrow) mobile window. -->\
+(set: $isMobile to (macro:,[
+  (set: _width to ($getBrowserWidth:))
+  (out-data: _width <= 576)<!-- 576 is used by Harlowe to decide when to hide the sidebar -->
+]))\
+(set: $getDefaultSize to (macro: str-type _placement, [
+  (set: _width to '50vw')
+  (set: _height to '50vh')
+  (if: _placement is 'top' or _placement is 'bottom')[(set: _width to '100vw')]
+  (if: _placement is 'left' or _placement is 'right')[(set: _height to '100vh')]
+  (if: _placement is '' or _placement is 'center')[(set: _height to '30vh')]
+  (out-data:(dm:'width', _width, 'height', _height))
+]))\
+(set: $validateOptions to (macro: str-type _placement, dm-type _options, [
+  (if: _placement is 0)[set: _placement to '']
+  (if: _options is 0)[set: _options to (dm:)]
+  (set: _fixedOptions to (dm:
+    'position', 'fixed',
+    'padding', '1em',
+    'z-index', '10000',
+    'overflow', 'auto',
+   ))
+  (set:_defaultOptions to (dm:
+    'background','#000',
+    'color', '#fff',
+    'border', '1px solid #fff'
+   ))
+  (set: _defaultMobile to (dm:
+    'width', '100vw',
+    'height', '100vh',
+   ))
+  (set: _options to _fixedOptions + _defaultOptions + _options)
+  (set: _defaultSize to ($getDefaultSize: _placement))
+  (set: _options to _defaultSize + _options)
+  (if: ($isMobile:))[
+    (if:_options contains 'mobile')[
+      (set: _options to _defaultMobile + _options's mobile)
+      (move: _options's mobile into _trash)
+    ]
+    (else:)[
+      (set: _options to _options + _defaultMobile)
+    ]
+  ]
+  (out-data: _options)
+]))\
+<!--
+  Utility methods to compute left and top from placement string, width and height
+  For this css, left = (width/2) * m, where m = 1 for left, 2 for center, 3 for right
+  and similarly right = (top/2) * m, where m = 1 for top, 2 for center and 3 for bottom.
+-->\
+(set: $getTop to (macro: str-type _placement, num-type _height, [
+  (if: _placement contains 'top')[(out-data: 0)]
+  (else-if: _placement contains 'bottom')[(out-data: 100 - _height)]
+  (else:)[(out-data: ((100 - _height) / 2)))]
+]))\
+(set: $getLeft to (macro: str-type _placement, num-type _width, [
+  (if: _placement contains 'left')[(out-data: 0)]
+  (else-if: _placement contains 'right')[(out-data: 100 - _width)]
+  (else:)[(out-data: ((100 - _width) / 2)))]
+]))\
+<!--
+  $toNum returns the numeric value from a string, stripping any non-numeric data
+  and enforcing min and max
+-->\
+(set: $toNum to (macro: str-type _d, num-type _min, num-type _max, [
+  (set: _r to (num:(str-replaced:(p-not:digit,'.'),'', _d)))
+  (if: _r < _min)[(set: _r to _min)]
+  (if: _r > _max)[(set: _r to _max)]
+  (out-data:_r)
+]))\
+<!-- $dmToCSS takes default options and returns a valid CSS string -->\
+(set: $dmToCSS to (macro: dm-type _dm, [
+  (set: _s to '')
+  (for: each _pair, ...(dm-entries: _dm))[(set: _s to _s + (str:_pair's name) + ': ' + (str:(_pair's value)) + ';
+')]
+  (out-data:_s)
+]))\
+<!--
+  $placeToCSS takes a placement string & existing CSS options
+  and returns finished CSS. `placement` is one of top/left/right/bottom/center
+  and also top-left, top-right, bottom-right and bottom-left. Pass '' to override
+  the automatic placement options
+-->\
+(set: $placeToCSS to (macro: str-type _placement, dm-type _cssOpts, [
+  (set: _width to ($toNum: _cssOpts's width, 10, 100))
+  (set: _height to ($toNum: _cssOpts's height, 10, 100))
+  (set: _cssOpts to (dm: 'top', (str:($getTop: _placement,_height), "vh")) + _cssOpts)
+  (set: _cssOpts to (dm: 'left', (str:($getLeft: _placement,_width), "vw")) + _cssOpts)
+  (out-data:(str:($dmToCSS: _cssOpts)))
+]))\
+<!-- $createOverlay, specify placement (top/left/bottom-right, etc) and any styling in options, returns a changer for the overlay -->\
+(set: $createOverlay to (macro: str-type _hookName, any-type _title, str-type _placement, dm-type _options, [
+  (set: $options to ($validateOptions: _placement, _options))
+  (set: _cssString to ($placeToCSS: _placement, $options))
+  (out:)[(css:_cssString)+(hook:_hookName)[\
+  [_title]\
+  (hook:_hookName + '-content')[]\
+  ]]
+]))
+
+
+:: StoryStylesheet [stylesheet]
+html, body {
+    background-color: #F1E9D2;
+}
+h1 {font-size: 1.75em;}
+h2 {font-size: 1.5em;}
+h3 {font-size: 1.25em;}
+
+tw-story {
+    background-color: #F1E9D2;
+    color: #211100;
+  	font-family: 'Crimson Text', Garamond, serif;
+}
+
+tw-link, .visited, .enchantment-link {
+  color: #211100; /* Change link color */
+  font-weight: bold; /* Make text bold */
+}
+@media (min-width: 576px) {
+  tw-sidebar {
+    left: -6em;
+    width: 5em;
+  }
+}

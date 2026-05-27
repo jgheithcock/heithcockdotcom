@@ -14,7 +14,7 @@ ogImage:
   url: "/images/scavengerhunts/2025-christmas-page-turner/final-clue-8.jpg"
 ---
 
-I had a different idea for this scavenger hunt, and in fact had mapped out the work and started on the art, when I realized this would be the first Christmas the girl's partner would be visiting for the holidays and I wanted to make sure they were included. I had thought of doing a "real life [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) hunt before, but it seemed pretty blah. But on reflection, the idea of a branching set of choices seemed like a good idea for a shared adventure, they could each pick a path and follow it out. The idea grew and grew and finally I realized I was going to need 28 books, clues and locations to pull this off!
+I had a different idea for this year's scavenger hunt and had mapped out the work and started on the art, when I realized this would be the first Christmas the girl's partner would be visiting for the holidays and I wanted to make sure they were included. I had thought of doing a "real life" [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) hunt before, but it seemed pretty blah. But on reflection, the idea of a branching set of choices seemed like a good idea for a shared adventure, they could each pick a path and follow it out. The idea grew and grew and finally I realized I was going to need 28 books, clues and locations to pull this off!
 
 If you are *wanting* to see each and every one of these, head on over to [44westwind.com](https://www.44westwind.com/page-turner), and you can go through a virtual version of the scavenger hunt. This is the home of the [original Marauder's Map scavenger hunt](https://www.44westwind.com/) by the way.
 

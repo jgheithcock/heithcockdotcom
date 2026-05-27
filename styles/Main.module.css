@@ -81,7 +81,6 @@
     box-shadow:
         rgba(0, 0, 0, 0.35) 0px 8px 12px -8px inset,
         rgba(0, 0, 0, 0.35) 0px 33px 40px -13px inset;
-    border-top: solid rgb(78 15 11 / 33%);
 }
 .folderList {
     display: flex;

@@ -1,0 +1,535 @@
+:: StoryTitle
+Sand-Dancer
+
+
+:: StoryData
+{
+  "ifid": "A461CF2A-8668-4867-B717-6EB53AF84A1F",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "middle of nowhere",
+  "tag-colors": {
+    "startup": "yellow",
+    "overlay": "yellow",
+    "header": "blue",
+    "item": "yellow",
+    "memory": "purple",
+    "fixed-in-place": "purple"
+  },
+  "zoom": 1
+}
+
+
+:: Ocean's baby [fixed-in-place] {"position":"325,1100","size":"100,100"}
+### Ocean's baby
+Your baby too.
+
+
+:: Startup [startup] {"position":"200,100","size":"100,100"}
+...but it's too late, you're crashing, you're crashing, you crash...
+
+
+=><=============
+S A N D - D A N C E R
+
+(display:'inventory')\
+<!-- Logging -->\
+(set: $Log to (macro: any-type _toLog,[
+  (if: $TheLog is 0)[(set: $TheLog to '')]
+  (set: $TheLog to it + (_toLog) + '\n')
+  (out-data:'')
+]))\
+<!-- Text utilities -->\
+(set: $tab to "&nbsp;&nbsp;")\
+<!-- `visits` doesn't work for `display` so use this instead -->\
+(set: $first to (macro: str-type _item, [
+  (if: $visitItems is 0)[
+    (set: $visitItems to (dm:))
+  ]
+  (if: $visitItems contains _item)[
+    (set: $visitItems to it + (dm: _item, ($visitItems's _item) + 1))
+  ](else:)[
+    (set: $visitItems to it + (dm: _item, 1))
+  ]
+  (out-data: $visitItems's _item is 1)
+]))\
+<!-- Set up -->\
+($addToInventory: 'a lighter')\
+($addToInventory: 'a denim jacket')\
+($addToInventory: 'a wallet')\
+($addToInventory: 'a folded photo')\
+($addToInventory: 'emotional baggage')\
+($moveToLoc: 'grandma\'s stories', 'emotional baggage')\
+(set: $broodedMemories to (ds:))
+
+
+:: a brown lizard [fixed-in-place] {"position":"325,600","size":"100,100"}
+(set: $lizardVisits to $lizardVisits + 1)\
+(if: $lizardVisits is 1)[\
+### A brown-colored lizard
+He looks pretty pissed that you crashed into his cactus. What did grandma used to call those little dudes? You can't remember any more.\
+](else-if: $lizardVisits is 2)[\
+### A brown-colored lizard
+Oh yeah, you remember, she called them sand-dancers. This little sand-dancer still looks pissed.\
+](else:)[\
+### A sand-dancer
+The little sand-dancer lizard stares at you with one slitted eye]
+
+
+:: a denim jacket {"position":"200,850","size":"100,100"}
+### Your denim jacket
+Not much to say, a bit thread-bare, but all you have to protect you from the cold.
+
+
+:: a driver's license [fixed-in-place] {"position":"450,975","size":"100,100"}
+### Your driver's license
+When the highway patrol pulls you over they see your kind of crazy uncombed hair (morning), your brown name (Nakaibito Morales) and brown skin (actually more kinda tan), your D.O.B. (eighteen years ago just barely) and tribal affiliation card (expired) and assume you're either some kind of native eco-terrorist, illegal drug-running border jumper, or delinquent high school dropout (all lies except for kinda maybe the last one a little). Unless it's Jimmy Kay who pulled you over since he usually just wants to buy you a beer and talk about your dad, which is weird but better than getting a ticket.
+
+
+:: a folded photo {"position":"200,1100","size":"100,100"}
+### A folded photo
+(if: $broodedMemories's length < 2)[\
+You just can't deal with that right now. Maybe after you've spent more time brooding.
+](else:)[\
+You open the photo, revealing an ultrasound of ($itemLink:"Ocean's baby").
+
+Something about the ultrasound of Ocean's baby makes you want to brood about ($itemLink:'when you heard the news').\
+($moveToLoc: 'when you heard the news', 'emotional baggage')\
+]
+
+
+:: a glove box [fixed-in-place] {"position":"200,475","size":"100,100"}
+($first:'a glove box')[\
+($moveToLoc:'a pack of cigarettes', 'a glove box')\
+]\
+### Inside the glove box
+($contentsOf:'a glove box')
+
+
+:: a lighter {"position":"200,725","size":"100,100"}
+### Your lighter
+A classic Zippo. You flick it open a few times.
+
+($itemLinkAlias:'Light a cigarette', 'report smoking') | \
+($itemLinkAlias:'Get a little light here', 'report lighter')
+
+
+:: a pack of cigarettes {"position":"325,725","size":"100,100"}
+($first: 'a pack of cigarettes')[(set: $cigs to 6)]\
+### A pack of cigarettes
+You're kind of trying to quit, but man, you could really go for one right now. (if: $cigs > 0)[It looks like you've only got (text: $cigs) left.
+
+You could (link:'light one up now')[($addToInventory:'a pack of cigarettes')($showItem:'report smoking'))].\
+](else:)[But you are totally out.]
+
+
+:: a piece of jade [item] {"position":"200,600","size":"100,100"}
+(metadata: 'inventory', 'item')
+### A piece of jade
+Grandma said it will bring you luck, which hasn't really been working out. You can't remember now how it ended up in your pickup truck. Maybe someday you'll see someone lucky and you can throw it at him.
+
+
+:: a receipt from Big Jimmy's [fixed-in-place] {"position":"325,975","size":"100,100"}
+($first: "a receipt from Big Jimmy's")[\
+($moveToLoc: 'your shit job', 'emotional baggage')]\
+### A receipt from Big Jimmy's
+Something about the receipt from Big Jimmy's makes you want to brood about ($itemLink:'your shit job').
+
+
+:: a wallet {"position":"200,975","size":"100,100"}
+($first: 'a wallet')[\
+($moveToLoc:'a driver\'s license', 'a wallet')\
+($moveToLoc:'a receipt from Big Jimmy\'s', 'a wallet')\
+]\
+### Your wallet
+In the wallet is:
+($contentsOf:'a wallet')
+
+
+:: emotional baggage [fixed-in-place] {"position":"200,225","size":"100,100"}
+### Emotional baggage
+Your guidance counselor used to say you're always carrying it with you. You imagine it's kind of ugly, lumpy, and green, and definitely has a stuck zipper.
+(if: ($itemsIn:'emotional baggage')'s length > 1)[\
+Right now, you are carrying around...](else:)[The only thing you can brood about now is ]
+
+($contentsOf:'emotional baggage')
+You are pretty sure there is plenty of other stuff burried in that bag, but you can't deal with any of it right now.
+
+
+:: grandma's stories [memory] {"position":"325,225","size":"100,100"}
+(set: $broodedMemories to it + (ds:"grandma's stories"))\
+### Grandma's stories
+"There are dark spirits who roam the earth, little Knock." Grandma used to say that, holding you tight and stroking your hair. "There are dark spirits who roam the earth, but you're not alone. Oh, no. I'm here." (She'd kiss your head and you'd squeeze her back.) "But others are watching out for you too. You have three animal guardians, hmm? Spirits who are always watching over you. Oh, you can't always trust them to know what's best. Remember that, Knock. But when you need help, they'll come, and protect you from the worser things in the world."
+
+Mom would yell at Grandma a lot for filling your head with that new-age bullshit. Grandma grew up white and midwestern and Baptist, but had started wearing things with feathers and playing the pan flute by the time you were born. She seemed to really like having a son-in-law who was Native American or American Indian or Indigenous Peoples or whatever she'd decided the term was that week, and she was pretty pissed when mom left him. Anyway. Her stories were mostly BS, you guess, but some of them stuck with you. When it's dark you still wonder if your spirit animals are out there somewhere, and what the hell is taking them so long to find you.
+
+
+:: header [header] {"position":"325,100","size":"100,100"}
+(set: _style to (dm:
+  'width', '25vw',
+  'min-width', '12em',
+  'background', '#000',
+  'background-color', 'rgba(241, 233, 210, .95)',
+  'border', '1px solid #fff',
+  'border-color', '#211100',
+  'color', '#211100',
+  'box-shadow', '.1em 1em 2em .2em rgba(0,0,0,.2)'
+))\
+($createInventory: "Stuff you are carrying...", "left", _style)\
+ (append: ?sidebar)[(link-repeat:"Stuff...")[($showInventory:)]]
+
+
+:: inventory {"position":"575,100","size":"100,100"}
+(display:'overlay')\
+(if: $locOf is 0)[\
+  (set: $locOf to (dm:))\
+  (set: $itemsAt to (dm:))\
+]\
+(set: $moveToLoc to (macro: str-type _item, str-type _loc, [
+  (if: $locOf contains _item)[
+    (set: _oldLoc to ($locOf)'s _item)
+    (if: $itemsAt contains _oldLoc)[
+      (set: ($itemsAt)'s _oldLoc to it - (a:_item))
+    ]
+  ]
+  (unless: $itemsAt contains _loc)[
+    (set: $itemsAt to it + (dm: _loc, (a:)))
+  ]
+  (set: ($itemsAt)'s _loc to it + (a: _item))
+  (set: $locOf to it + (dm: _item, _loc))
+  (replace:?you-can-also-see)[($youCanAlsoSeeContents:)]
+  ($updateInventory:)
+  (out-data:'')
+]))\
+(set: $itemLoc to (macro: str-type _item, [
+  (if: $locOf contains _item)[(out-data: $locOf's _item)]
+  (else:)[(out-data:'offstage')]
+]))\
+(set: $addToHere to (macro: str-type _item,[
+  (set: _loc to (passage:)'s name)
+  ($moveToLoc: _item, _loc)
+  (out-data:'')
+]))\
+(set: $addToInventory to (macro: str-type _item,[
+  ($moveToLoc: _item, 'inventory')
+  (out-data:'')
+]))\
+(set: $removeFromInventory to (macro: str-type _item,[
+  (set: _loc to (passage:)'s name)
+  ($moveToLoc: _item, _loc)
+  (out-data:'')
+]))\
+(set: $removeFromGame to (macro: str-type _item,[
+  ($moveToLoc: _item, 'offstage')
+  (out-data:'')
+]))\
+(set: $inventory to (macro: [
+  (out-data: ($itemsAt)'s 'inventory')
+]))\
+(set: $itemsIn to (macro: str-type _loc, [
+  (unless: $itemsAt contains _loc)[(set: $itemsAt to it + (dm: _loc, (a:)))]
+  (out-data: ($itemsAt)'s _loc)
+]))\
+(set: $itemLinkAlias to (macro: str-type _title, str-type _item, [
+  (out:)[(link-repeat:_title)[ _item]]<!-- TODO - examine item -->
+]))\
+(set: $itemLink to (macro: str-type _item, [
+  (out:)[($itemLinkAlias: _item, _item)]
+]))\
+(set: $itemsAsLinks to (macro: str-type _loc, [
+  (set: _items to ($itemsIn: _loc))
+  (set: _links to (a:))
+  (for: each _item, ...(_items))[(set: _links to it + (a:($itemLink: _item)))]
+  (out-data: _links)
+]))\
+(set: $localItemsAsLinks to (macro: [
+  (out-data: ($itemsAsLinks: (passage:)'s name))
+]))\
+(set: $itemIsFixedInPlace to (macro: str-type _item, [
+  (set: _itemsTags to ((passage:_item)'s tags))
+  (if: _itemsTags contains 'fixed-in-place')[(out-data:true)]
+  (if: _itemsTags contains 'memory')[(out-data:true)]
+  (out-data:false)
+]))\
+(set: $itemIsDroppable to (macro: str-type _item, [
+  (unless: ($inventory:) contains _item)[(out-data:false)]
+  (out-data: not ($itemIsFixedInPlace: _item))
+]))\
+(set: $itemIsObtainable to (macro: str-type _item, [
+  (if: ($inventory:) contains _item)[(out-data:false)]
+  (out-data: not ($itemIsFixedInPlace: _item))
+]))\
+(set: $updateInventory to (macro:[
+  (replace: ?inventory-content)[($contentsOfList:'inventory')]
+  (out-data:'')
+]))\
+(set: $showInventory to (macro: [
+  (show: ?inventory)
+  ($updateInventory:)
+  (out-data:'')
+]))\
+(set: $createInventory to (macro: str-type _caption, str-type _placement, dm-type _style,[
+  (set: _title to [\
+    |||||||||||||||||||=
+    ''[_caption]''
+    =|
+    (css:'text-decoration:none !important;font-size:.8em;')[(link-repeat: '&#x2715;')[(hide:?inventory)]]
+    |=|
+  ])
+  (out:)[($createOverlay: 'inventory', _title, _placement, _style) (hide:?inventory)]
+]))\
+(set: $youCanAlsoSeeContents to (macro:[
+  (set: _printLinks to (macro: array-type _links, [
+    (if:_links's length is 1)[
+      (out:)[(source:(_links's 1st))]
+    ](else-if:_links's length is 2)[
+      (out:)[(source:_links's 2ndLast) and (source:_links's last)]
+    ](else:)[
+      (out:)[(for: each _i, ...(_links's 1stTo3rdLast))[_i, ](source:_links's 2ndLast) and (source:_links's last)]
+    ]
+  ]))\
+  (set: _links to ($localItemsAsLinks:))\
+  (if: _links's length is 0)[
+    (out:)[]
+  ](else:)[
+    (out:)[
+      You can see (_printLinks: _links).
+    ]
+  ]
+]))\
+(set: $youCanAlsoSee to (macro:[
+  (out:)[[($youCanAlsoSeeContents:)]<you-can-also-see|]
+]))\
+(set: $contentsOfList to (macro: str-type _container, [
+  (set: _links to ($itemsAsLinks:_container))\
+  (if: _links's length is 0)[
+    (out:)[nothing]
+  ](else:)[
+    (out:)[\
+      (for: each _i, ..._links)[$tab - _i
+      ]\
+    ]
+  ]
+]))\
+(set: $contentsOf to (macro: str-type _container, [
+  (out:)[(hook:'contents-of-'+_container)[($contentsOfList:_container)]]
+]))
+
+
+:: middle of nowhere {"position":"200,350","size":"100,100"}
+(if: visits is 1)[\
+($addToHere:'a glove box')\
+($addToHere:'a piece of jade')\
+]\
+# Middle of Nowhere
+You've smashed up against a tall Saguaro, which is all you can see out the windshield except a few feet of desert sand, then blackness. Hell, you must have driven off the road and crashed. Ocean keeps telling you this night commute on this lonely highway's gonna kill you; maybe you should start listening.
+
+Through the windshield, you see a little brown-colored lizard clinging frantically to the tall Saguaro.
+($youCanAlsoSee:)
+[[Get out of the truck ->outside your truck]]and see how bad it is...
+
+
+:: outside your truck {"position":"325,350","size":"100,100"}
+# Looking around
+The tire tracks from the south stop abruptly here, but where the hell are you? The desert sand and clumps of pale sagebrush are all your dimming headlights pick out before barely reaching the concrete building to the north.
+
+Your poor old pickup truck ticks and groans, smashed gracelessly against a tall Saguaro; whiffs of evaporating gasoline linger in the chill air.
+
+A ($itemLinkAlias:'brown-colored lizard', 'a brown lizard') clings to a tall Saguaro.
+($youCanAlsoSee:)
+[[Get back in your truck->middle of nowhere]] | [[Head north->crumbling concrete]]
+
+
+:: overlay [overlay] {"position":"450,100","size":"100,100"}
+<!-- getBrowserWidth - useful for responsive UI on mobile devices -->\
+(set: $getBrowserWidth to (macro:,[
+  (set: _width to 0)
+  <script>_width = window.innerWidth;</script><!-- Uses Javascript to directly query the browser window -->
+  (out-data:_width)
+]))\
+<!-- isMobile - Uses getBrowserWidth above to decide if UI is on a (narrow) mobile window. -->\
+(set: $isMobile to (macro:,[
+  (set: _width to ($getBrowserWidth:))
+  (out-data: _width <= 576)<!-- 576 is used by Harlowe to decide when to hide the sidebar -->
+]))\
+(set: $getDefaultSize to (macro: str-type _placement, [
+  (set: _width to '50vw')
+  (set: _height to '50vh')
+  (if: _placement is 'top' or _placement is 'bottom')[(set: _width to '100vw')]
+  (if: _placement is 'left' or _placement is 'right')[(set: _height to '100vh')]
+  (if: _placement is '' or _placement is 'center')[(set: _height to '30vh')]
+  (out-data:(dm:'width', _width, 'height', _height))
+]))\
+(set: $validateOptions to (macro: str-type _placement, dm-type _options, [
+  (if: _placement is 0)[set: _placement to '']
+  (if: _options is 0)[set: _options to (dm:)]
+  (set: _fixedOptions to (dm:
+    'position', 'fixed',
+    'padding', '1em',
+    'z-index', '10000',
+    'overflow', 'auto',
+   ))
+  (set:_defaultOptions to (dm:
+    'background','#000',
+    'color', '#fff',
+    'border', '1px solid #fff'
+   ))
+  (set: _defaultMobile to (dm:
+    'width', '100vw',
+    'height', '100vh',
+   ))
+  (set: _options to _fixedOptions + _defaultOptions + _options)
+  (set: _defaultSize to ($getDefaultSize: _placement))
+  (set: _options to _defaultSize + _options)
+  (if: ($isMobile:))[
+    (if:_options contains 'mobile')[
+      (set: _options to _defaultMobile + _options's mobile)
+      (move: _options's mobile into _trash)
+    ]
+    (else:)[
+      (set: _options to _options + _defaultMobile)
+    ]
+  ]
+  (out-data: _options)
+]))\
+<!--
+  Utility methods to compute left and top from placement string, width and height
+  For this css, left = (width/2) * m, where m = 1 for left, 2 for center, 3 for right
+  and similarly right = (top/2) * m, where m = 1 for top, 2 for center and 3 for bottom.
+-->\
+(set: $getTop to (macro: str-type _placement, num-type _height, [
+  (if: _placement contains 'top')[(out-data: 0)]
+  (else-if: _placement contains 'bottom')[(out-data: 100 - _height)]
+  (else:)[(out-data: ((100 - _height) / 2)))]
+]))\
+(set: $getLeft to (macro: str-type _placement, num-type _width, [
+  (if: _placement contains 'left')[(out-data: 0)]
+  (else-if: _placement contains 'right')[(out-data: 100 - _width)]
+  (else:)[(out-data: ((100 - _width) / 2)))]
+]))\
+<!--
+  $toNum returns the numeric value from a string, stripping any non-numeric data
+  and enforcing min and max
+-->\
+(set: $toNum to (macro: str-type _d, num-type _min, num-type _max, [
+  (set: _r to (num:(str-replaced:(p-not:digit,'.'),'', _d)))
+  (if: _r < _min)[(set: _r to _min)]
+  (if: _r > _max)[(set: _r to _max)]
+  (out-data:_r)
+]))\
+<!-- $dmToCSS takes default options and returns a valid CSS string -->\
+(set: $dmToCSS to (macro: dm-type _dm, [
+  (set: _s to '')
+  (for: each _pair, ...(dm-entries: _dm))[(set: _s to _s + (str:_pair's name) + ': ' + (str:(_pair's value)) + ';
+')]
+  (out-data:_s)
+]))\
+<!--
+  $placeToCSS takes a placement string & existing CSS options
+  and returns finished CSS. `placement` is one of top/left/right/bottom/center
+  and also top-left, top-right, bottom-right and bottom-left. Pass '' to override
+  the automatic placement options
+-->\
+(set: $placeToCSS to (macro: str-type _placement, dm-type _cssOpts, [
+  (set: _width to ($toNum: _cssOpts's width, 10, 100))
+  (set: _height to ($toNum: _cssOpts's height, 10, 100))
+  (set: _cssOpts to (dm: 'top', (str:($getTop: _placement,_height), "vh")) + _cssOpts)
+  (set: _cssOpts to (dm: 'left', (str:($getLeft: _placement,_width), "vw")) + _cssOpts)
+  (out-data:(str:($dmToCSS: _cssOpts)))
+]))\
+<!-- $createOverlay, specify placement (top/left/bottom-right, etc) and any styling in options, returns a changer for the overlay -->\
+(set: $createOverlay to (macro: str-type _hookName, any-type _title, str-type _placement, dm-type _options, [
+  (set: $options to ($validateOptions: _placement, _options))
+  (set: _cssString to ($placeToCSS: _placement, $options))
+  (out:)[(css:_cssString)+(hook:_hookName)[\
+  [_title]\
+  (hook:_hookName + '-content')[]\
+  ]]
+]))
+
+
+:: report lighter [fixed-in-place] {"position":"575,725","size":"100,100"}
+You flick it open and shut a few times, an old habit.
+
+<!--
+Different messages depending on where you are and the lighting condition.
+
+
+if it's effectively dark, say "You flick the lighter, but the light seems grey and tiny in the face of the dark. All you can really see is[if location is Staging Area] [a desk] by your feet, and[end if][if there is at least one brighter direction] a slightly brighter place to [the list of brighter directions][otherwise] your shivering hand[end if]. As your thumb starts to burn you let the puny light go out.";
+	otherwise say "You flick it open and shut a few times, an old habit."
+-->
+
+
+:: report smoking [fixed-in-place] {"position":"450,725","size":"100,100"}
+(set: _hint to (macro:[
+  (set: _loc to (passage:)'s name)
+  (if: _loc is "middle of nowhere")[
+    (out-data:"you could start by getting out of this truck")
+  ](else-if: (not (visited:'crumbling concrete')))[
+    (out-data:"you could start by looking around the area, seeing if maybe there's a phone or something")
+  ]
+  (out-data:"you could... man, I don't know...")
+]))\
+### Smoke...
+(unless: ($inventory:) contains 'a lighter')[\
+You pat your pockets, but can't seem to find your lighter.
+](else:)[= \
+(unless: ($inventory:) contains 'a pack of cigarettes')[\
+You slip your hand into your pocket and remember you don't have your smokes on you.
+](else:)[= \
+(if: $cigs is 0)[
+You're out of cigarettes.
+](else:)[= (set: $cigs to it - 1)\
+You pull out a cigarette and flick it into life. Thoughts tumble through your head.
+
+Well, you're still stuck here. Maybe [(_hint:)].
+
+And you still haven't quit smoking. (if:$cigs is 0)[That was your last cigarette, too.](else:)[You've got (plural:$cigs, "cig", "cigs") left.]
+
+
+:: when you heard the news [memory] {"position":"575,225","size":"100,100"}
+(set: $broodedMemories to it + (ds:"when you heard the news"))\
+### When you heard the news...
+Four weeks ago now, a little colder and a little darker. On a night just like this one except you didn't drive off the road and crash into a cactus, you got off work and drove the state highway in the dark and crossed over the edge of the res to Ocean's dad's trailer, and she told you that night while you were dead exhausted, "Knock, I'm pregnant."
+
+And all you could think was how totally not real it seemed, after an hour of blackness and New Mexican night streaming by, bugs exploding in tiny tragedies on your windshield, you just felt like driving on, like this thing was some podunk town you could breeze by, no services, ranch exit only. And you thought of every movie they ever made you watch in school and every lecture and every living example, the drunken uncles and snaggle-toothed coworkers who knocked up their high school sweethearts and started families on minimum wage and no prospects and never went anywhere and never did anything and what did you do? How could this happen? Why were you both so stupid?
+
+Ocean's aunt is paying for the baby but it's been made clear the money stops when the baby's born. Ocean wants to keep it, she's always wanted to be a mommy. But you never thought you'd be a daddy. And when she pushed this into your hand last night she told you, "Knock, it's time to decide. If you aren't with me on this, if you don't want this as much as I do, then this can't go on anymore and you should go. Fly. Head west. Find Nakaibito." She smiled just a little and traced your ear.
+
+"But decide soon, Knock. Decide soon."
+
+
+:: your shit job [memory] {"position":"450,225","size":"100,100"}
+(set: $broodedMemories to it + (ds:"your shit job"))\
+### Your shit job
+Juza straddles the 371 like a drunk at last call, smelly and without a plan for the future. Shiny cars whiz by at ninety once in a while, only stopping for gas or directions "("hint: not this way). No one ever stops for the stalls selling food and jewelry and blankets and cheap t-shirts that cluster around the dirt turn-off onto the rez. At least, no one buying anything.
+
+Big Jimmy shook his head when he heard you lived in Oro Oeste. Hell of a drive, kid, he said, popping up his Lumberjacks cap to scratch the straw pate underneath. You should get a place in Hoo-zuh. Little Jimmy'll set you up in that trailer cross the road for almost nothin'.
+
+Almost nothing. Yeah, exactly what you'd turn into on the cold day in hell you move to Juza. But on the other hand, that was before you met Ocean. Now the road back to Oro Oeste seems longer and longer every night
+
+
+:: StoryStylesheet [stylesheet]
+html, body {
+    background-color: #F1E9D2;
+}
+h1 {font-size: 1.75em;}
+h2 {font-size: 1.5em;}
+h3 {font-size: 1.25em;}
+
+tw-story {
+    background-color: #F1E9D2;
+    color: #211100;
+  	font-family: 'Crimson Text', Garamond, serif;
+}
+
+tw-link, .visited, .enchantment-link {
+  color: #211100; /* Change link color */
+  font-weight: bold; /* Make text bold */
+}
+@media (min-width: 576px) {
+  tw-sidebar {
+    left: -6em;
+    width: 5em;
+  }
+}
