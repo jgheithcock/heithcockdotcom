@@ -25,19 +25,6 @@
     justify-content: space-evenly;
 }
 
-.bottomNav a {
-    text-decoration: none;
-}
-
-.bottomNav a:hover,
-.bottomNav a:focus,
-.bottomNav a:active,
-.bottomNav a.active {
-  color: rgb(85, 7, 6) !important;
-  text-decoration: none;
-  text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
-}
-
 .NavLinks {
     font-family: 'Cormorant Garamond', serif;
     font-size: 22px;
@@ -152,14 +139,6 @@ a.active .mapBorder {
             0px 33px 40px -13px inset rgba(144, 255, 144, 0.25)  !important;
         border-top: solid rgb(144 255 144 / 33%) !important;
     }
-    .bottomNav a:hover,
-    .bottomNav a:focus,
-    .bottomNav a:active,
-    .bottomNav a.active {
-        color: rgba(144, 200, 144, 0.65) !important;
-        text-shadow: 0px 0px 4px rgb(144 255 144 / 85%) !important;
-    }
-
     .mapBorder {
         border-image: url(/images/marauders-border-low-dark.png) 50 / 20px repeat !important;
     }

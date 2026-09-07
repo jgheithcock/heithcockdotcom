@@ -227,10 +227,19 @@ a.cloud::before {
   text-shadow: 0 0 1px rgb(177 109 85 / 85%);
 }
 
-.main header h1 a:hover,
-.main header h1 a:focus,
-.main header h1 a:active,
-.main header h1 a.active {
+/* Chrome links: header, nav, footer. Quiet ink-shadow, no smoke. */
+.chrome a,
+a.chrome {
+  text-decoration: none;
+}
+.chrome a:hover,
+.chrome a:focus,
+.chrome a:active,
+.chrome a.active,
+a.chrome:hover,
+a.chrome:focus,
+a.chrome:active,
+a.chrome.active {
   color: rgb(85, 7, 6);
   text-decoration: none;
   text-shadow: 4px 2px 4px rgb(177 109 85 / 85%);
@@ -575,10 +584,14 @@ img[src="http://www.rssweather.net/images/fcicons/wind.gif"] {
     box-shadow:0 0px 34px 1px #aaaaaa !important;
   }
 
-  .main header h1 a:hover,
-  .main header h1 a:focus,
-  .main header h1 a:active,
-  .main header h1 a.active {
+  .chrome a:hover,
+  .chrome a:focus,
+  .chrome a:active,
+  .chrome a.active,
+  a.chrome:hover,
+  a.chrome:focus,
+  a.chrome:active,
+  a.chrome.active {
     color: rgba(144, 200, 144, 0.65) !important;
     text-shadow: 0px 0px 4px rgb(144 255 144 / 85%) !important;
   }

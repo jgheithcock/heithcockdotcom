@@ -4,7 +4,7 @@ import styles from "../../styles/Main.module.css";
 
 const Header = ({ ...props }) => {
   return (
-    <header>
+    <header className="chrome">
       <h1 className={styles.header}>
         <Link href="/" legacyBehavior>
           <a className={styles.title}>The Curmudgeonly Codger</a>

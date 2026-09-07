@@ -11,7 +11,7 @@ const Layout = ({ preview, children, ...props }) => {
       <div className="min-h-screen main">
         <Header {...props} />
         <main className={styles.main}>{children}</main>
-        <div className={styles.bottomNav}>
+        <div className={`${styles.bottomNav} chrome`}>
           <NavLinks {...props} />
         </div>
       </div>
