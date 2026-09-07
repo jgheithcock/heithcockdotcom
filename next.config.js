@@ -2,8 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["www.elsworthartworks.com"],
-    /* for >= 12.3
+    /* Needed for cover image in 2012-art-at-hogwarts/index.md */
     remotePatterns: [
       {
         protocol: "https",
@@ -12,7 +11,6 @@ const nextConfig = {
         pathname: "/images/**",
       },
     ],
-    */
   },
 };
 
