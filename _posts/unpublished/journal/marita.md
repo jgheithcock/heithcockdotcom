@@ -9,7 +9,7 @@ coverImage:
 date: "2018-03-03"
 author:
   name: JG Heithcock
-  picture: "/images/bob-the-guard.jpeg"
+  picture: "/images/44marauders.jpg"
 ogImage:
   url: "/images/journal/marita/2012-Marita-Heithcock.png"
 ---

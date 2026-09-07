@@ -1,8 +1,8 @@
 ---
-title: "Software"
-excerpt: "Things I made in Software."
+title: "Games"
+excerpt: "Games I've made"
 coverImage:
-  src: "/images/software/christmas-page-turner-thumbnail.png"
+  src: "/images/games/christmas-page-turner-thumbnail.png"
   alt: "Thumbnail of the Christmas Page Turner story in Twine"
   width: 834
   height: 842
@@ -11,5 +11,5 @@ author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/software/christmas-page-turner-thumbnail.png"
+  url: "/images/games/christmas-page-turner-thumbnail.png"
 ---

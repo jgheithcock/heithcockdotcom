@@ -10,9 +10,9 @@ date: "2024-01-15"
 publish: false
 author:
   name: JG Heithcock
-  picture: "/images/bob-the-guard.jpeg"
+  picture: "/images/44marauders.jpg"
 ogImage:
-  url: "/images/bob-the-guard.jpeg"
+  url: "/images/44marauders.jpg"
 ---
 
 ## Contents

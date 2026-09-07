@@ -2,7 +2,7 @@
 title: "Sand-dancer, redux"
 excerpt: "Recreating Aaron Reed and Alexei Othenin-Girard's Sand-dancer in Twine"
 coverImage:
-  src: "/images/software/sand-dancer/sand-dancer-thumbnail.png"
+  src: "/images/games/sand-dancer/sand-dancer-thumbnail.png"
   alt: "Thumbnail of Sand-dancer in Twine"
   width: 500
   height: 482
@@ -11,7 +11,7 @@ author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "/images/software/sand-dancer/sand-dancer-thumbnail.png"
+  url: "/images/games/sand-dancer/sand-dancer-thumbnail.png"
 ---
 
 Back in March, I re-read my old copy of [Aaron Reed](https://aaronareed.net/)'s [*Creating Interactive Fiction with Inform 7*](https://inform7.textories.com/) (first published in 2010 and now sadly out of print). I had just finished writing a text adventure version of my [2025 Christmas Scavenger hunt](https://www.heithcock.com/scavengerhunts/2025-christmas-page-turner) with [Twine](https://twinery.org/) and thought, "How hard would it be to re-write *Sand-dancer* in Twine?" This blog post is to document that process, what worked well, what could be better and hopefully give you some insight into writing an [interactive (text) adventure](https://en.wikipedia.org/wiki/Interactive_fiction) game in both of these systems.
@@ -42,16 +42,16 @@ The `inventory` passage begins with `(display:'overlay')\` to bring in the overl
 
 ---
 
-<em><a href="/files/software/sand-dancer/01-Sand-Dancer-overlay-inventory-stub.html" target="_blank" rel="noopener noreferrer">Play phase 1</a></em> |
+<em><a href="/files/games/sand-dancer/01-Sand-Dancer-overlay-inventory-stub.html" target="_blank" rel="noopener noreferrer">Play phase 1</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/246a1a2/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em>
 
 *Twine Story Map of Phase 1*
 
-![5 boxes showing passages created in phase 1](/images/software/sand-dancer/01-Sand-Dancer-overlay-inventory-stub.png)
+![5 boxes showing passages created in phase 1](/images/games/sand-dancer/01-Sand-Dancer-overlay-inventory-stub.png)
 
 *Twine creates a story card thumbnail for each Twine story in your library. The five bubbles represent the five passages so far.*
 
-![5 colored bubbles for the 5 passages, the overlay is a dark purple as it is the largest](/images/software/sand-dancer/01-Sand-Dancer-overlay-inventory-stub-thumb.png)
+![5 colored bubbles for the 5 passages, the overlay is a dark purple as it is the largest](/images/games/sand-dancer/01-Sand-Dancer-overlay-inventory-stub-thumb.png)
 
 
 ## Phase 2: Inventory, memories and emotional baggage
@@ -72,10 +72,10 @@ In the playable version below, nothing really happens when you click on the item
 
 ---
 
-<em><a href="/files/software/sand-dancer/02-Sand-Dancer-add-Inventory.html" target="_blank" rel="noopener noreferrer">Play phase 2</a></em> |
+<em><a href="/files/games/sand-dancer/02-Sand-Dancer-add-Inventory.html" target="_blank" rel="noopener noreferrer">Play phase 2</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/633165f/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/633165f" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/02-Sand-Dancer-add-Inventory.png" target="_blank" rel="noopener noreferrer">Story Map (23 passages)</a></em>
+<em><a href="/images/games/sand-dancer/02-Sand-Dancer-add-Inventory.png" target="_blank" rel="noopener noreferrer">Story Map (23 passages)</a></em>
 
 ## Phase 3: Examining items
 
@@ -100,10 +100,10 @@ This commit also adds the first outdoor locations (`outside your truck`, `crumbl
 
 ---
 
-<em><a href="/files/software/sand-dancer/03-Sand-Dancer-examine.html" target="_blank" rel="noopener noreferrer">Play phase 3</a></em> |
+<em><a href="/files/games/sand-dancer/03-Sand-Dancer-examine.html" target="_blank" rel="noopener noreferrer">Play phase 3</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/7a0c5ff/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/7a0c5ff" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/03-Sand-Dancer-examine.png" target="_blank" rel="noopener noreferrer">Story Map (32 passages)</a></em>
+<em><a href="/images/games/sand-dancer/03-Sand-Dancer-examine.png" target="_blank" rel="noopener noreferrer">Story Map (32 passages)</a></em>
 
 ## Phase 4: Break the window
 
@@ -123,10 +123,10 @@ The player can now get inside and find the flashlight. The staging area mentions
 
 ---
 
-<em><a href="/files/software/sand-dancer/04-Sand-Dancer-break-window.html" target="_blank" rel="noopener noreferrer">Play phase 4</a></em> |
+<em><a href="/files/games/sand-dancer/04-Sand-Dancer-break-window.html" target="_blank" rel="noopener noreferrer">Play phase 4</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/29ae8f5/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/29ae8f5" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/04-Sand-Dancer-break-window.png" target="_blank" rel="noopener noreferrer">Story Map (35 passages)</a></em>
+<em><a href="/images/games/sand-dancer/04-Sand-Dancer-break-window.png" target="_blank" rel="noopener noreferrer">Story Map (35 passages)</a></em>
 
 ## Phase 5: Foreman's office, break room, and the hole
 
@@ -145,10 +145,10 @@ Smoking hints grow a longer tail in this commit — break the window, explore by
 
 ---
 
-<em><a href="/files/software/sand-dancer/05-Sand-Dancer-foremans-office-breakroom.html" target="_blank" rel="noopener noreferrer">Play phase 5</a></em> |
+<em><a href="/files/games/sand-dancer/05-Sand-Dancer-foremans-office-breakroom.html" target="_blank" rel="noopener noreferrer">Play phase 5</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/417cc39/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/417cc39" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/05-Sand-Dancer-foremans-office-breakroom.png" target="_blank" rel="noopener noreferrer">Story Map (46 passages)</a></em>
+<em><a href="/images/games/sand-dancer/05-Sand-Dancer-foremans-office-breakroom.png" target="_blank" rel="noopener noreferrer">Story Map (46 passages)</a></em>
 
 ## Phase 6: Finish tower vicinity
 
@@ -166,10 +166,10 @@ Smoking hints now run through the full building-exploration arc and run out once
 
 ---
 
-<em><a href="/files/software/sand-dancer/06-Sand-Dancer-tower-vicinity.html" target="_blank" rel="noopener noreferrer">Play phase 6</a></em> |
+<em><a href="/files/games/sand-dancer/06-Sand-Dancer-tower-vicinity.html" target="_blank" rel="noopener noreferrer">Play phase 6</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/bb7c2c6/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/bb7c2c6" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/06-Sand-Dancer-tower-vicinity.png" target="_blank" rel="noopener noreferrer">Story Map (54 passages)</a></em>
+<em><a href="/images/games/sand-dancer/06-Sand-Dancer-tower-vicinity.png" target="_blank" rel="noopener noreferrer">Story Map (54 passages)</a></em>
 
 ## Phase 7: Memories and story map cleanup
 
@@ -183,10 +183,10 @@ Everything else in the diff is tile repositioning. Memories shift into their own
 
 ---
 
-<em><a href="/files/software/sand-dancer/07-Sand-Dancer-memories-and-cleanup.html" target="_blank" rel="noopener noreferrer">Play phase 7</a></em> |
+<em><a href="/files/games/sand-dancer/07-Sand-Dancer-memories-and-cleanup.html" target="_blank" rel="noopener noreferrer">Play phase 7</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/f93708d/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/f93708d" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/07-Sand-Dancer-memories-and-cleanup.png" target="_blank" rel="noopener noreferrer">Story Map (57 passages)</a></em>
+<em><a href="/images/games/sand-dancer/07-Sand-Dancer-memories-and-cleanup.png" target="_blank" rel="noopener noreferrer">Story Map (57 passages)</a></em>
 
 ## Phase 8: The tower voice on 102.3
 
@@ -196,10 +196,10 @@ The flow follows Aaron's original: tune to the emergency frequency the player fi
 
 ---
 
-<em><a href="/files/software/sand-dancer/08-Sand-Dancer-radio-voice.html" target="_blank" rel="noopener noreferrer">Play phase 8</a></em> |
+<em><a href="/files/games/sand-dancer/08-Sand-Dancer-radio-voice.html" target="_blank" rel="noopener noreferrer">Play phase 8</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/666b364/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/666b364" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/08-Sand-Dancer-radio-voice.png" target="_blank" rel="noopener noreferrer">Story Map (57 passages)</a></em>
+<em><a href="/images/games/sand-dancer/08-Sand-Dancer-radio-voice.png" target="_blank" rel="noopener noreferrer">Story Map (57 passages)</a></em>
 
 ## Phase 9: Pursuit, open desert, and the burrow
 
@@ -213,10 +213,10 @@ Also in this commit: `bunny's bow tie` is renamed to `bow tie` due to issues wit
 
 ---
 
-<em><a href="/files/software/sand-dancer/09-Sand-Dancer-rabbit-spirit-quest.html" target="_blank" rel="noopener noreferrer">Play phase 9</a></em> |
+<em><a href="/files/games/sand-dancer/09-Sand-Dancer-rabbit-spirit-quest.html" target="_blank" rel="noopener noreferrer">Play phase 9</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/00bd41a/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/00bd41a" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/09-Sand-Dancer-rabbit-spirit-quest.png" target="_blank" rel="noopener noreferrer">Story Map (62 passages)</a></em>
+<em><a href="/images/games/sand-dancer/09-Sand-Dancer-rabbit-spirit-quest.png" target="_blank" rel="noopener noreferrer">Story Map (62 passages)</a></em>
 
 ## Phase 10: Rainstorm and weather
 
@@ -230,10 +230,10 @@ Another new macro, `$itemDefined`, was added to `inventory` so scenery without i
 
 ---
 
-<em><a href="/files/software/sand-dancer/10-Sand-Dancer-rainstorm-and-weather.html" target="_blank" rel="noopener noreferrer">Play phase 10</a></em> |
+<em><a href="/files/games/sand-dancer/10-Sand-Dancer-rainstorm-and-weather.html" target="_blank" rel="noopener noreferrer">Play phase 10</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/c0205d4/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/c0205d4" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/10-Sand-Dancer-rainstorm-and-weather.png" target="_blank" rel="noopener noreferrer">Story Map (63 passages)</a></em>
+<em><a href="/images/games/sand-dancer/10-Sand-Dancer-rainstorm-and-weather.png" target="_blank" rel="noopener noreferrer">Story Map (63 passages)</a></em>
 
 ## Phase 11: Sinister radio and temptation
 
@@ -243,10 +243,10 @@ Once the rain stops and the player is back in the office, they begin to hear a s
 
 ---
 
-<em><a href="/files/software/sand-dancer/11-Sand-Dancer-sinister-radio-temptation.html" target="_blank" rel="noopener noreferrer">Play phase 11</a></em> |
+<em><a href="/files/games/sand-dancer/11-Sand-Dancer-sinister-radio-temptation.html" target="_blank" rel="noopener noreferrer">Play phase 11</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/5bacb64/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/5bacb64" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/11-Sand-Dancer-sinister-radio-temptation.png" target="_blank" rel="noopener noreferrer">Story Map (65 passages)</a></em>
+<em><a href="/images/games/sand-dancer/11-Sand-Dancer-sinister-radio-temptation.png" target="_blank" rel="noopener noreferrer">Story Map (65 passages)</a></em>
 
 ## Phase 12: Coyote — chase, fight, and double memory trades
 
@@ -260,10 +260,10 @@ A separate commit (`ddb3171`) only repositioned story-map tiles once the spirit-
 
 ---
 
-<em><a href="/files/software/sand-dancer/12-Sand-Dancer-coyote.html" target="_blank" rel="noopener noreferrer">Play phase 12</a></em> |
+<em><a href="/files/games/sand-dancer/12-Sand-Dancer-coyote.html" target="_blank" rel="noopener noreferrer">Play phase 12</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/2c308df/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/2c308df" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/12-Sand-Dancer-coyote.png" target="_blank" rel="noopener noreferrer">Story Map (66 passages)</a></em>
+<em><a href="/images/games/sand-dancer/12-Sand-Dancer-coyote.png" target="_blank" rel="noopener noreferrer">Story Map (66 passages)</a></em>
 
 ## Phase 13: Sand-dancer — burial, plan choice, endings
 
@@ -281,10 +281,10 @@ At the end of the final trade, the player gets a passage describing the building
 
 ---
 
-<em><a href="/files/software/sand-dancer/13-Sand-Dancer-sand-dancer.html" target="_blank" rel="noopener noreferrer">Play phase 13</a></em> |
+<em><a href="/files/games/sand-dancer/13-Sand-Dancer-sand-dancer.html" target="_blank" rel="noopener noreferrer">Play phase 13</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/31cbaa4/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/commit/31cbaa4" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/13-Sand-Dancer-sand-dancer.png" target="_blank" rel="noopener noreferrer">Story Map (72 passages)</a></em>
+<em><a href="/images/games/sand-dancer/13-Sand-Dancer-sand-dancer.png" target="_blank" rel="noopener noreferrer">Story Map (72 passages)</a></em>
 
 ## Phase 14: Containers, guidebook pages, and bug fixes
 
@@ -306,14 +306,14 @@ I had played around with making actions be both more generic and extendable, the
 
 ---
 
-<em><a href="/files/software/sand-dancer/14-Sand-Dancer-last-details-and-bugs.html" target="_blank" rel="noopener noreferrer">Play phase 14</a></em> |
+<em><a href="/files/games/sand-dancer/14-Sand-Dancer-last-details-and-bugs.html" target="_blank" rel="noopener noreferrer">Play phase 14</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/blob/9767b9e/Sand-Dancer.twee" target="_blank" rel="noopener noreferrer">View code</a></em> |
 <em><a href="https://github.com/jgheithcock/sand-dancer/compare/31cbaa4...9767b9e" target="_blank" rel="noopener noreferrer">View diff</a></em> |
-<em><a href="/images/software/sand-dancer/14-Sand-Dancer-last-details-and-bugs.png" target="_blank" rel="noopener noreferrer">Story Map (75 passages)</a></em>
+<em><a href="/images/games/sand-dancer/14-Sand-Dancer-last-details-and-bugs.png" target="_blank" rel="noopener noreferrer">Story Map (75 passages)</a></em>
 
 *A last glimpse of the Twine Story card thumbnail showing the 75 passages. Darker colors indicate longer passages*
 
-<img src="/images/software/sand-dancer/sand-dancer-thumbnail.png" width="300" alt="75 colored bubbles for the 75 passages, larger passages have a darker bubble"/>
+<img src="/images/games/sand-dancer/sand-dancer-thumbnail.png" width="300" alt="75 colored bubbles for the 75 passages, larger passages have a darker bubble"/>
 
 ---
 

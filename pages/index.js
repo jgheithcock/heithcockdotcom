@@ -13,7 +13,7 @@ export default function Index({ heroPost, posts }) {
     <Layout>
       <Head>
         <title>The Curmudgeonly Codger</title>
-        <meta property="og:image" content={"/images/bob-the-guard.jpeg"} />
+        <meta property="og:image" content={"/images/44marauders.jpg"} />
         <meta name="description" content="JG Heithcock's website" />
       </Head>
       {/* <HeroPost {...heroPost} /> */}
