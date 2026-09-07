@@ -227,10 +227,13 @@ a.cloud::before {
   text-shadow: 0 0 1px rgb(177 109 85 / 85%);
 }
 
-/* Chrome links: header, nav, footer. Quiet ink-shadow, no smoke. */
+/* Chrome links: header, nav, footer, folder titles. Quiet ink-shadow, no smoke. */
 .chrome a,
 a.chrome {
   text-decoration: none;
+}
+section a.chrome {
+  font-weight: bold;
 }
 .chrome a:hover,
 .chrome a:focus,
