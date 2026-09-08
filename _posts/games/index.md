@@ -13,3 +13,4 @@ author:
 ogImage:
   url: "/images/games/christmas-page-turner-thumbnail.png"
 ---
+You can also play [The Last Christmas Present](https://www.44westwind.com/index.html), an Inform Interactive Fiction that [won Outstanding Feelies](https://ifdb.org/viewgame?id=tq8wrqw823fafohp) in the [2022 IFDB Awards](https://ifdb.org/viewcomp?id=bnr7jhz8vloti5ix).
