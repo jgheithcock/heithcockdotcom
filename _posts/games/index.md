@@ -1,9 +1,9 @@
 ---
 title: "Games"
-excerpt: "Games I've made"
+excerpt: "Games I've made."
 coverImage:
   src: "/images/games/christmas-page-turner-thumbnail.png"
-  alt: "Thumbnail of the Christmas Page Turner story in Twine"
+  alt: "Thumbnail of the Christmas Page Turner story in Twine."
   width: 834
   height: 842
 date: "2026-3-15"
