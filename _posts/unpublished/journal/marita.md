@@ -60,15 +60,15 @@ I packed and had my bags on the hearth and Mark had shown up around 10AM, with t
 
 I called up Suzy and told her what was going on and she said I should stay and said she would call and make arrangements with Southwest. Mom had woken up a bit then and said she needed to go to the bathroom. I was able to get her down the hall using her walker, though it was slow. I told her "Good news Mom, I'm going to be able to stay a while longer." and she looked up at me and said "Oh dear, is it that near." I told her that I was afraid so, and that I wasn't ready for it. She said "Me neither."
 
-I had been helping her more and more go to the bathroom, she doesn't have the strength to sit down and needs help getting ready to do so. As I was doing so, she said, "Well, this is a pits job" to me. I told her no, it was no big deal. Just sorry she wasn't able to do it herself. She said she was tired out and thought she would lay down a bit. Afterwards, when I got her back up and using her walker, she kind of made to go back to the living room but I persuaded her to lie down on the couch. Mark came in and we chatted for a bit and she said "I love you turkeys!"
+I had been helping her more and more go to the bathroom, she doesn't have the strength to sit down and needs help getting ready to do so. As I was doing so, she said, "Well, this is a pits job" to me. I told her no, it was no big deal. Just sorry she wasn't able to do it herself. She said she was tired out and thought she would lay down a bit. Afterwards, when I got her back up and using her walker, she kind of made to go back to the living room but I persuaded her to lie down on her bed. Mark came in and we chatted for a bit and she said "I love you turkeys!"
 
-I went back into the Den to let her sleep and Dad told me that when Mom was in high school, she saved her lunch money to buy him the Hamilton watch. He's winded it every day since (and had to replace the winding pin three times).
+I went back into the den to let her sleep and Dad told me that when Mom was in high school, she saved her lunch money to buy him the Hamilton watch. He's winded it every day since (and had to replace the winding pin three times).
 
 He says when she goes, he is going to stop it on that day and put it back in the case.
 
 Dad also told me his Dad died July the 8th and was buried on the 10th and his Mom died on March the 8th and was buried on the 10th.
 
-After a while, I went back to their bedroom and she was awake and looking like she was wanting to get up. She wanted to go to the Den, but when she got there she needed to go to the bathroom again. I finally got her back to the couch which is where she seems to be most comfortable.
+After a while, I went back to their bedroom and she was awake and looking like she was wanting to get up. She wanted to go to the den, but when she got there she needed to go to the bathroom again. I finally got her back to the couch which is where she seems to be most comfortable.
 
 I think this was the day that Murray and Troy came by. I was against it at first as Mom seemed so unresponsive and I didn't think she would really want to be seen in her condition but afterwards I was glad they had come and gotten to say their good byes. It is tough doing that - you don't actually say good bye but you do get to speak a bit from your heart.
 
