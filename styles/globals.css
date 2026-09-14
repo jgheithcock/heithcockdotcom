@@ -41,9 +41,15 @@ body {
   margin: .5em;
 }
 
-h1, h2 {margin:0}
+h1, h2, h3, h4 {margin:0}
 
 h2 {margin-top: 1em;}
+
+h3, h4 {margin-top: .5em;}
+
+p {margin-top: .5em;}
+
+section {break-inside: avoid;}
 
 .postPreview h2 {margin: 0}
 
@@ -259,7 +265,12 @@ a.chrome.active {
 }
 
 @media print {
-  .main header {
+  html,
+  body {
+    box-shadow: none !important;
+  }
+  .main header,
+  .main > div.chrome {
     display: none !important;
   }
 }

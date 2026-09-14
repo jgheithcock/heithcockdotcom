@@ -69,6 +69,9 @@
         rgba(0, 0, 0, 0.35) 0px 8px 12px -8px inset,
         rgba(0, 0, 0, 0.35) 0px 33px 40px -13px inset;
 }
+.printUrl {
+    display: none;
+}
 .folderList {
     display: flex;
     flex-flow: row wrap;
@@ -147,5 +150,20 @@ a.active .mapBorder {
     a:active img.mapBorder,
     a.active img.mapBorder {
       border-image: url(/images/marauders-border-caps-dark.png) 50 / 20px repeat !important;
+    }
+}
+
+@media print {
+    .footer {
+        box-shadow: none !important;
+        border-top: 1px solid rgb(78 15 11 / 33%) !important;
+        padding: 0.5em 1.5em 0;
+        text-align: center;
+    }
+    .footer p {
+        margin: 0.4em 0;
+    }
+    .printUrl {
+        display: inline;
     }
 }
