@@ -1,5 +1,6 @@
 ---
 title: "Games"
+listed: true
 excerpt: "Games I've made."
 coverImage:
   src: "/images/games/christmas-page-turner-thumbnail.png"

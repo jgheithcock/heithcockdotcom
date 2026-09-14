@@ -1,5 +1,6 @@
 ---
 title: "Woodworking"
+listed: true
 excerpt: "Converting a house into useful things."
 coverImage:
   src: "/images/woodworking/bookshelf/bookshelf-left-top.jpg"

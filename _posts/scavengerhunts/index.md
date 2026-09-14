@@ -1,5 +1,6 @@
 ---
 title: "Scavenger Hunts"
+listed: true
 excerpt: "The year after the fire, I made a Harry Potter themed scavenger hunt for my daughter for Christmas. Fourteen years later, I've made a lot of scavenger hunts."
 coverImage:
   src: "/images/scavengerhunts/2013-44-marauders/maraudersmap-44westwind.jpg"

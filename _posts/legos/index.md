@@ -1,5 +1,6 @@
 ---
 title: "Building the Lego Gringotts Bank"
+listed: true
 excerpt: "Where I learn that making stop-motion animation is kinda tricky."
 coverImage:
   src: "/images/legos/gringotts/bag-30.png"

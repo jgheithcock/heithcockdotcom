@@ -1,5 +1,6 @@
 ---
 title: "Paper Craft"
+listed: true
 excerpt: "Things I made from paper."
 coverImage:
   src: "/images/papercraft/advent-calendar/calendar-facing.jpg"

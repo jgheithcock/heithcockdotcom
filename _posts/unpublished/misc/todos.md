@@ -7,7 +7,6 @@ coverImage:
   width: 1400
   height: 1134
 date: "2024-01-15"
-publish: false
 author:
   name: JG Heithcock
   picture: "/images/44marauders.jpg"
