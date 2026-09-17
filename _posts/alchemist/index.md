@@ -2,17 +2,18 @@
 title: "The Alchemist's Starter Kit"
 excerpt: "A handbook to go with a collection of syrups, bitters and tinctures."
 coverImage:
-  src: "/images/alchemist/box.jpg"
+  src: "/images/alchemist/alchemists-auction.jpg"
   alt: "The Alchemist's Starter Kit"
-  width: 834
-  height: 842
+  width: 1000
+  height: 1282
 date_: "2026-9-13"
 author:
   name: JG Heithcock
   picture: "/assets/blog/authors/jg.jpeg"
 ogImage:
-  url: "images/alchemist/box.jpg"
+  url: "images/alchemist/alchemists-auction.jpg"
 ---
+<img src="/images/alchemist/alchemists-auction.jpg" class="mapBorder" alt="The finished Alchemist's Starter Kit, on display at the book club auction">
 <div>
 
 ## Contents
@@ -62,7 +63,7 @@ Simmer 7 ounces of dried fruit in 2 cups of water with 1 cup of sugar (and optio
 <section>
 
 #### Uses
-Aside from sweetening tea, makes a great [Zombie](#zombie)
+Aside from sweetening tea, makes a great [Zombie](#zombie).
 </section>
 
 ## Tinctures and Bitters
@@ -78,7 +79,7 @@ Use a vegetable peeler to shave a dozen lemons. Normally you would want to be ca
 
 #### Uses
 
-So many uses! Aside from [Instant Lemonade](#instant-lemonade), or just adding to anything in place of some lemon zest, you can also make my [Smoke and Embers](#smoke-and-embers)
+So many uses! Aside from [Instant Lemonade](#instant-lemonade), or just adding to anything in place of some lemon zest, you can also make my [Smoke and Embers](#smoke-and-embers).
 
 </section>
 
@@ -103,7 +104,6 @@ Can be used in place of regular Angostura bitters in general (try it in a Manhat
 
 #### To Make
 Fill jar with [lavender flowers](https://www.amazon.com/dp/B08X6T6B2G), cover with vodka. In a separate, smaller jar, make a tea of the bittering agents. You can use a wide variety of things but this one used: Burdock root, Barberry root, Black Walnut Leaf, Dried Orange Peel, Milk Thistle, Fringetree Bark and a small amount of Quassia. I made about half. Shake both daily for about a month. After decanting and filtering, add as much of the bitter tea as you want. To taste, have a small shot glass with some cold, but not ice cold water, add a tsp of the lavender increasing amounts of the bitter tea. (Confession: I added them all.)
-
 </section>
 <section>
 
