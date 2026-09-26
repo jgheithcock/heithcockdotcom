@@ -11,7 +11,8 @@ const Footer = () => {
     <footer className={`${styles.footer} chrome`}>
       <p>
         <span className={styles.printUrl}>heithcock.com{path} | </span>
-        Copyright © <Link href="/about">JG Heithcock</Link> {currentYear}
+        <Link href="/about">About</Link> | Copyright ©{" "}
+        <Link href="/about">JG Heithcock</Link> {currentYear}
       </p>
     </footer>
   );

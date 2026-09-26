@@ -22,6 +22,7 @@ To see my professional side, or contact me:
 - [LinkedIn](https://www.linkedin.com/in/jgheithcock/)
 - [GitHub](https://github.com/jgheithcock)
 - [jg@heithcock.com](mailto:jg@heithcock.com)
+- [Resume (pdf)](/files/resume-jg-heithcock.pdf)
 
 ## Colophon
 
