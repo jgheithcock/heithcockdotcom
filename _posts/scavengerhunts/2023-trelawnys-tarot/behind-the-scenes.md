@@ -50,7 +50,7 @@ Harry is our titular protagonist and so it was easy for him to play the fool. I 
 _Pamela Colman Smith's Fool_
 
 <a href="https://en.wikipedia.org/wiki/The_Fool_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/300px-RWS_Tarot_00_Fool.jpg" width="300px" alt="The Fool - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/00-The-Fool.png" width="300px" alt="The Fool - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -83,7 +83,7 @@ In the _Fool's Journey,_ the next four cards are frequently taken in pairs, with
 _Pamela Colman Smith's Magician_
 
 <a href="https://en.wikipedia.org/wiki/The_Magician_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/RWS_Tarot_01_Magician.jpg/300px-RWS_Tarot_01_Magician.jpg" width="300px" alt="The Magician - Pamela Colman Smith"/>
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/01-The-Magician.png" width="300px" alt="The Magician - Pamela Colman Smith"/>
 </a>
 </div>
 <div class="postPreview">
@@ -108,7 +108,7 @@ At first, I thought of using Professor McGonagal as the High Priestess. But McGo
 _Pamela Colman Smith's High Priestess_
 
 <a href="https://en.wikipedia.org/wiki/The_High_Priestess_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/300px-RWS_Tarot_02_High_Priestess.jpg" width="300px" alt="The High Priestess - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/02-The-High-Priestess.png" width="300px" alt="The High Priestess - Pamela Colman Smith" />
 </a>
 </div>
 <div class="postPreview">
@@ -139,7 +139,7 @@ Lily Potter was the clear choice for the Empress, but getting the art even passa
 _Pamela Colman Smith's Empress_
 
 <a href="https://en.wikipedia.org/wiki/The_Empress_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/RWS_Tarot_03_Empress.jpg/300px-RWS_Tarot_03_Empress.jpg" width="300px" alt="The Empress - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/03-The-Empress.png" width="300px" alt="The Empress - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -176,7 +176,7 @@ But in the end, I thought Hagrid's quote was best.
 _Pamela Colman Smith's Emperor_
 
 <a href="https://en.wikipedia.org/wiki/The_Emperor_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RWS_Tarot_04_Emperor.jpg/300px-RWS_Tarot_04_Emperor.jpg" width="300px" alt="The Emperor - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/04-The-Emperor.png" width="300px" alt="The Emperor - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -200,7 +200,7 @@ Another obvious choice was Dolores Umbridge as the Hierophant. The scene with he
 _Pamela Colman Smith's Hierophant_
 
 <a href="https://en.wikipedia.org/wiki/The_Hierophant">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RWS_Tarot_05_Hierophant.jpg/300px-RWS_Tarot_05_Hierophant.jpg" width="300px" alt="The Hierophant - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/05-The-Hierophant.png" width="300px" alt="The Hierophant - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -238,7 +238,7 @@ In any case, who else but Professor Lockhart for playing Cupid?
 _Pamela Colman Smith's the Lovers_
 
 <a href="https://en.wikipedia.org/wiki/The_Lovers">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg" width="300px" alt="The Lovers - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/06-The-Lovers.png" width="300px" alt="The Lovers - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -264,7 +264,7 @@ Once that was settled on, it seemed clear that Hedwig and Sirius in his transfig
 _Pamela Colman Smith's the Chariot_
 
 <a href="https://en.wikipedia.org/wiki/The_Chariot_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg" width="300px" alt="The Chariot - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/07-The-Chariot.png" width="300px" alt="The Chariot - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -288,13 +288,13 @@ It was clear to me from the beginning that Hagrid would play the part of Strengt
 _Pamela Colman Smith's Strength_
 
 <a href="https://en.wikipedia.org/wiki/Strength_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg" width="300px" alt="Strength - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/08-Strength.png" width="300px" alt="Strength - Pamela Colman Smith" />
 </a>
 </div>
 
 <div class="postPreview">
 
-_Hagrid is Strength_
+_Hagrid as Strength_
 
 <a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/08-strength.png">
   <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/08-strength.png" alt="Rubeus Hagrid as Strength" />
@@ -314,7 +314,7 @@ There are a fair few good choices for playing the Hermit if you only think of th
 _Pamela Colman Smith's The Hermit_
 
 <a href="https://en.wikipedia.org/wiki/The_Hermit_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RWS_Tarot_09_Hermit.jpg/300px-RWS_Tarot_09_Hermit.jpg"" alt="The Hermit - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/09-The-Hermit.png"" alt="The Hermit - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -357,7 +357,7 @@ _Alternative Quotes:_
 _Pamela Colman Smith's The Wheel of Fortune_
 
 <a href="https://en.wikipedia.org/wiki/Wheel_of_Fortune_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg" width="300px" alt="The Wheel of Fortune - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/10-Wheel-of-Fortune.png" width="300px" alt="The Wheel of Fortune - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -381,7 +381,7 @@ Another easy one. Who but Cornelius Fudge could best represent Justice---or the 
 _Pamela Colman Smith's Justice_
 
 <a href="https://en.wikipedia.org/wiki/Justice_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg" width="300px" alt="Justice - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/11-Justice.png" width="300px" alt="Justice - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -405,7 +405,7 @@ I went back and forth on this one quite a bit. On the one hand, Harry himself, b
 _Pamela Colman Smith's The Hanged Man_
 
 <a href="https://en.wikipedia.org/wiki/The_Hanged_Man_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg" width="300px" alt="The Hanged Man - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/12-The-Hanged-Man.png" width="300px" alt="The Hanged Man - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -437,7 +437,7 @@ I first thought about Voldemort---or a masked death eater. But as Dumbledore poi
 _Pamela Colman Smith's Death_
 
 <a href="https://en.wikipedia.org/wiki/Death_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg" width="300px" alt="Death - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/13-Death.png" width="300px" alt="Death - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -461,7 +461,7 @@ I think I was a bit flumuxed about Temperance. But the more I thought of it, the
 _Pamela Colman Smith's Temperance_
 
 <a href="https://en.wikipedia.org/wiki/Temperance_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg" width="300px" alt="Temperance - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/14-Temperance.png" width="300px" alt="Temperance - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -493,7 +493,7 @@ _Alternate Quotes:_
 _Pamela Colman Smith's The Devil_
 
 <a href="https://en.wikipedia.org/wiki/The_Devil_(tarot_card)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg" width="300px" alt="The Devil - Pamela Colman Smith" />
+    <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/15-The-Devil.png" width="300px" alt="The Devil - Pamela Colman Smith" />
   </a>
 </div>
 
@@ -517,16 +517,16 @@ The tower was the easiest choice of all of them. Trawlaney's quote really set al
 _Pamela Colman Smith's The Tower_
 
 <a href="https://en.wikipedia.org/wiki/The_Tower_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg" width="300px" alt="The Tower - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/16-The-Tower.png" width="300px" alt="The Tower - Pamela Colman Smith" />
 </a>
 </div>
 
 <div class="postPreview">
 
-_Horace Slughorn as The Tower_
+_The Astronomy Tower as The Tower_
 
 <a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png">
-  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png" alt="Horace Slughorn as The Tower" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/16-the-tower.png" alt="The Astronomy Tower as The Tower" />
 </a>
 </div>
 </div>
@@ -547,7 +547,7 @@ There was never a question as to who would play the part of the star. It was alw
 _Pamela Colman Smith's The Star_
 
 <a href="https://en.wikipedia.org/wiki/The_Star_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg" width="300px" alt="The Star - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/17-The-Star.png" width="300px" alt="The Star - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -571,7 +571,7 @@ Similarly, the moon was always going to be [Remus Lupin](https://harrypotter.fan
 _Pamela Colman Smith's The Moon_
 
 <a href="https://en.wikipedia.org/wiki/The_Moon_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg" width="300px" alt="The Moon - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/18-The-Moon.png" width="300px" alt="The Moon - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -595,7 +595,7 @@ I had wanted a much closer version to the [Rider-Waite deck](https://en.wikipedi
 _Pamela Colman Smith's The Sun_
 
 <a href="https://en.wikipedia.org/wiki/The_Sun_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg" width="300px" alt="The Sun - Pamela Colman Smith" width="300px"/>
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/19-The-Sun.png" width="300px" alt="The Sun - Pamela Colman Smith" width="300px"/>
 </a>
 </div>
 
@@ -623,7 +623,7 @@ Who better than Professor McGonagal to portray Judgement? That said, the art cou
 _Pamela Colman Smith's Judgement_
 
 <a href="https://en.wikipedia.org/wiki/Judgement_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg" width="300px" alt="Judgement - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/20-Judgement.png" width="300px" alt="Judgement - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -647,7 +647,7 @@ Only if you let me skate by on the Lovers and insist that it is Professor Lockha
 _Pamela Colman Smith's The World_
 
 <a href="https://en.wikipedia.org/wiki/The_World_(tarot_card)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg" width="300px" alt="The World - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/21-The-World.png" width="300px" alt="The World - Pamela Colman Smith" />
 </a>
 </div>
 
@@ -671,7 +671,7 @@ The final card, tucked into the ribbons of the present with some last miscelaneo
 _Pamela Colman Smith's the Knight of Swords_
 
 <a href="https://en.wikipedia.org/wiki/The_Knight_of_Swords">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg" width="300px" alt="The World - Pamela Colman Smith" />
+  <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/Knight-of-Swords.png" width="300px" alt="The Knight of Swords" />
 </a>
 </div>
 

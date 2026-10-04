@@ -14,9 +14,11 @@ ogImage:
   url: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-and-the-magician.png"
 ---
 
-My daughter and I have both found Tarot cards and card reading fun and so I
+My daughter and I have found Tarot cards and card reading fun and so I
 thought "What if Hermione had made notes from Trawlawney's class on Tarot cards?
-After all, she was surprisingly accurate there. What would that look like?"
+After all, Tralawny was surprisingly accurate in Harry Potter and the Half-Blood Prince.[^0] What would that look like?"
+
+[^0]: “Two of spades: conflict,’ she murmured, as she passed the place where Harry crouched, hidden. ‘Seven of spades: an ill omen. Ten of spades: violence. Knave of spades: a dark young man, possibly troubled, one who dislikes the questioner –’<br/>She stopped dead, right on the other side of Harry’s statue.<br/>‘Well, that can’t be right,’ she said, annoyed, and Harry heard her reshuffling vigorously as she set off again, leaving nothing but a whiff of cooking sherry behind her.” - _Harry Potter and the Half-Blood Prince_
 
 In the box is a letter from Hermione...
 
@@ -66,6 +68,7 @@ Also in the box was page one of Hermione's notes...
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Fool_(tarot_card)">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/300px-RWS_Tarot_00_Fool.jpg" alt="The Fool - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/00-The-Fool.png" width="300" style="max-width:inherit" alt="The Fool - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -112,7 +115,7 @@ The second page of the notes covered the next two cards in the Major Arcana, the
 <div class="tarot" aria-label="Notes on the Magician">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Magician_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/RWS_Tarot_01_Magician.jpg/300px-RWS_Tarot_01_Magician.jpg" alt="The Magician - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/01-The-Magician.png" width="300" style="max-width:inherit" alt="The Magician - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -133,7 +136,7 @@ Hajo Banzhaf, in _Tarot and the Journey of the Hero_, considers the Magician and
 <div class="tarot" aria-label="Notes on the High Priestess">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_High_Priestess_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/300px-RWS_Tarot_02_High_Priestess.jpg" alt="The High Priestess - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/02-The-High-Priestess.png" width="300" style="max-width:inherit" alt="The High Priestess - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -186,7 +189,7 @@ The next page of the notes were for three cards this time...
 <div class="tarot" aria-label="Notes on the Empress">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Empress_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/RWS_Tarot_03_Empress.jpg/300px-RWS_Tarot_03_Empress.jpg" alt="The Empress - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/03-The-Empress.png" width="300" style="max-width:inherit" alt="The Empress - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -205,7 +208,7 @@ Historically, the Empress, aside from being seen as the ultimate mother-figure, 
 <div class="tarot" aria-label="Notes on the Emperor">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Emperor_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RWS_Tarot_04_Emperor.jpg/300px-RWS_Tarot_04_Emperor.jpg" alt="The Emperor - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/04-The-Emperor.png" width="300" style="max-width:inherit" alt="The Emperor - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -228,7 +231,7 @@ The red robes symbolize the creative fire. The orb in his left hand, his royal a
 <div class="tarot" aria-label="Notes on the Hierophant">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Hierophant">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/RWS_Tarot_05_Hierophant.jpg/300px-RWS_Tarot_05_Hierophant.jpg" alt="The Emperor - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/05-The-Hierophant.png" width="300" style="max-width:inherit" alt="The Emperor - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -298,7 +301,7 @@ The next page of notes were for four cards this time...
 <div class="tarot" aria-label="Notes on the Lovers">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Lovers">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg" alt="The Lovers - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/06-The-Lovers.png" width="300" style="max-width:inherit" alt="The Lovers - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -317,7 +320,7 @@ As with many cards in the Tarot, there is a simple face-value representation to 
 <div class="tarot" aria-label="Notes on the Chariot">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Chariot_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg" alt="The Chariot - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/07-The-Chariot.png" width="300" style="max-width:inherit" alt="The Chariot - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -336,7 +339,7 @@ Representing both the ability of movement as well as the desire, one of the freq
 <div class="tarot" aria-label="Notes on Strength">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/Strength_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/RWS_Tarot_08_Strength.jpg" alt="Strength - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/08-Strength.png" width="300" style="max-width:inherit" alt="Strength - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -355,7 +358,7 @@ Strength is clearly needed, but it is notable that the art for Waite-Smith is a 
 <div class="tarot" aria-label="Notes on the Hermit">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Hermit_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RWS_Tarot_09_Hermit.jpg/300px-RWS_Tarot_09_Hermit.jpg"" alt="The Hermit - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/09-The-Hermit.png" width="300" style="max-width:inherit" alt="The Hermit - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -430,7 +433,7 @@ The next set of notes were for the three cards...
 <div class="tarot" aria-label="Notes on the Wheel of Fortune">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/Wheel_of_Fortune_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg" alt="The Wheel of Fortune - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/10-Wheel-of-Fortune.png" width="300" style="max-width:inherit" alt="Wheel of Fortune - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -449,7 +452,7 @@ A reminder that, regardless of what decisions we make, or our preparedness, adve
 <div class="tarot" aria-label="Notes on Justice">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/Justice_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg" alt="Justice - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/11-Justice.png" width="300" style="max-width:inherit" alt="Justice - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -468,7 +471,7 @@ I think the Justice card has many parallels to the Hierophant. Both cards espous
 <div class="tarot" aria-label="Notes on The Hanged Man">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Hanged_Man_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg" alt="The Hanged Man - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/12-The-Hanged-Man.png" width="300" style="max-width:inherit" alt="The Hanged Man - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -526,7 +529,7 @@ The next set of the notes were for four of the more well known Tarot cards...
 <div class="tarot" aria-label="Notes on Death">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/Death_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg" alt="Death - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/13-Death.png" width="300" style="max-width:inherit" alt="Death - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -547,7 +550,7 @@ The white rose on the flag is traditionally a symbol of light, innocence and reb
 <div class="tarot" aria-label="Notes on Temperance">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/Temperance_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg" alt="Temperance - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/14-Temperance.png" width="300" style="max-width:inherit" alt="Temperance - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -570,7 +573,7 @@ This card, aside from the face-value, is a reminder of the importance of moderat
 <div class="tarot" aria-label="Notes on The Devil">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Devil_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg" alt="The Devil - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/15-The-Devil.png" width="300" style="max-width:inherit" alt="The Devil - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -589,7 +592,7 @@ The Devil is less about a supernatural evil, but more the opposite figure of the
 <div class="tarot" aria-label="Notes on The Tower">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Tower_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg" alt="The Tower - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/16-The-Tower.png" width="300" style="max-width:inherit" alt="The Tower - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -655,7 +658,7 @@ The next set of the notes were for the three celestial cards...
 <div class="tarot" aria-label="Notes on The Star">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Star_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg" alt="The Star - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/17-The-Star.png" width="300" style="max-width:inherit" alt="The Star - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -676,7 +679,7 @@ The stars have been used as a navigation aid in earliest known history. Seeing s
 <div class="tarot" aria-label="Notes on The Moon">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Moon_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg" alt="The Moon - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/18-The-Moon.png" width="300" style="max-width:inherit" alt="The Moon - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -695,7 +698,7 @@ The moon, while it does illuminate the night, changes our perceptions and create
 <div class="tarot" aria-label="Notes on The Sun">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Sun_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg" alt="The Sun - Pamela Colman Smith" width="300px"/>
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/19-The-Sun.png" width="300" style="max-width:inherit" alt="The Sun - Pamela Colman Smith" width="300px"/>
     </a>
   </div>
   <div class="notes">
@@ -757,7 +760,7 @@ The last page of notes on the Major Arcana were...
 <div class="tarot" aria-label="Notes on Judgement">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/Judgement_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg" alt="Judgement - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/20-Judgement.png" width="300" style="max-width:inherit" alt="Judgement - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -776,7 +779,7 @@ For most individuals living at the time of the creation of the Tarot, the Judgem
 <div class="tarot" aria-label="Notes on The World">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_World_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg" alt="The World - Pamela Colman Smith" />
+      <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/21-The-World.png" width="300" style="max-width:inherit" alt="The World - Pamela Colman Smith" />
     </a>
   </div>
   <div class="notes">
@@ -845,10 +848,10 @@ So one final clue, leading to searching her grandmother Sharlee's place. And her
 <img src="/images/scavengerhunts/2023-trelawnys-tarot/the-wrapped-present.jpg" alt="The wrapped present" class="mapBorder" />
 </a>
 
-On the present was the [Knight of Swords](https://en.wikipedia.org/wiki/Knight_of_Swords), but with Ginny as the knight.
+On the present was the [Knight of Swords](https://en.wikipedia.org/wiki/Knight_of_Swords) (aka, the Knave of Spades), but with my daughter as the knight.
 
 <a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png">
-<img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png" alt="Ginny as the Knight of Swords" class="mapBorder" />
+<img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/knight-of-swords.png" alt="Morgan as the Knight of Swords" class="mapBorder" />
 </a>
 
 And inside, a pillow that Sharlee had embroidered once before - long before the fire. This was a recreation with some detective work on my part and my wife's assistance - and a lot of work on Sharlee's part - again! (So it was very appropriate for it to be found at Sharlee's!)

@@ -336,6 +336,9 @@ a.chrome.active {
 .four-across .postPreview {
   width: 25%;
 }
+.four-across img, .four-across .clue {
+  width: calc(1000px / 4);
+}
 
 .postPreview video,
 .mapBorder {
@@ -385,8 +388,11 @@ div.clue {
   overflow: hidden;
   width: 300px;
   text-align: center;
-  font-size:2.5em;
+  font-size:2em;
   text-wrap: nowrap;
+}
+.three-across div.clue {
+  font-size:2.5em;
 }
 div.top.clue {
   height: .63em;
