@@ -704,3 +704,5 @@ But my wife convinced me to go for a more interesting back, one that evoked the 
 <a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-moons.png">
   <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-moons.png" alt="Moons back" />
 </a>
+
+[RWS tarot card images from https://commons.wikimedia.org/w/index.php?title=Special%3AContributions&target=YarnSpinnerTool&namespace=all&tagfilter=&newOnly=1&hideMinor=1&start=&end=&limit=500]: #

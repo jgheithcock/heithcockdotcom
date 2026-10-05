@@ -67,7 +67,6 @@ Also in the box was page one of Hermione's notes...
 <div class="tarot" aria-label="Notes on the fool">
   <div class="card">
     <a href="https://en.wikipedia.org/wiki/The_Fool_(tarot_card)">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RWS_Tarot_00_Fool.jpg/300px-RWS_Tarot_00_Fool.jpg" alt="The Fool - Pamela Colman Smith" />
       <img src="/images/scavengerhunts/2023-trelawnys-tarot/rws/00-The-Fool.png" width="300" style="max-width:inherit" alt="The Fool - Pamela Colman Smith" />
     </a>
   </div>
