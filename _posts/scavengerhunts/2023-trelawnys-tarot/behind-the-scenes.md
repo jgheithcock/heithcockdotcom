@@ -14,33 +14,32 @@ ogImage:
   url: "/images/scavengerhunts/2023-trelawnys-tarot/the-fool-compared.png"
 ---
 
-Behind the scenes
------------------
+# Behind the scenes
 
 As with so many, this hunt went through a fair few changes. I first thought I would have a Celtic Cross, but then realized it would be very challenging to "force" the next card. It was a fortunate moment to remember [Eden Gray's](https://en.wikipedia.org/wiki/Eden_Gray) "The Fool's Journey" - very much derived from Joseph Campbell's 1949 [The Hero with a Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces).
 
-The question remained, how to layout the final clue pointing to Sharlee's side of the house? There are a fair few ways of dividing out the 22 cards, 21 if we exclude the fool. Twenty-one is good as it divides evenly by 7 - one group of three cards for each clue. But that worked poorly for thematic reasons and so I came up with something that visually looked good and still kept a theme.
+The question remained, how to layout the final clue pointing to Sharlee's side of the house? There are a fair few ways of dividing out the 22 cards, 21 if we exclude the fool. Twenty-one is good as it divides evenly by 7 - one group of three cards for each clue. But that worked poorly for thematic reasons and so I came up with something that visually looked good and still kept the theme frome Eden Gray:
+
+- Self
+- Role Models
+- Parental Figures
+- Individuation
+- Integration
+- Outcomes
+- Enlightenment
+- Endings
 
 I also decided, as a stretch goal, to attempt to make custom Tarot cards, with appropriate characters from Harry Potter and, if possible, only use each character once. Each set of notes would cover some group of the Major Arcana, when you deciphered the end clue and found the next set of notes, you would also get the Harry Potter version of those cards (with the half clues at the top and bottom).
 
 For these custom cards, my first thought was to take line drawings of Colman Smith's art and modify them to be Harry Potter characters. This proved far too much for my artistic abilities and, in the end, I created these blending generative AI, found art, and heavy use of Photoshop.
 
-<!--
-Self
-Role Models
-Parental Figures
-Individuation
-Integration
-Outcomes
-Enlightenment
-Endings
--->
+## Contents
 
-### From birth to adolescence
+## From birth to adolescence
 
 The first stage is the _self_.
 
-#### The Fool
+### The Fool
 
 Harry is our titular protagonist and so it was easy for him to play the fool. I was very happy with the way the art came out. This is not Harry at the end of the series, to be clear, but Harry from chapter five of _Harry Potter and the Philosopher's Stone_, saying to himself "It was a dream..."
 
@@ -68,7 +67,7 @@ _Harry Potter as the Fool_
 
 The Magician and the High Priestess form the _role models_ for our fool.
 
-#### The Magician
+### The Magician
 
 Dumbledore was the clear choice for the Magician. Aside from being "the greatest wizard in the world", Dumbledore is the preeminent role model for Harry. There were a number of happy accidents with this version of Dumbledore as the Magician. Outdoors with the same "As above, so below" pose. Flowers at his feet and green leaves above. Additionally, I like that Dumbledore has two wands, the Elder Wand, in use, and his previous wand, never mentioned explicitly in the book, hangs down by his side, unused but present.
 
@@ -96,7 +95,7 @@ _Dumbledore as the Magician_
 </div>
 </div>
 
-#### The High Priestess
+### The High Priestess
 
 At first, I thought of using Professor McGonagal as the High Priestess. But McGonagal really isn't the keeper of secret knowledge and isn't really a role model to Harry - we never even see a teacher-student relationship with McGonagal and Harry. But Harry learns quite a good deal from Professor Snape. "Well,’ said Hermione, ‘I thought he sounded a bit like you." [^4] Harry learns Potions from Snape. "Just shove a bezoar down their throats." [^4]
 
@@ -125,7 +124,7 @@ _Snape as the High Priestess_
 
 The Empress, the Emperor and the Hierophant are the _Parental Figures_ of our fool.
 
-#### The Empress
+### The Empress
 
 Lily Potter was the clear choice for the Empress, but getting the art even passable was a challenge. The full quote is _"She had a way of seeing the beauty in others, even and, perhaps, most especially, when that person could not see it in themselves."_ [^5] Some others I looked at were _"We never left"_ [^6] and _"What magic is this?"_ [^7] (Professor Quirrell)
 
@@ -153,7 +152,7 @@ _Lily Potter as the Empress_
 </div>
 </div>
 
-#### The Emperor
+### The Emperor
 
 Similarly, James Potter was the clear choice for the Emperor, the challenge here was finding a good quote. I think part of my challenge is that James Potter isn't a particularly sympathetic character to me. The few times we get to see him as he lived frankly do not cast him in the very best light. Some other alternate quotes were:
 
@@ -190,7 +189,7 @@ _James Potter as the Emperor_
 </div>
 </div>
 
-#### The Hierophant
+### The Hierophant
 
 Another obvious choice was Dolores Umbridge as the Hierophant. The scene with her sitting on Dumbledore's throne in _the Order of the Phoenix_ just so perfectly captures her.
 
@@ -216,13 +215,13 @@ _Dolores Umbridge as the Hierophant_
 
 <hr/>
 
-### From adolescence to adulthood
+## From adolescence to adulthood
 
 The hero, our fool, leaves childhood and starts "growing up".
 
 The first stage is _individuation_---developing relationships, their own will, empathy and introspection.
 
-#### The Lovers
+### The Lovers
 
 There were a number of couples that could have been on this card - Harry & Cho Chang, Ron & Hermione, Ron & Lavender. But as this is Harry's journey, Harry & Ginny are the clear choice. Likewise, there were a lot of relevant quotes---
 
@@ -252,7 +251,7 @@ _Professor Lockhart as Cupid_
 </div>
 </div>
 
-#### The Chariot
+### The Chariot
 
 For Harry, perhaps the more obvious chariot would have been his broom---or even the [Weasley's Ford Anglia](https://harrypotter.fandom.com/wiki/Flying_Ford_Anglia). But it was Sirus's motorcycle that took him to the Dursleys' and then, sixteen years later, permanently away from the muggle world.
 
@@ -278,7 +277,7 @@ _Sirius's Motorcycle as the Chariot_
 </div>
 </div>
 
-#### Strength
+### Strength
 
 It was clear to me from the beginning that Hagrid would play the part of Strength. Hagrid embodies all of the great concepts in Waite and other's interpretation of Strength---tempered by empathy.
 
@@ -302,7 +301,7 @@ _Hagrid as Strength_
 </div>
 </div>
 
-#### The Hermit
+### The Hermit
 
 There are a fair few good choices for playing the Hermit if you only think of them as a loner. But the hermit was originally time---and its affects. In the 17th century the art changed to give the appearance of the subject searching for something "like Diogenes searching for an honest man."[^10] It is in this light that I think [Mad-Eye Moody](https://harrypotter.fandom.com/wiki/Alastor_Moody) fits well. An old soldier, having suffered the ravages of battle, still holds his own internal light and continues to be unceasingly vigilant.
 
@@ -332,7 +331,7 @@ _Mad-Eye Moody as the Hermit_
 
 After individuation, the fool now must look at how they will fit into the world, _integration_.
 
-#### Wheel of Fortune
+### Wheel of Fortune
 
 I'll be honest, this one is a bit of a reach. I think it works, but it is not as clear cut. Weasleys' Wizard Wheezes at least fit in that one might be stepping along, high, wide and plentiful, then come across a [canary cream](https://harrypotter.fandom.com/wiki/Canary_Cream) and come a purler. The wheel of fortune at work.
 
@@ -346,7 +345,7 @@ The items in the corners, replacing the [four evangelists](https://en.wikipedia.
 _Alternative Quotes:_
 
 > "The thing about growing up with Fred and George, is that you sort of start thinking anything’s possible if you’ve got enough nerve."<br/>
-> "I've Always Felt Our Futures Lay Outside The World Of Academic Achievement"<br/>
+> "I've always felt our futures lay outside the world of academic achievement"<br/>
 > "I could do with a few laughs."<br/>
 > "More Magical Mayhem"<br/>
 > "I solemnly swear that I am up to no good."<br/>
@@ -371,7 +370,7 @@ _Weasleys' Wizard Wheezes as the Wheel of Fortune_
 </div>
 </div>
 
-#### Justice
+### Justice
 
 Another easy one. Who but Cornelius Fudge could best represent Justice---or the lack thereof?
 
@@ -395,7 +394,7 @@ _Cornelius Fudge as Justice_
 </div>
 </div>
 
-#### The Hanged Man
+### The Hanged Man
 
 I went back and forth on this one quite a bit. On the one hand, Harry himself, both as the hero as well as what he goes through, is a great candidate for the hanged man and, in the end, I used the "Undesirable No. 1" quote to illustrate the card. But the hanged man is also about betrayal and traitorous behavior. And that really called out [Peter Pettigrew](https://harrypotter.fandom.com/wiki/Peter_Pettigrew). Not duplicating characters was also a consideration and so I went with Peter. If you can't tell, this is a heavily modified picture of Peter Pettigrew as a [Lego mini-fig](<https://brickset.com/minifigs/hp196/peter-pettigrew-(wormtail)-black-suit-light-bluish-gray-right-hand>).
 
@@ -421,13 +420,13 @@ _Peter Pettigrew as The Hanged Man_
 
 <hr/>
 
-### Beyond Adulthood, Outcomes and Enlightenment
+## Beyond Adulthood, Outcomes and Enlightenment
 
 At this point in the Fool's journey, the hero has gotten a grip on things sufficently, but now faces more serious outcomes and challenges before hopefully experiencing enlightenment and final conclusions.
 
 The next phase is one of _outcomes_.
 
-#### Death
+### Death
 
 I first thought about Voldemort---or a masked death eater. But as Dumbledore points out, Voldemort fears death. And so [Thestrals](https://harrypotter.fandom.com/wiki/Thestral) came to mind. "The only people who can see Thestrals, are people who have seen death." And this card is very much about accepting death.
 
@@ -451,7 +450,7 @@ _A Thestral as Death_
 </div>
 </div>
 
-#### Temperance
+### Temperance
 
 I think I was a bit flumuxed about Temperance. But the more I thought of it, the more Hermione seems to be a perfect avatar for moderation, management and balance. As an alternate quote I thought of _"I am afraid I counted on Miss Granger to slow you up, Harry."_ but decided to go more with the action than the avatar. I also had a number of other art sources that would have fit the visual theme better, but this was the best Hermione I could come up with.
 
@@ -475,7 +474,7 @@ _Hermione as Temperance_
 </div>
 </div>
 
-#### The Devil
+### The Devil
 
 The Devil, as interpreted by Waite, Gray, and others, is less about evil and more about the opposite of Temperance. And so it occured to me that the over-fondness Horace Slughorn has to material comforts (and crystalised pineapple) would make him well suited for this role. The figures below are Ron and Lavender Brown.
 
@@ -507,7 +506,7 @@ _Horace Slughorn as The Devil_
 </div>
 </div>
 
-#### The Tower
+### The Tower
 
 The tower was the easiest choice of all of them. Trawlaney's quote really set all of this up and then the visual image of the Dark Mark over the [Astronomy Tower](https://harrypotter.fandom.com/wiki/Astronomy_Tower). It is only at this point that we can see that it is, indeed, all up to Harry.
 
@@ -535,7 +534,7 @@ _The Astronomy Tower as The Tower_
 
 Having faced death, the balance between moderation and immoderation, as well as radical changes, the next phase is _enlightenment_.
 
-#### The Star
+### The Star
 
 There was never a question as to who would play the part of the star. It was always going to be Luna Lovegood, with her quirky, yet uncomfortably accurate, exposition of the world. The star Tarot card has always been a bit of a mixed set of imagery. "This frees us to project our favorite myths onto the Star image."[^11]
 
@@ -561,7 +560,7 @@ _Luna Lovegood as The Star_
 </div>
 </div>
 
-#### The Moon
+### The Moon
 
 Similarly, the moon was always going to be [Remus Lupin](https://harrypotter.fandom.com/wiki/Remus_Lupin). As the Moon Tarot card has had two creatures howling at the moon, who would be a better companion than Sirius?
 
@@ -585,7 +584,7 @@ _Remus Lupin as The Moon_
 </div>
 </div>
 
-#### The Sun
+### The Sun
 
 I had wanted a much closer version to the [Rider-Waite deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_Tarot), with Luna's father, [Xenophilius Lovegood](https://harrypotter.fandom.com/wiki/Xenophilius_Lovegood) as the 'babe' astride the horse. But when I got this sun-centric version, I realized it was a great tie-in to the ultimate present and so let it ride.
 
@@ -613,7 +612,7 @@ _<s>Xenophilius Lovegood</s>The Sun as The Sun_
 
 Our last phase is _endings_, for good or bad.
 
-#### Judgement
+### Judgement
 
 Who better than Professor McGonagal to portray Judgement? That said, the art could be better...
 
@@ -637,9 +636,9 @@ _Professor McGonagal as Judgement_
 </div>
 </div>
 
-#### The World
+### The World
 
-Only if you let me skate by on the Lovers and insist that it is Professor Lockhart, as Cupid, that is the avatar for the Lovers, do I get to say I didn't repeat anyone. In any case, who else but Ginny can be the avatar for Harry as _the World_. I did have a couple of good quotes, one from Luna: "I think the anser is that a circle has no beginning." and the other, the final lines of the series: "All was well."
+Only if you let me skate by on the Lovers and insist that it is Professor Lockhart, as Cupid, that is the avatar for the Lovers, do I get to say I didn't repeat anyone. In any case, who else but Ginny can be the avatar for Harry as _the World_. I did have a couple of good quotes, one from Luna: "I think the answer is that a circle has no beginning." and the other, the final lines of the series: "All was well."
 
 <div class="folderList">
 <div class="postPreview">
@@ -661,7 +660,7 @@ _Ginny Weasley as The World_
 </div>
 </div>
 
-#### Knight of Swords
+### Knight of Swords
 
 The final card, tucked into the ribbons of the present with some last miscelaneous notes, was of the Knight of Swords, which is the card I would pick to represent my daughter.
 
@@ -685,7 +684,7 @@ _My daughter as the Knight of Swords_
 </div>
 </div>
 
-#### Backs
+## Backs
 
 I was initially going to have a simple pattern of repeated alchemical symbols for fire (🜂), water (🜄), earth (🜃) and air (🜁) but that looked overly simplistic...
 
@@ -699,10 +698,47 @@ I was then going to use more interesting symbols, for the moon, star, sun and ea
   <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-sun-moon-earth-star.png" alt="Sun, moon, earth and star back" />
 </a>
 
-But my wife convinced me to go for a more interesting back, one that evoked the [dueling table](https://www.pinterest.com/pin/289637819766509184/) and, lets face it, looked cooler. And so I modified an image from [VectorStock.com image](vectorstock.com/47230429) to change the color scheme and extend it to fit the traditional Tarot card dimension (2.75" x 4.75")....
+But my wife convinced me to go for a more interesting back, one that evoked the [dueling table](https://www.pinterest.com/pin/289637819766509184/) and, lets face it, looked cooler. And so I modified an image from [VectorStock.com image](https://vectorstock.com/47230429) to change the color scheme and extend it to fit the traditional Tarot card dimension (2.75" x 4.75")....
 
 <a href="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-moons.png">
   <img src="/images/scavengerhunts/2023-trelawnys-tarot/cards/back-moons.png" alt="Moons back" />
 </a>
 
 [RWS tarot card images from https://commons.wikimedia.org/w/index.php?title=Special%3AContributions&target=YarnSpinnerTool&namespace=all&tagfilter=&newOnly=1&hideMinor=1&start=&end=&limit=500]: #
+
+
+## Background information on the suits
+
+I did a bit of research initially into the Tarot suits that didn't get used in the actual hunt but include my notes here for posterity.
+
+The suits have traditionally been aligned with the four classical alchemical elements: fire (🜂), water (🜄), earth (🜃) and air (🜁). The four humours, choleric, phlegmatic, melancholic and sanguine are thus also associated with the suits.
+
+### Wands
+
+In Waite-Smith's Tarot, the wands are always in leaf, emphasizing the connection to life and growth. The King, Knight and Page have a motif of Salamanders, a symbol of fire but also representing protection from fire, immortality & rebirth. The King has a salamander on the plinth of his throne. Both the King and Queen of Wands have lions decorating their thrones. The Queen of Wands has a sunflower as a scepter. She also has a black cat. Eden Gray identifies Wands as the suit of the laborers. Fire (🜂), symbolic of energy, enthusiasm and passion, is associated with Wands. Fire can also be unpredictable, out of control and destructive and those signs also come with this suit. Oddly, Eden Gray associated Wands with a sanguine temperament, but Fire is choleric, hot and dry, and this seems a better fit for Wands.
+
+### Cups
+
+Cups have been symbolic of both water and emotion. Aside from the natural symbolism of water (being fluid), water also is used to represent emotions and the subconscious mind. There is a fish in both the King and Page of Cups and the Queen and Knight have fish decorating their crown and clothing, respectively. Gray identifies Cups as the suit of the priests. Water (🜄) is associated with the phlegmatic temperament, being cold and wet. There are many happy cards in the suit of cups, but also a few showing rejection or dismissal of one's success, or illusions blinding us to reality.
+
+### Pentacles (Coins)
+
+Pentacles are the earth suit and represent both money but also things that come from the earth. The King of Pentacles has a castle in the background. The Bull, symbolic of strength, stolidity and determination, is the animal that decorates many of the Pentacle court cards as well as greenery. Pentacles are the the suit of the merchants according to Eden Gray. Earth (🜃) is associated with a melancholic temperament, with a cold, dry nature.
+
+### Swords
+
+Swords are the air suit, and represent the expression of will and human invention. It can be seen as a positive aspect of boldness and courage, but also strife and misfortune. Clouds, birds and butterflies decorate the court cards and clouds decorate the livery of the Queen and Knight. Eden Gray unsurprisingly calls Swords the suit of the warriors. Air (🜁) is associated with a sanguine or optimistic temperament, with a warm, wet nature.
+
+### Correlation of the suits to the houses at Hogwarts
+
+Given the recurrence of the number four in so many theories, I thought it would be entertaining, if not useful to form a chart lining these attributes up, finishing off with what seems to me to be the best fit for each house at Hogwarts:
+
+|                                                                                           | Wands                 | Cups         | Pentacles    | Swords      |
+| ----------------------------------------------------------------------------------------- | :-------------------- | :----------- | :----------- | :---------- |
+| [Element](https://en.wikipedia.org/wiki/Classical_element)                                | Fire (🜂)              | Water (🜄)    | Earth (🜃)    | Air (🜁)     |
+| [Qualities](https://en.wikipedia.org/wiki/Classical_element#Aristotle)                    | Hot and Dry           | Cold and Wet | Cold and Dry | Hot and Wet |
+| [Season](https://en.wikipedia.org/wiki/Humorism#Unification_with_Empedocles's_model)      | Summer                | Autumn       | Winter       | Spring      |
+| [Humour](https://en.wikipedia.org/wiki/Classical_element#Humorism_(Hippocrates))          | Yellow Bile           | Phlegm       | Black Bile   | Blood       |
+| [Temperament](https://en.wikipedia.org/wiki/Humorism#Unification_with_Empedocles's_model) | Choleric              | Phlegmatic   | Melancholic  | Sanguine    |
+| **Animals**                                                                               | Lion, Salamander, Cat | Fish         | Bull         | Birds       |
+| **House**                                                                                 | Gryffindor            | Slytherin    | Hufflepuff   | Ravenclaw   |

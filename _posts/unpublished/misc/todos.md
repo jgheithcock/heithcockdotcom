@@ -92,7 +92,7 @@ Here is my preamble paragraph, but I could really place the TOC anywhere! Lorem 
 toc::[]
 ```
 
-Looks like there is a plugin already: [remark-toc](https://github.com/remarkjs/remark-toc). This seems exactly what the Doctor ordered as you can control the depth and also it is just markdown for where to put the contents.
+For Markdown, use [remark-toc](https://github.com/remarkjs/remark-toc). This seems exactly what the Doctor ordered as you can control the depth and also it is just markdown for where to put the contents. (Use `## Contents` where you wish to have the toc)
 
 ### Footnotes
 
